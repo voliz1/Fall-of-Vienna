@@ -1,0 +1,8 @@
+owner = PLC
+controller = PLC
+add_core = PLC
+add_core = UBD
+add_core = RUS
+add_core = LIT
+trade_goods = cattle
+life_rating = 35

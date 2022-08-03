@@ -1,0 +1,7 @@
+name = "Fall of Vienna"
+path = "mod/FoV"
+user_dir = "FoV"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "gfx"
