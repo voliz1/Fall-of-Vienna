@@ -189,6 +189,13 @@ PZN		= "countries/Poznan.txt"
 SLS		= "countries/Silesia.txt"
 WES		= "countries/Westfalen.txt"
 
+BAY		= "countries/Bayreuth.txt"
+WRZ		= "countries/Wurzburg.txt"
+NRN		= "countries/Nurnberg.txt"
+ULM		= "countries/Ulm.txt"
+ESS		= "countries/Essen.txt"
+BRG		= "countries/Berg.txt"
+
 #Russia
 AKH		= "countries/Astrakhan.txt"
 ALT		= "countries/Altai Republic.txt"
