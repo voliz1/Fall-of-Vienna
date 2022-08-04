@@ -3,6 +3,7 @@ primary_culture = swedish
 culture = finnish
 culture = norwegian
 culture = danish
+culture = icelandic
 religion = protestant
 government = hms_government
 plurality = 0.05
@@ -55,7 +56,7 @@ upper_house = {
 }
 
 #GreaterPowers = prestige
-prestige = 90
+prestige = 72
 
 # Technologies
 post_napoleonic_thought = 1
