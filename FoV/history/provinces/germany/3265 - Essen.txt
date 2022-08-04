@@ -1,0 +1,7 @@
+owner = ESS
+controller = ESS
+add_core = ESS
+add_core = GER
+trade_goods = iron
+life_rating = 40
+terrain = essen

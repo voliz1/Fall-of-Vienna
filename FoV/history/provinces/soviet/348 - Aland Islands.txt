@@ -1,0 +1,10 @@
+owner = SCA
+controller = SCA
+add_core = RUS
+add_core = SCA
+add_core = SCA
+trade_goods = fish
+life_rating = 35
+fort = 1
+naval_base = 2
+terrain = small_island

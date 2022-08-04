@@ -1,0 +1,7 @@
+owner = SCA
+controller = SCA
+add_core = SCA
+add_core = SCH
+add_core = SWH
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,12 @@
+owner = PRU
+controller = PRU
+add_core = PRU
+add_core = GER
+trade_goods = coal
+life_rating = 40
+terrain = dresden
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
