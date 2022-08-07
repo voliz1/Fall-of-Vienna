@@ -13,7 +13,7 @@ is_releasable_vassal = no
 
 
 #GreaterPowers = prestige
-prestige = 85
+prestige = 50
 
 # Political reforms
 slavery = no_slavery

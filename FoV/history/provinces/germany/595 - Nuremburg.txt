@@ -1,6 +1,5 @@
-owner = NRN
-controller = NRN
-add_core = NRN
+owner = USA
+controller = USA
 add_core = GER
 trade_goods = grain
 life_rating = 42
