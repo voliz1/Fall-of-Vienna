@@ -1,6 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = HUN
+controller = HUN
 add_core = CRO
 add_core = HUN
 trade_goods = fruit

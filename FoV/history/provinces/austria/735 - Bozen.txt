@@ -1,5 +1,6 @@
-owner = PRU
-controller = PRU
+owner = BAV
+controller = BAV
+add_core = BAV
 add_core = PRU
 add_core = GER
 add_core = TST

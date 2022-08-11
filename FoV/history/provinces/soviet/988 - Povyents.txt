@@ -1,5 +1,7 @@
-owner = RUS
-controller = RUS
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
 add_core = RUS
 add_core = KRL
 trade_goods = timber

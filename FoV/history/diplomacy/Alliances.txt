@@ -13,15 +13,6 @@ alliance = {
 	end_date = 1840.1.1
 }
 
-#Treaty of Hunkar Iskelesi - Russian-Ottoman Alliance
-alliance = {
-	first = TUR
-	second = RUS
-	start_date = 1833.8.8
-	end_date = 1840.1.1
-}
-
-
 #Circassia and Caucasiam Imamate
 alliance = {
 	first = SWI
@@ -118,24 +109,6 @@ alliance = {
 		end_date = 1867.1.1
 	}
 alliance = {
-		first = AUS 
-		second = FRM 
-		start_date =  1835.1.1
-		end_date = 1867.1.1
-	}
-alliance = {
-		first = AUS 
-		second = HEK 
-		start_date =  1835.1.1
-		end_date = 1867.1.1
-	}
-alliance = {
-		first = AUS 
-		second = HES 
-		start_date =  1835.1.1
-		end_date = 1867.1.1
-	}
-alliance = {
 		first = PRU 
 		second = LIP 
 		start_date =  1835.1.1
@@ -148,12 +121,6 @@ alliance = {
 		end_date = 1867.1.1
 	}	
 alliance = {
-		first = AUS 
-		second = NAS 
-		start_date =  1835.1.1
-		end_date = 1867.1.1
-	}
-alliance = {
 		first = PRU 
 		second = OLD 
 		start_date =  1835.1.1
@@ -162,25 +129,6 @@ alliance = {
 alliance = {
 		first = PRU 
 		second = WEI 
-		start_date =  1835.1.1
-		end_date = 1867.1.1
-	}
-#Austria/Sphereling
-alliance = {
-		first = AUS 
-		second = MOD 
-		start_date =  1835.1.1
-		end_date = 1867.1.1
-	}
-alliance = {
-		first = AUS 
-		second = PAR 
-		start_date =  1835.1.1
-		end_date = 1867.1.1
-	}
-alliance = {
-		first = AUS 
-		second = TUS 
 		start_date =  1835.1.1
 		end_date = 1867.1.1
 	}
@@ -235,4 +183,51 @@ alliance = {
 	start_date = 1835.1.1
 	end_date = 1911.1.1
 }
-
+alliance = {
+	first = FRA
+	second = BAV
+	start_date = 1835.1.1
+	end_date = 1855.1.1
+}
+alliance = {
+	first = FRA
+	second = RHI
+	start_date = 1835.1.1
+	end_date = 1855.1.1
+}
+alliance = {
+	first = FRA
+	second = BAD
+	start_date = 1835.1.1
+	end_date = 1855.1.1
+}
+alliance = {
+	first = ENG
+	second = PRU
+	start_date = 1835.1.1
+	end_date = 1855.1.1
+}
+alliance = {
+	first = PRU
+	second = DEN
+	start_date = 1835.1.1
+	end_date = 1855.1.1
+}
+alliance = {
+	first = SPA
+	second = FRA
+	start_date = 1835.1.1
+	end_date = 1855.1.1
+}
+alliance = {
+	first = WES
+	second = PRU
+	start_date = 1835.1.1
+	end_date = 1855.1.1
+}
+alliance = {
+	first = SWE
+	second = PLC
+	start_date = 1835.1.1
+	end_date = 1855.1.1
+}

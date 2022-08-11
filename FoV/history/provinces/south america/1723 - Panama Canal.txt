@@ -1,5 +1,5 @@
-owner = CLM
-controller = CLM
+owner = SPA
+controller = SPA
 add_core = CLM
 add_core = PNM
 terrain = panama

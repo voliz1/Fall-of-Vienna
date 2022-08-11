@@ -1,6 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = DEN
+controller = DEN
+add_core = DEN
 add_core = SWH
 add_core = LAU
 add_core = GER

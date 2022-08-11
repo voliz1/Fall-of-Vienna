@@ -1,5 +1,5 @@
-owner = MEX
-controller = MEX
+owner = SPA
+controller = SPA
 add_core = MEX
 trade_goods = coffee
 life_rating = 30

@@ -57,3 +57,8 @@ upper_house = {
 
 #Inventions
 }
+
+
+
+#GreaterPowers = prestige
+prestige = 33

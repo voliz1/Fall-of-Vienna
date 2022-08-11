@@ -1,5 +1,6 @@
-owner = UCA
-controller = UCA
+owner = SPA
+controller = SPA
+add_core = MEX
 add_core = HON
 trade_goods = timber
 life_rating = 31

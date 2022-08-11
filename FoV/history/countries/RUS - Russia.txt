@@ -1,4 +1,4 @@
-capital = 994
+capital = 1008
 primary_culture = russian
 culture = byelorussian
 culture = ukrainian
@@ -16,7 +16,7 @@ civilized = yes
 set_country_flag = serfdom_not_abolished
 
 #GreaterPowers = prestige
-prestige = 80
+prestige = 65
 
 # Political reforms
 slavery = no_slavery

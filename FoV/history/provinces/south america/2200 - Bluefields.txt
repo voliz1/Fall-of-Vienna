@@ -1,5 +1,6 @@
-owner = MSK
-controller = MSK
+owner = SPA
+controller = SPA
+add_core = MEX
 add_core = MSK
 add_core = NIC
 trade_goods = tropical_wood

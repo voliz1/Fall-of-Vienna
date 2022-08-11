@@ -1,5 +1,6 @@
-owner = UCA
-controller = UCA
+owner = SPA
+controller = SPA
+add_core = MEX
 add_core = COS
 trade_goods = fruit
 life_rating = 31

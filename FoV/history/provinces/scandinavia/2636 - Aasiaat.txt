@@ -1,7 +1,8 @@
-owner = SCA
-controller = SCA
+owner = SWE
+controller = SWE
+add_core = SWE
 add_core = GRN
-add_core = SCA
+add_core = DEN
 trade_goods = fish
 life_rating = 10
 colonial = 2

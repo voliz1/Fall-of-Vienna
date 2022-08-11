@@ -1,6 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = DEN
+controller = DEN
+add_core = DEN
 add_core = HOL
 add_core = GER
 trade_goods = fruit

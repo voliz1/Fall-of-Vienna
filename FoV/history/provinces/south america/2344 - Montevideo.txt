@@ -1,5 +1,7 @@
-owner = URU
-controller = URU
+owner = POR
+controller = POR
+add_core = POR
+add_core = BRZ
 add_core = URU
 trade_goods = cattle
 life_rating = 38
