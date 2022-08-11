@@ -51,4 +51,4 @@ upper_house = {
 }
 
 #GreaterPowers = prestige
-prestige = 43
+prestige = 33
