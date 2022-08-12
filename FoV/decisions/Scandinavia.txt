@@ -1,0 +1,54 @@
+political_decisions = {
+form_scandinavia = {
+		potential = {
+			OR = {
+				is_culture_group = scandinavian
+				is_culture_group = bears
+			}
+			NOT = {
+				exists = SCA
+			}
+		}
+		
+		allow = {
+			prestige = 100
+			war = no
+			controls = 324
+			controls = 372
+			controls = 313
+			controls = 343
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = SCA
+			add_accepted_culture = swedish
+			add_accepted_culture = danish
+			add_accepted_culture = norwegian
+			add_accepted_culture = finnish
+			add_accepted_culture = icelandic
+			add_accepted_culture = sami
+			any_country = {
+				limit = {
+					NOT = {
+						is_greater_power = yes
+					}
+					is_culture_group = scandinavian
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = scandinavian
+					} 
+				all_core = {
+					add_core = SCA
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

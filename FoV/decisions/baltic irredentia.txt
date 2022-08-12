@@ -1,0 +1,24 @@
+political_decisions = {
+	Integrate_The_Baltics = {
+		potential = {	
+						OR = {
+					 tag = SCA	
+					 tag = SWE
+					 tag = RUS
+					 tag = PLC
+					}
+		}
+		allow = {
+				owns = 349
+				owns = 354
+				owns = 358
+				nationalism_n_imperialism = 1
+		}
+		effect = { 
+				add_accepted_culture = latvian
+				add_accepted_culture = estonian
+	 
+		}
+	}
+}
+
