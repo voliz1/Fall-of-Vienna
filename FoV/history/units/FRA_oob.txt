@@ -1,4 +1,24 @@
 #Sphere of Influence
+RHI = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+WUR = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+BAD = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+BAV = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+	}
 LUC = {
 	value = 75
 	level = 3
@@ -293,7 +313,7 @@ army = {
 		prestige = 0.1
 	}
 	
-	location = 1700
+	location = 424
 	regiment = {
 		name= "1.4ème Division d'Infanterie"
 		type = infantry
