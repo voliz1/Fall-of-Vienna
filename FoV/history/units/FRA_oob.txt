@@ -320,35 +320,6 @@ army = {
 		home = 425
 	}
 
-	regiment = {
-		name= "2.4ème Division d'Infanterie"
-		type = infantry
-		home = 423
-	}
-
-	regiment = {
-		name= "3.4ème Division d'Infanterie"
-		type = infantry
-		home = 432
-	}
-
-	regiment = {
-		name= "1.5ème Division d'Infanterie"
-		type = infantry
-		home = 439
-	}
-
-	regiment = {
-		name= "2.5ème Division d'Infanterie"
-		type = infantry
-		home = 433
-	}
-
-	regiment = {
-		name= "3.5ème Division d'Infanterie"
-		type = infantry
-		home = 431
-	}
 
 	regiment = {
 		name= "1ème Division d'Artillerie"
@@ -370,28 +341,6 @@ army = {
 }
 
 
-army = {
-	name = "1ère Division de cavalerie"
-	location = 1704
-	regiment = {
-		name= "1.1ère Division de cavalerie"
-		type = dragoon
-		home = 422
-	}
-
-	regiment = {
-		name= "2.1ère Division de cavalerie"
-		type = dragoon
-		home = 436
-	}
-
-	regiment = {
-		name= "3.1ère Division de cavalerie"
-		type = dragoon
-		home = 421
-	}
-
-}
 
 army = {
 	name = "Force d'intervention Espagnole"
@@ -406,48 +355,6 @@ army = {
 		name= "2.8ème Division d'Infanterie"
 		type = infantry
 		home = 457
-	}
-
-	regiment = {
-		name= "3.8ème Division d'Infanterie"
-		type = infantry
-		home = 473
-	}
-
-	regiment = {
-		name= "1.9ème Division d'Infanterie"
-		type = infantry
-		home = 456
-	}
-
-	regiment = {
-		name= "1.10ème Division d'Infanterie"
-		type = infantry
-		home = 408
-	}
-	
-	regiment = {
-		name= "1.11ème Division d'Infanterie"
-		type = infantry
-		home = 447
-	}
-
-	regiment = {
-		name= "2.2ème Division de cavalerie"
-		type = cuirassier
-		home = 463
-	}
-
-	regiment = {
-		name= "3.2ème Division de cavalerie"
-		type = cuirassier
-		home = 460
-	}
-	
-	regiment = {
-		name= "1ème Division d'Artillerie"
-		type = artillery
-		home = 424
 	}
 
 	regiment = {

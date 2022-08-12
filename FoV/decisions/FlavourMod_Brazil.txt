@@ -1,8 +1,11 @@
 political_decisions = {
 	minas_gerais = {
 		picture = "minas_gerais"
-		potential = {
-			tag = BRZ
+		potential = {	
+			OR = {
+				tag = BRZ
+				tag = POR
+			}
 			year = 1900
 			NOT = {
 				has_country_flag = minas_gerais_ordered

@@ -1,4 +1,13 @@
 leader = {
+	name = "Saul Goodman"
+	date = 1835.1.1
+	type = land
+	personality = charismatic
+	background = elderly
+	prestige = 0.05
+}
+
+leader = {
 	name = "von Hohenhausen"
 	date = 1842.1.1
 	type = land
@@ -128,13 +137,13 @@ army = {
 
 	regiment = {
 		name= "5.Infanteribrigaden"
-		type = engineer
+		type = artillery
 		home = 330
 	}
 
 	regiment = {
 		name= "1. Dragonenbrigaden"
-		type = dragoon
+		type = hussar
 		home = 317
 	}
 
@@ -146,7 +155,7 @@ army = {
 
 	regiment = {
 		name= "2. Dragonenbrigaden"
-		type = dragoon
+		type = hussar
 		home = 334
 	}
 

@@ -1,3 +1,11 @@
+leader = {
+	name = "Saul Goodman"
+	date = 1835.1.1
+	type = land
+	personality = charismatic
+	background = elderly
+	prestige = 0.05
+}
 
 leader = {
 	name = "Carl Nordenskjöld"
@@ -72,6 +80,71 @@ leader = {
 }
 
 army = {
+	name = "Saul Goodman"
+	location = 354
+	regiment = {
+		name= "Svea Livgarde"
+		type = guard
+		home = 346
+	}
+
+	regiment = {
+		name= "Södermanlands Regemente"
+		type = artillery
+		home = 354
+	}
+
+	regiment = {
+		name= "Första Livgrenadjärregementet"
+		type = artillery
+		home = 325
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = artillery
+		home = 346
+	}
+
+	regiment = {
+		name= "Västgöta Regemente"
+		type = artillery
+		home = 339
+	}
+
+	regiment = {
+		name= "Kalmar Regemente"
+		type = artillery
+		home = 2580
+	}
+
+	regiment = {
+		name= "Jönköpings Regemente"
+		type = infantry
+		home = 994
+	}
+
+	regiment = {
+		name= "Södra Skånska Infanteriregementet"
+		type = infantry
+		home = 351
+	}
+
+	regiment = {
+		name= "Kronprinsens Husarregemente"
+		type = hussar
+		home = 353
+	}
+
+	regiment = {
+		name= "Norrlands Dragonregemente"
+		type = hussar
+		home = 984
+	}
+
+}
+
+army = {
 	name = "Svenska Armén"
 	location = 322
 	regiment = {
@@ -130,7 +203,7 @@ army = {
 
 	regiment = {
 		name= "Norrlands Dragonregemente"
-		type = dragoon
+		type = artillery
 		home = 321
 	}
 
