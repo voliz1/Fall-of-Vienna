@@ -1,5 +1,5 @@
-owner = USA
-controller = USA
+owner = SPA
+controller = SPA
 add_core = USA
 add_core = ULA
 trade_goods = cotton

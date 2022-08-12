@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = ULA
+controller = ULA
 add_core = USA
+add_core = ULA
 trade_goods = timber
 life_rating = 35
 colonial = 2
