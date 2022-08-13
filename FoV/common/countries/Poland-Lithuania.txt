@@ -133,5 +133,8 @@ unit_names = {
 	}
 	commerce_raider = {
 		 Wisla Odra Windawa Bartów Neman Dniprer Prypec
-	}
-}
+	} 
+} 
+
+oob = "PLC_oob.txt" 
+

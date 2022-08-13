@@ -97,94 +97,48 @@ leader = {
 }
 
 army = {
-	name = "Swedish Army"
-	location = 322
+	name = "Army of the Baltic"
+	location = 354
 	regiment = {
-		name= "Svea Livgarde"
-		type = guard
+		name= "1.1. Artilleriedivision"
+		type = artillery
 		home = 322
 	}
 
 	regiment = {
-		name= "1. Artilleribrigaden"
+		name= "2.1. Artilleriedivision"
 		type = artillery
-		home = 324
+		home = 313
 	}
 
 	regiment = {
-		name= "1.Infanteribrigaden"
-		type = infantry
-		home = 322
-	}
-
-	regiment = {
-		name= "2.Infanteribrigaden"
-		type = infantry
-		home = 332
-	}
-
-	regiment = {
-		name= "3.Infanteribrigaden"
-		type = infantry
-		home = 329
-	}
-
-	regiment = {
-		name= "4.Infanteribrigaden"
-		type = infantry
-		home = 323
-	}
-
-	regiment = {
-		name= "5.Infanteribrigaden"
+		name= "3.1. Artilleridivision"
 		type = artillery
-		home = 330
-	}
-
-	regiment = {
-		name= "1. Dragonenbrigaden"
-		type = hussar
-		home = 317
-	}
-
-	regiment = {
-		name= "1. Husarbrigaden"
-		type = hussar
-		home = 326
-	}
-
-	regiment = {
-		name= "2. Dragonenbrigaden"
-		type = hussar
-		home = 334
-	}
-
-}
-
-army = {
-	name = "Norwegian Army"
-	location = 313
-	regiment = {
-		name= "1.Infanteribrigade"
-		type = infantry
-		home = 305
-	}
-
-	regiment = {
-		name= "2.Infanteribrigade"
-		type = infantry
-		home = 310
-	}
-	regiment = {
-		name= "3.Infanteribrigade"
-		type = infantry
 		home = 309
 	}
 
 	regiment = {
-		name= "1.Artileribrigade"
+		name= "4.1. Artilleriedivision"
 		type = artillery
-		home = 313
+		home = 349
+	}
+
+	regiment = {
+		name= "1.2. Artilleriedivision"
+		type = artillery
+		home = 308
+	}
+
+	regiment = {
+		name= "2.1.Artilleriedivision"
+		type = artillery
+		home = 2214
+	}
+
+	regiment = {
+		name= "3.1. Kavalleridivision"
+		type = hussar
+		home = 343
 	}
 }
 	

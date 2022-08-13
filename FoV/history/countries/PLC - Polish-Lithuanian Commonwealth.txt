@@ -86,3 +86,5 @@ piston_steam_engine = 1
 # Starting Consciousness
 consciousness = 1
 nonstate_consciousness = 1
+
+oob = "PLC_oob.txt"

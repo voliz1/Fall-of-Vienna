@@ -26,7 +26,7 @@ leader = {
 }
 
 leader = {
-	name = "Kanye West"
+	name = "Beyonce east"
 	picture = rus_gen_lueders
 	date = 1829.1.1
 	type = land
@@ -44,261 +44,197 @@ leader = {
 }
 
 army = {
-	name = "Army of Warsaw"
-	location = 706
+	name = "Army of Buda"
+	location = 641
 	regiment = {
 		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 706
+		home = 641
 	}
 
 	regiment = {
 		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 700
+		home = 641
 	}
 
 	regiment = {
 		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 706
+		home = 642
 	}
 
 	regiment = {
 		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 699
+		home = 640
 	}
 
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 701
+		home = 653
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 696
+		home = 633
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 956
+		home = 640
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 956
+		home = 623
 	}
 
 	regiment = {
 		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 957
+		home = 623
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = hussar
-		home = 957
+		home = 643
 	}
 
 }
 
 army = {
-	name = "Army of Posen"
-	location = 700
+	name = "Army of Romania"
+	location = 647
 	regiment = {
 		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 706
+		home = 641
 	}
 
 	regiment = {
 		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 700
+		home = 641
 	}
 
 	regiment = {
 		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 706
+		home = 642
 	}
 
 	regiment = {
 		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 699
+		home = 640
 	}
 
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 701
+		home = 653
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 696
+		home = 633
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 956
+		home = 640
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 956
+		home = 623
 	}
 
 	regiment = {
 		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 957
+		home = 623
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = hussar
-		home = 957
+		home = 643
 	}
 
 }
 
 army = {
-	name = "Army of Ukraine"
-	location = 960
+	name = "Army of Zagreb"
+	location = 771
 	regiment = {
 		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 961
+		home = 367
 	}
 
 	regiment = {
 		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 960
+		home = 367
 	}
 
 	regiment = {
 		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 954
+		home = 650
 	}
 
 	regiment = {
 		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 955
+		home = 647
 	}
 
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 718
+		home = 644
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 718
+		home = 639
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 947
+		home = 639
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 693
+		home = 639
 	}
 
 	regiment = {
 		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 695
+		home = 639
 	}
 	
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = hussar
-		home = 705
+		home = 768
 	}
 
 }
 
-army = {
-	name = "Army of Lithuania"
-	location = 363
-	regiment = {
-		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
-		home = 961
-	}
-
-	regiment = {
-		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
-		home = 960
-	}
-
-	regiment = {
-		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
-		home = 954
-	}
-
-	regiment = {
-		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
-		home = 955
-	}
-
-	regiment = {
-		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = artillery
-		home = 718
-	}
-	
-	regiment = {
-		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = artillery
-		home = 718
-	}
-	
-	regiment = {
-		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = artillery
-		home = 947
-	}
-	
-	regiment = {
-		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = artillery
-		home = 693
-	}
-
-	regiment = {
-		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = artillery
-		home = 695
-	}
-	
-	regiment = {
-		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = hussar
-		home = 714
-	}
-
-}

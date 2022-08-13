@@ -80,131 +80,261 @@ leader = {
 }
 
 army = {
-	name = "Saul Goodman"
-	location = 354
+	name = "Army of Finland"
+	location = 343
 	regiment = {
-		name= "Svea Livgarde"
-		type = guard
-		home = 346
+		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 350
 	}
 
 	regiment = {
-		name= "Södermanlands Regemente"
-		type = artillery
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 349
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
 		home = 354
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
-		type = artillery
-		home = 325
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 354
 	}
 
 	regiment = {
-		name= "Upplands Regemente"
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 346
+		home = 355
 	}
-
+	
 	regiment = {
-		name= "Västgöta Regemente"
-		type = artillery
-		home = 339
-	}
-
-	regiment = {
-		name= "Kalmar Regemente"
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
 		home = 2580
 	}
-
+	
 	regiment = {
-		name= "Jönköpings Regemente"
-		type = infantry
-		home = 994
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 346
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 321
 	}
 
 	regiment = {
-		name= "Södra Skånska Infanteriregementet"
-		type = infantry
-		home = 351
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 310
 	}
-
+	
 	regiment = {
-		name= "Kronprinsens Husarregemente"
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = hussar
-		home = 353
-	}
-
-	regiment = {
-		name= "Norrlands Dragonregemente"
-		type = hussar
-		home = 984
+		home = 309
 	}
 
 }
 
 army = {
-	name = "Svenska Armén"
-	location = 322
+	name = "Army of Riga"
+	location = 355
 	regiment = {
-		name= "Svea Livgarde"
-		type = guard
-		home = 322
-	}
-
-	regiment = {
-		name= "Södermanlands Regemente"
+		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 326
+		home = 351
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 325
+		home = 317
 	}
 
 	regiment = {
-		name= "Upplands Regemente"
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 323
+	}
+
+	regiment = {
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
 		home = 324
 	}
 
 	regiment = {
-		name= "Västgöta Regemente"
-		type = infantry
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 326
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 994
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 332
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 325
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 328
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
 		home = 330
 	}
 
+}
+
+army = {
+	name = "Army of Karelia"
+	location = 994
 	regiment = {
-		name= "Kalmar Regemente"
+		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 332
+		home = 322
 	}
 
 	regiment = {
-		name= "Jönköpings Regemente"
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 333
+		home = 345
 	}
 
 	regiment = {
-		name= "Södra Skånska Infanteriregementet"
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
+		home = 343
+	}
+
+	regiment = {
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 313
+	}
+
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
 		home = 334
 	}
-
+	
 	regiment = {
-		name= "Kronprinsens Husarregemente"
-		type = hussar
-		home = 335
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 994
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 994
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 994
 	}
 
 	regiment = {
-		name= "Norrlands Dragonregemente"
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 321
+		home = 996
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 997
+	}
+
+}
+
+army = {
+	name = "Army of Sweden"
+	location = 322
+	regiment = {
+		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 322
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 345
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 343
+	}
+
+	regiment = {
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 313
+	}
+
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 334
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 994
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 994
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 994
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 996
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 997
 	}
 
 }

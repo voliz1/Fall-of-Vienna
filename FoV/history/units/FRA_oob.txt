@@ -6,7 +6,7 @@ RHI = {
 }
 WUR = {
 	value = 125		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
 BAD = {
@@ -78,344 +78,353 @@ TUR = { value = -75 }
 SPA = { value = 55 }
 
 army = {
-	name = "Garde Royale"
-	location = 425
+	name = "Army of Brest"
+	location = 422
 	regiment = {
-		name= "1.Garde Royale"
-		type = guard
-		home = 425
+		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 449
 	}
 
 	regiment = {
-		name= "2.Garde Royale"
-		type = guard
-		home = 426
-	}
-
-	regiment = {
-		name= "3.Garde Royale"
-		type = guard
-		home = 427
-	}
-	
-	regiment = {
-		name= "1ère Division d'Hussard"
-		type = hussar
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
 		home = 420
 	}
-	
+
 	regiment = {
-		name= "2ère Division d'Hussard"
-		type = hussar
-		home = 446
-	}
-	
-	regiment = {
-		name= "1.1ère Division d'Infanterie"
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 438
+		home = 421
 	}
 
 	regiment = {
-		name= "2.1ère Division d'Infanterie"
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 400
+		home = 422
 	}
 
 	regiment = {
-		name= "3.1ère Division d'Infanterie"
-		type = infantry
-		home = 401
-	}
-	
-	regiment = {
-		name= "1.1ère Division d'Artillerie"
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 425
+		home = 424
 	}
 	
 	regiment = {
-		name= "2.1ère Division d'Artillerie"
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 400
+		home = 423
 	}
 	
 	regiment = {
-		name= "3.1ère Division d'Artillerie"
-		type = artillery
-		home = 453
-	}
-	
-	regiment = {
-		name= "4.1ère Division d'Artillerie"
-		type = artillery
-		home = 399
-	}
-}
-army = {
-	name = "1ère Armée"
-	location = 409
-	
-	regiment = {
-		name= "1ère Division d'Hussard"
-		type = hussar
-		home = 458
-	}
-	
-	regiment = {
-		name= "1.1ème Division d'Infanterie"
-		type = infantry
-		home = 441
-	}
-
-	regiment = {
-		name= "2.1ème Division d'Infanterie"
-		type = infantry
-		home = 2570
-	}
-
-	regiment = {
-		name= "3.1ème Division d'Infanterie"
-		type = infantry
-		home = 404
-	}
-
-	regiment = {
-		name= "2.1ème Division d'Infanterie"
-		type = infantry
-		home = 402
-	}
-
-	regiment = {
-		name= "2.2ère Division d'Infanterie"
-		type = infantry
-		home = 403
-	}
-	
-	regiment = {
-		name= "2.3ème Division d'Infanterie"
-		type = infantry
-		home = 399
-	}
-
-	regiment = {
-		name= "1.1ème Division d'Artillerie"
-		type = artillery
-		home = 399
-	}
-	
-	regiment = {
-		name= "2.1ème Division d'Artillerie"
-		type = artillery
-		home = 400
-	}
-	
-	regiment = {
-		name= "3.1ème Division d'Artillerie"
-		type = artillery
-		home = 399
-	}
-	
-	regiment = {
-		name= "4.1ème Division d'Artillerie"
-		type = artillery
-		home = 399
-	}
-}
-	
-army = {
-	name = "2ème Armée"
-	location = 471
-
-	regiment = {
-		name= "1.Garde Royale"
-		type = guard
-		home = 440
-	}
-
-	regiment = {
-		name= "1ème Division d'Cuirasser"
-		type = cuirassier
-		home = 418
-	}
-
-	regiment = {
-		name= "2ère Division d'Cuirasser"
-		type = cuirassier
-		home = 406
-	}
-	
-	regiment = {
-		name= "1.7ème Division d'Infanterie"
-		type = infantry
-		home = 415
-	}
-
-	regiment = {
-		name= "2.7ème Division d'Infanterie"
-		type = infantry
-		home = 416
-	}
-
-	regiment = {
-		name= "3.7ème Division d'Infanterie"
-		type = infantry
-		home = 417
-	}
-	
-	regiment = {
-		name= "4.7ème Division d'Infanterie"
-		type = infantry
-		home = 452
-	}
-
-	regiment = {
-		name= "5.7ème Division d'Infanterie"
-		type = infantry
-		home = 448
-	}
-	
-	regiment = {
-		name= "4.1ème Division d'Artillerie"
-		type = artillery
-		home = 470
-	}
-
-	regiment = {
-		name= "4.2ème Division d'Artillerie"
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
 		home = 434
 	}
-
-	regiment = {
-		name= "4.3ème Division d'Artillerie"
-		type = artillery
-		home = 462
-	}
 	
 	regiment = {
-		name= "5.3ème Division d'Artillerie"
-		type = artillery
-		home = 461
-	}
-
-}
-
-army = {
-	name = "Armée d'Algerie"
-	
-	leader = {
-		name = "Bertrand Clauzel"
-		date = 1803.1.1
-		type = land
-		personality = inefficient
-		background = elderly
-		prestige = 0.1
-	}
-	
-	location = 424
-	regiment = {
-		name= "1.4ème Division d'Infanterie"
-		type = infantry
-		home = 425
-	}
-
-
-	regiment = {
-		name= "1ème Division d'Artillerie"
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
 		home = 442
 	}
 
 	regiment = {
-		name= "2ère Division d'Artillerie"
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 459
+		home = 444
 	}
 	
 	regiment = {
-		name= "3ème Division d'Artillerie"
-		type = artillery
-		home = 429
-	}
-}
-
-
-
-army = {
-	name = "Force d'intervention Espagnole"
-	location = 458
-	regiment = {
-		name= "1.8ème Division d'Infanterie"
-		type = infantry
-		home = 455
-	}
-
-	regiment = {
-		name= "2.8ème Division d'Infanterie"
-		type = infantry
-		home = 457
-	}
-
-	regiment = {
-		name= "2ère Division d'Artillerie"
-		type = artillery
-		home = 451
-	}
-	
-	regiment = {
-		name= "3ème Division d'Artillerie"
-		type = artillery
-		home = 449
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 447
 	}
 
 }
 
 army = {
-	name = "Garnison du Sénégal"
-	location = 1784
+	name = "Army of Lorraine"
+	location = 411
 	regiment = {
-		name= "1.10ème Division d'Infanterie"
+		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
 		home = 411
 	}
 
 	regiment = {
-		name= "2.10ème Division d'Infanterie"
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 414
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
 		home = 407
 	}
 
 	regiment = {
-		name= "3.10ème Division d'Infanterie"
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 444
+		home = 408
+	}
+
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 406
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 397
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 398
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 429
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 428
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 431
 	}
 
 }
 
 army = {
-	name = "Garnison de Côte d'Ivoire"
-	location = 1894
+	name = "Army of Occitania"
+	location = 449
 	regiment = {
-		name= "1.11ème Division d'Infanterie"
+		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 467
+		home = 449
 	}
 
 	regiment = {
-		name= "2.11ème Division d'Infanterie"
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
+		home = 461
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 462
+	}
+
+	regiment = {
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 463
+	}
+
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 467
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 470
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 453
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
 		home = 454
 	}
 
 	regiment = {
-		name= "3.11ème Division d'Infanterie"
-		type = infantry
-		home = 428
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 456
+	}
+	
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 457
 	}
 
 }
+
+army = {
+	name = "Army Corps of Belguim"
+	location = 387
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1057
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 425
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 432
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 399
+	}
+	
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 399
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 400
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 400
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 392
+	}
+
+	regiment = {
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 395
+	}
+
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 418
+	}
+}
+
+army = {
+	name = "Army Corps of Paris"
+	location = 435
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1057
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 436
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 426
+	}
+	
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 440
+	}
+	
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 425
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 432
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 399
+	}
+	
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 399
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 400
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 400
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 392
+	}
+
+	regiment = {
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 395
+	}
+
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 415
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 416
+	}
+
+}
+
 
 navy = {
 	name = "Escadre du Nord"

@@ -62,3 +62,5 @@ upper_house = {
 
 #GreaterPowers = prestige
 prestige = 33
+
+oob = VEN_oob.txt

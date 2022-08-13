@@ -1,5 +1,6 @@
-owner = PAP
-controller = PAP
+owner = VEN
+controller = VEN
+add_core = VEN
 add_core = PAP
 add_core = RMG
 add_core = ITA
