@@ -681,7 +681,7 @@ army = {
 
 army = {
 	name = "The Montreal Garrison"
-	location = 58
+	location = 299
 	
 	regiment = {
 		name= "1st Regiment Royal Artillery"

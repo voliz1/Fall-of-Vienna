@@ -70,9 +70,40 @@ army = {
 	}
 	regiment = {
 		name= "2. División de Infantería"
-		type = infantry
-		home = 2379
+		type = artillery
+		home = 2371
 	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2385
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2360
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2359
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2357
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2356
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = hussar
+		home = 2358
+	}
+	
 }
 
 leader = {

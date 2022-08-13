@@ -134,6 +134,22 @@ army = {
 
 }
 
+army = {
+	name = "K.N.I.L."
+	location = 1413
+	regiment = {
+		name = "1e Indische Brigade"
+		type = infantry
+		home = 1413
+	}
+
+	regiment = {
+		name = "Banisaren Korps"
+		type = artillery
+		home = 1421
+	}
+}
+
 leader = {
 	name = "Pierre Labatut"
 	date = 1824.1.1
@@ -258,6 +274,44 @@ army = {
 
 }
 
+navy = {
+	name = "Koninklijke NI Marine"
+	location = 1413 #Batavia
+	ship = {
+		name= "Admiraal de Ruyter"
+		type = manowar
+	}
+
+	ship = {
+		name= "Verwachting"
+		type = manowar
+	}
+
+	ship = {
+		name= "Aurora"
+		type = frigate
+	}
+
+	ship = {
+		name= "Iris"
+		type = frigate
+	}
+
+	ship = {
+		name= "Fenix"
+		type = frigate
+	}
+
+	ship = {
+		name= "Eendracht"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2e Transport Eskader"
+		type = clipper_transport
+	}
+}
 
 navy = {
 	name = "Portuguese Royal Navy"

@@ -598,93 +598,112 @@ leader = {
 }
 
 army = {
-	name = "US Dragoons"
-	location = 199
+	name = "Army of the South"
+	location = 204
 	regiment = {
 		name= "1st Cavalry Regiment"
-		type = dragoon
+		type = hussar
 		home = 223
 	}
 
 	regiment = {
 		name= "2nd Cavalry Regiment"
-		type = dragoon
+		type = artillery
 		home = 241
 	}
 
 	regiment = {
 		name= "3rd Cavalry Regiment"
-		type = dragoon
+		type = artillery
 		home = 205
 	}
-
-}
-
-army = {
-	name = "Army of the South"
-	location = 200
 	regiment = {
 		name= "1st Regiment of Infantry"
-		type = infantry
+		type = artillery
 		home = 211
 	}
 
 	regiment = {
-		name= "2nd Regiment of Infantry"
-		type = infantry
+		name= "2.7nd Regiment of Infantry"
+		type = artillery
 		home = 206
 	}
 
 	regiment = {
-		name= "3rd Regiment of Infantry"
-		type = infantry
+		name= "3.8rd Regiment of Infantry"
+		type = artillery
 		home = 188
 	}
 
 	regiment = {
-		name= "1st Regiment of Artillery"
-		type = artillery
+		name= "1.9st Regiment of Artillery"
+		type = infantry
 		home = 195
 	}
-
-}
-
-army = {
-	name = "US Army"
-	location = 220
 	regiment = {
-		name= "4th Regiment of Infantry"
+		name= "4.1th Regiment of Infantry"
 		type = infantry
 		home = 243
 	}
 
 	regiment = {
-		name= "5th Regiment of Infantry"
+		name= "5.2th Regiment of Infantry"
 		type = infantry
 		home = 232
 	}
 
 	regiment = {
-		name= "6th Regiment of Infantry"
+		name= "6.3th Regiment of Infantry"
 		type = infantry
 		home = 235
 	}
 
-	regiment = {
-		name= "2nd Regiment of Artillery"
-		type = artillery
-		home = 234
-	}
 
 }
 
 army = {
-	name = "Army of Observation"
-	location = 144
+	name = "Army of Maine"
+	location = 241
 	regiment = {
 		name= "7th Regiment of Infantry"
 		type = infantry
 		home = 238
+	}
+	regiment = {
+		name= "2.5nd Regiment of Artillery"
+		type = artillery
+		home = 234
+	}
+	regiment = {
+		name= "3nd Regiment of Artillery"
+		type = artillery
+		home = 216
+	}
+	regiment = {
+		name= "3.1nd Regiment of Artillery"
+		type = infantry
+		home = 215
+	}
+	regiment = {
+		name= "4nd Regiment of Artillery"
+		type = artillery
+		home = 217
+	}
+	regiment = {
+		name= "2.2nd Regiment of Artillery"
+		type = artillery
+		home = 218
+	}
+	regiment = {
+		name= "2.3nd Regiment of Artillery"
+		type = artillery
+		home = 219
+	}
+	
+	regiment = {
+		name= "2.4nd Regiment of Artillery"
+		type = hussar
+		home = 219
 	}
 
 	regiment = {
@@ -701,39 +720,11 @@ army = {
 
 }
 
-navy = {
-	name = "1st Squadron"
-	location = 222
-	ship = {
-		name= "Franklin"
-		type = manowar
-	}
 
-	ship = {
-		name= "Pennsylvania"
-		type = manowar
-	}
-
-	ship = {
-		name= "Washington"
-		type = manowar
-	}
-
-	ship = {
-		name= "Columbia"
-		type = frigate
-	}
-
-	ship = {
-		name= "Constellation"
-		type = frigate
-	}
-
-}
 
 navy = {
-	name = "2nd Squadron"
-	location = 248
+	name = "3rd Squadron"
+	location = 214
 	ship = {
 		name= "Ohio"
 		type = manowar
@@ -741,14 +732,8 @@ navy = {
 
 	ship = {
 		name= "Hudson"
-		type = frigate
+		type = clipper_transport
 	}
-
-}
-
-navy = {
-	name = "3rd Squadron"
-	location = 214
 	ship = {
 		name= "John Adams"
 		type = frigate
@@ -758,12 +743,15 @@ navy = {
 		name= "United States"
 		type = frigate
 	}
+	ship = {
+		name= "Ohio"
+		type = clipper_transport
+	}
 
-}
-
-navy = {
-	name = "4th Squadron"
-	location = 219
+	ship = {
+		name= "Hudson"
+		type = frigate
+	}
 	ship = {
 		name= "Independance"
 		type = frigate
@@ -776,7 +764,7 @@ navy = {
 
 	ship = {
 		name= "Constitution"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
@@ -788,15 +776,9 @@ navy = {
 		name= "'James McKay' Flotilla"
 		type = clipper_transport
 	}
-
-}
-
-navy = {
-	name = "1st Reserve Squadron"
-	location = 247
 	ship = {
 		name= "Alabama"
-		type = manowar
+		type = clipper_transport
 	}
 
 	ship = {
@@ -813,12 +795,6 @@ navy = {
 		name= "1st Reserve Transport"
 		type = clipper_transport
 	}
-
-}
-
-navy = {
-	name = "2nd Reserve Squadron"
-	location = 214
 	ship = {
 		name= "Columbus"
 		type = manowar
@@ -826,17 +802,17 @@ navy = {
 
 	ship = {
 		name= "Delaware"
-		type = manowar
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "New York"
-		type = manowar
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "North Carolina"
-		type = manowar
+		type = clipper_transport
 	}
 
 	ship = {

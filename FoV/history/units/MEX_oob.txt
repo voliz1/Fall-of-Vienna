@@ -47,31 +47,25 @@ leader = {
 }
 
 army = {
-	name = "Activo Oajaca"
-	location = 2177
+	name = "Ejército del Ciudad Mejico"
+	location = 2164
 	regiment = {
 		name= "1.Oajaca y Tlaxcala"
-		type = irregular
+		type = infantry
 		home = 2177
 	}
 
 	regiment = {
 		name= "2.Oajaca y Tlaxcala"
-		type = irregular
+		type = infantry
 		home = 2177
 	}
 
 	regiment = {
 		name= "3.Oajaca y Tlaxcala"
-		type = irregular
+		type = infantry
 		home = 2177
 	}
-
-}
-
-army = {
-	name = "Ejército del Ciudad Mejico"
-	location = 2172
 	regiment = {
 		name= "1.Division Comonfort"
 		type = infantry
@@ -80,14 +74,67 @@ army = {
 
 	regiment = {
 		name= "2.Division Comonfort"
-		type = irregular
+		type = artillery
 		home = 2176
 	}
 
 	regiment = {
-		name= "3.Division Comonfort"
-		type = irregular
+		name= "3.6.Division Comonfort"
+		type = artillery
 		home = 2176
+	}
+	regiment = {
+		name= "3.3.Travis' Command"
+		type = artillery
+		home = 133
+	}
+
+	regiment = {
+		name= "3.4.Fannin's Command"
+		type = artillery
+		home = 132
+	}
+	
+	regiment = {
+		name = "3.5.Burleson's Command"
+		type = artillery
+		home = 137
+	}
+	regiment = {
+		name= "3.Fannin's Command"
+		type = hussar
+		home = 132
+	}
+	
+}	
+	
+army = {
+	name = "Army of Texas"
+	location = 2178
+	regiment = {
+		name= "222Fannin's Command"
+		type = artillery
+		home = 132
+	}
+	regiment = {
+		name= "22Fannin's Command"
+		type = artillery
+		home = 137
+	}
+	regiment = {
+		name= "1Fannin's Command"
+		type = artillery
+		home = 2159
+	}
+	regiment = {
+		name= "12Fannin's Command"
+		type = infantry
+		home = 2167
+	}
+	regiment = {
+		name= "2Fannin's Command"
+		type = infantry
+		home = 2167
 	}
 
 }
