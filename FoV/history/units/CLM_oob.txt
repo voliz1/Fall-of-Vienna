@@ -8,7 +8,7 @@ PBC = {
 
 army = {
 	name = "Ejército de Colombia"
-	location = 2253
+	location = 2270
 	regiment = {
 		name= "1. Brigada de Infantería"
 		type = infantry
@@ -26,11 +26,47 @@ army = {
 		type = infantry
 		home = 2254
 	}
+	
+	regiment = {
+		name= "999. Brigada de Infantería"
+		type = infantry
+		home = 2270
+	}
 
 	regiment = {
 		name= "1. Brigada de Caballería"
-		type = cuirassier
+		type = hussar
 		home = 2250
+	}
+	
+	regiment = {
+		name= "1. Brigada de Infantería"
+		type = artillery
+		home = 2279
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantería"
+		type = artillery
+		home = 2279
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = artillery
+		home = 2283
+	}
+	
+	regiment = {
+		name= "88. Brigada de Infantería"
+		type = artillery
+		home = 2271
+	}
+	
+	regiment = {
+		name= "77. Brigada de Infantería"
+		type = artillery
+		home = 2272
 	}
 
 }

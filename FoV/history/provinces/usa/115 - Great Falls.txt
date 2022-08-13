@@ -1,5 +1,6 @@
-owner = ULA
-controller = ULA
+owner = RPL
+controller = RPL
+add_core = RPL
 add_core = USA
 add_core = ULA
 trade_goods = cattle

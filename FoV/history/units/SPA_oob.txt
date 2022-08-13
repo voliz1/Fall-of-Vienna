@@ -131,6 +131,68 @@ RUS = { value = 0 }
 
 
 #Army
+
+leader = {
+	name = "Francisco Morazán"
+	type = land
+	date = 1836.1.1
+	personality = stout
+	background = generals_aide
+}
+
+army = {
+	name = "Ejército Federal"
+	location = 2187
+	regiment = {
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2187
+	}
+
+	regiment = {
+		name= "2. División de Infantería"
+		type = infantry
+		home = 2191
+	}
+
+	regiment = {
+		name= "3. División de Infantería"
+		type = infantry
+		home = 2186
+	}
+	regiment = {
+		name= "4. División de Infantería"
+		type = hussar
+		home = 2186
+	}
+	regiment = {
+		name= "5. División de Infantería"
+		type = artillery
+		home = 2186
+	}
+	regiment = {
+		name= "6. División de Infantería"
+		type = artillery
+		home = 2194
+	}
+	regiment = {
+		name= "7. División de Infantería"
+		type = artillery
+		home = 2198
+	}
+	regiment = {
+		name= "8. División de Infantería"
+		type = artillery
+		home = 2206
+	}
+	regiment = {
+		name= "9. División de Infantería"
+		type = artillery
+		home = 2204
+	}
+
+}
+
 army = {
 	name = "Ejército Cristino del Centro"
 	location = 487
@@ -160,44 +222,44 @@ army = {
 
 	regiment = {
 		name= "2. Brigada de Infantería"
-		type = infantry
+		type = hussar
 		home = 509
 	}
 
 	regiment = {
 		name= "3. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 513
 	}
 
 	regiment = {
 		name= "1. Brigada de Ingenieros"
-		type = engineer
+		type = artillery
 		home = 495
 	}
 
 	regiment = {
 		name= "1. Granaderos del Rey"
-		type = cuirassier
+		type = artillery
 		home = 487
 	}
 
 	regiment = {
 		name= "2. Granaderos del Rey"
-		type = cuirassier
+		type = artillery
 		home = 489
 	}
 
 	regiment = {
 		name= "3. Granaderos del Rey"
-		type = cuirassier
+		type = artillery
 		home = 488
 	}
 }
 
 army = {
 	name = "Ejército del Norte"
-	location = 498
+	location = 2243
 	
 	regiment = {
 		name= "4. Brigada de Infantería 'San Jorge'"
@@ -213,7 +275,7 @@ army = {
 	
 	regiment = {
 		name= "5. Brigada de Infantería"
-		type = infantry
+		type = hussar
 		home = 482
 	}
 	
@@ -225,7 +287,7 @@ army = {
 
 	regiment = {
 		name= "7. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 497
 	}
 }
@@ -248,26 +310,26 @@ army = {
 
 	regiment = {
 		name= "10. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 510
 	}
 
 	regiment = {
 		name= "11. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 516
 	}
 	
 	regiment = {
 		name= "12. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 515
 	}
 }
 
 army = {
 	name = "Ejército de Cuba"
-	location = 2209
+	location = 200
 	
 	regiment = {
 		name = "1. Brigada Colonial"
@@ -277,42 +339,215 @@ army = {
 	
 	regiment = {
 		name = "2. Brigada Colonial"
-		type = infantry
+		type = artillery
 		home = 2209
 	}
-}
-
-army = {
-	name = "Ejército de Puerto Rico"
-	location = 2222
 	
 	regiment = {
 		name = "3. Brigada Colonial"
 		type = infantry
 		home = 475
 	}
-}
-
-army = {
-	name = "Ejército de Filipinas"
-	location = 1455
 	
 	regiment = {
 		name = "4. Brigada Colonial"
 		type = infantry
 		home = 1455
 	}
-}
-
-army = {
-	name = "Ejército de Mindanao"
-	location = 1463
 	
 	regiment = {
 		name = "5. Brigada Colonial"
 		type = infantry
 		home = 1463
 	}
+	
+	
+	
+}
+
+army = {
+	name = "Ejército de Chile"
+	location = 2342
+	regiment = {
+		name= "1. Brigada de artillería"
+		type = artillery
+		home = 2324
+	}
+
+	regiment = {
+		name= "1. Brigada de Infantería"
+		type = infantry
+		home = 2324
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantería"
+		type = artillery
+		home = 2325
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = infantry
+		home = 2328
+	}
+
+	regiment = {
+		name= "1. Brigada de Caballería"
+		type = hussar
+		home = 2324
+	}
+}
+
+army = {
+	name = "Ejército de Venezuela"
+	location = 2323
+	regiment = {
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2264
+	}
+
+	regiment = {
+		name= "2. División de Infantería"
+		type = infantry
+		home = 2264
+	}
+
+	regiment = {
+		name= "3. División de Infantería"
+		type = infantry
+		home = 2267
+	}
+
+	regiment = {
+		name= "1. División de Caballería"
+		type = hussar
+		home = 200
+	}
+
+	regiment = {
+		name= "2. División de Caballería"
+		type = artillery
+		home = 2269
+	}
+
+	regiment = {
+		name= "3. División de Caballería"
+		type = artillery
+		home = 197
+	}
+
+}
+
+leader = {
+	name = "Wilhelm Albrecht"
+	date = 1836.1.1
+	type = land
+	personality = indifferent
+	background = uncommonly_young
+	prestige = 0.5
+}
+
+army = {
+	name = "Esercito di Parma"
+	location = 738
+	regiment = {
+		name= "1.Fanteria di Linea"
+		type = infantry
+		home = 738
+	}
+}
+
+leader = {
+	name = "Jose Ballivián"
+	type = land
+	date = 1836.1.1
+	background = generals_aide
+	personality = bold
+}
+
+army = {
+	name = "Ejército de Bolivia"
+	location = 2291 #Chuquisaca (Sucre)
+	regiment = {
+		name= "1. Brigada de Infanteria"
+		type = infantry
+		home = 2313
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = infantry
+		home = 140
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanteria"
+		type = artillery
+		home = 2311
+	}
+}
+
+
+
+	
+leader = {
+	name = "José Joaquín Prieto"
+	type = land
+	date = 1820.8.20
+	background = rising_star
+	personality = bold
+	prestige = 0.01
+	}
+	
+leader = {
+	name = "Robert Winthrop Simpson"
+	type = sea
+	date = 1820.12.14
+	background = school_of_defense
+	personality = au_fait
+	}
+	
+navy = {
+	name = "Chilean Navy"
+	location = 2325
+	ship = {
+		name = "Aquiles"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Voltaire"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Orbegoso"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Valparaiso"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Libertad"
+		type = frigate
+	}
+	
+	ship = {
+		name = "1. Buque de transporte"
+		type = clipper_transport
+	}
+	
+	
+	ship = {
+		name = "2. Buque de transporte"
+		type = clipper_transport
+	}
+
 }
 
 navy = {

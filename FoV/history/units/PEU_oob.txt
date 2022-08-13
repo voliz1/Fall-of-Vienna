@@ -30,20 +30,44 @@ army = {
 	location = 2295
 	regiment = {
 		name= "1. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 2295
 	}
 
 	regiment = {
 		name= "2. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 2295
 	}
 
 	regiment = {
 		name= "3. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 2302
+	}
+	
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = infantry
+		home = 2321
+	}
+	
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = infantry
+		home = 2310
+	}
+	
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = hussar
+		home = 2307
+	}
+	
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = infantry
+		home = 2286
 	}
 
 }

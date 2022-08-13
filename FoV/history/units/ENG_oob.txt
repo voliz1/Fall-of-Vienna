@@ -151,7 +151,7 @@ MHR = {
 #Europe
 POR = {
 	value = 200		#relation
-	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 75
 }
 NET = {
@@ -493,19 +493,19 @@ army = {
 	location = 300
 	regiment = {
 		name= "4th (The Queen's Own) Light Dragoons"
-		type = hussar
+		type = artillery
 		home = 300
 	}
 
 	regiment = {
 		name= "The Royal Dragoons (1st Dragoons)"
-		type = dragoon
+		type = artillery
 		home = 294
 	}
 
 	regiment = {
 		name= "11th (Prince Albert's Own) Hussars"
-		type = cuirassier
+		type = artillery
 		home = 291
 	}
 
@@ -547,7 +547,7 @@ army = {
 	
 	regiment = {
 		name= "9th Regiment Royal Artillery"
-		type = artillery
+		type = hussar
 		home = 284
 	}
 	
@@ -558,7 +558,7 @@ army = {
 	location = 3263
 	regiment = {
 		name= "9th Queen's Royal Lancers"
-		type = cuirassier
+		type = artillery
 		home = 278
 	}	
 	regiment = {
@@ -578,13 +578,13 @@ army = {
 	}
 	regiment = {
 		name= "22nd (The Cheshire) Regiment"
-		type = infantry
+		type = artillery
 		home = 300
 	}
 	
 	regiment = {
 		name= "The Royal Fusiliers"
-		type = guard
+		type = artillery
 		home = 300
 	}
 
@@ -599,11 +599,7 @@ army = {
 		type = artillery
 		home = 265
 	}
-}
 
-army = {
-	name = "The Straits Garrison"
-	location = 1384
 	regiment = {
 		name= "Royal Northumberland Fusiliers"
 		type = infantry
@@ -618,8 +614,8 @@ army = {
 }
 
 army = {
-	name = "The Australia Garrison"
-	location = 2468
+	name = "The Toronto Garrison"
+	location = 46
 	regiment = {
 		name= "56th (West Essex) Regiment"
 		type = infantry
@@ -638,15 +634,10 @@ army = {
 		home = 285
 	}
 
-}
-
-army = {
-	name = "The Toronto Garrison"
-	location = 46
 	
 	regiment = {
 		name= "Prince of Wales's Lancers"
-		type = cuirassier
+		type = hussar
 		home = 276
 	}
 	
@@ -658,19 +649,19 @@ army = {
 
 	regiment = {
 		name= "9th (The East Norfolk) Regiment"
-		type = infantry
+		type = artillery
 		home = 277
 	}
 
 	regiment = {
 		name= "Canadian Frontier Light Infantry"
-		type = infantry
+		type = artillery
 		home = 46
 	}
 	
 	regiment = {
 		name= "Prince of Wales's Own Regiment"
-		type = infantry
+		type = artillery
 		home = 286
 	}
 	
@@ -685,6 +676,12 @@ army = {
 		type = artillery
 		home = 292
 	}
+
+}
+
+army = {
+	name = "The Montreal Garrison"
+	location = 58
 	
 	regiment = {
 		name= "1st Regiment Royal Artillery"
@@ -697,16 +694,10 @@ army = {
 		type = artillery
 		home = 303
 	}
-
-}
-
-army = {
-	name = "The Montreal Garrison"
-	location = 58
 	
 	regiment = {
 		name= "2nd Dragoons (Royal Scots Greys)"
-		type = cuirassier
+		type = hussar
 		home = 269
 	}
 	
@@ -765,13 +756,13 @@ army = {
 
 	regiment = {
 		name= "The Port Elizabeth Regiment"
-		type = infantry
+		type = artillery
 		home = 2096
 	}
 
 	regiment = {
 		name= "52nd (Oxfordshire) Regiment"
-		type = infantry
+		type = hussar
 		home = 281
 	}
 	

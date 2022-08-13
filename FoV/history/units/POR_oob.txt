@@ -70,6 +70,136 @@ NET = {
 }
 
 army = {
+	name = "Exército Imperial"
+	location = 2447
+	regiment = {
+		name= "1. Brigada de Infantaria"
+		type = infantry
+		home = 2447
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantaria"
+		type = infantry
+		home = 2450
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantaria"
+		type = infantry
+		home = 2436
+	}
+	
+	regiment = {
+		name= "4. Brigada de Infantaria"
+		type = infantry
+		home = 2447
+	}
+
+	regiment = {
+		name= "5. Brigada de Infantaria"
+		type = hussar
+		home = 2457
+	}
+
+	regiment = {
+		name= "6. Brigada de Infantaria"
+		type = artillery
+		home = 2441
+	}
+	
+	regiment = {
+		name= "7. Brigada de Infantaria"
+		type = artillery
+		home = 2441
+	}
+
+	regiment = {
+		name= "1. Brigada de Cavalaria"
+		type = artillery
+		home = 2429
+	}
+
+	regiment = {
+		name= "2. Brigada de Cavalaria"
+		type = artillery
+		home = 2434
+	}
+
+	regiment = {
+		name= "3. Brigada de Cavalaria"
+		type = artillery
+		home = 2426
+	}
+
+}
+
+leader = {
+	name = "Pierre Labatut"
+	date = 1824.1.1
+	type = land
+	personality = arrogant
+	background = adventurer
+	prestige = 0.1
+}
+
+leader = {
+	name = "Sebastião Pinto"
+	date = 1825.1.1
+	type = land
+	personality = perverse
+	background = unfit
+	prestige = 0.0
+}
+
+leader = {
+	name = "Barão de Tramandaí"
+	date = 1830.1.1
+	type = land
+	personality = cautious
+	background = politician
+	prestige = 0.0
+}
+
+leader = {
+	name = "de Lajes"
+	date = 1830.1.1
+	type = land
+	personality = romantic
+	background = politician
+	prestige = 0.0
+}
+
+leader = {
+	name = "Bellegarde"
+	date = 1833.1.1
+	type = land
+	personality = reserved
+	background = professor
+	prestige = 0.0
+}
+
+leader = {
+	name = "John Grenfell"
+	date = 1822.1.1
+	type = sea
+	personality = brash
+	background = butcher
+	prestige = 0.1
+}
+
+leader = {
+	name = "Luís Alves de Lima e Silva"
+	picture = southamerican_general_6
+	date = 1836.1.1
+	type = land
+	personality = gutsy
+	background = war_college
+}
+
+
+
+army = {
 	name = "Exército Português"
 	location = 521
 	regiment = {
@@ -104,44 +234,30 @@ army = {
 
 	regiment = {
 		name= "1. Brigada de Cavalaria"
-		type = cuirassier
+		type = artillery
 		home = 519
 	}
-
-}
-
-army = {
-	name = "Exército de Africa Ocidental"
-	location = 1999
 	
 	regiment = {
 		name = "1. Divisão Colonial"
-		type = infantry
+		type = artillery
 		home = 525
 	}
-}
-
-army = {
-	name = "Exército de Africa Oriental"
-	location = 2059
 	
 	regiment = {
 		name = "2. Divisão Colonial"
-		type = infantry
+		type = artillery
 		home = 2134
 	}
-}
-
-army = {
-	name = "Exército da Índia"
-	location = 1303
 	
 	regiment = {
 		name = "3. Divisão Colonial"
-		type = infantry
+		type = artillery
 		home = 1303
 	}
+
 }
+
 
 navy = {
 	name = "Portuguese Royal Navy"

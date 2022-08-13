@@ -1,5 +1,5 @@
 owner = SPA
-controller = SPA
+controller = ARC
 add_core = BRZ
 add_core = POR
 add_core = ARC
