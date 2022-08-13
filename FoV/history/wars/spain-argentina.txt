@@ -1,4 +1,4 @@
-name = "Argentinian War Of Independance"
+name = "Argentinian War Of Independence"
 
 1835.10.2 = {
 	add_attacker = SPA

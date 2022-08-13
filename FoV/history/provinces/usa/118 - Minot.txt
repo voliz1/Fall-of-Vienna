@@ -1,1 +1,1 @@
-owner = RPLcontroller = RPLadd_core = RPLadd_core = USAadd_core = ULAtrade_goods = coallife_rating = 35colonial = 21861.1.1 = { colonial = 0 }
+owner = RPLcontroller = RPLadd_core = RPLtrade_goods = coallife_rating = 35colonial = 21861.1.1 = { colonial = 0 }

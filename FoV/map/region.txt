@@ -6,19 +6,21 @@ USA_1 = { 1 2 3 4 5 2599 2630 2631 } #Alaska
 
 ENG_9 = { 10 11 12 2595 2596 2598 6 7 8 } #Northwest Territories
 
+ENG_118 = { 118 157 158 } #New Salisbury
+
 CAN_13 = { 13 14 20 21 15 19 16 18 17 2629 } #Columbia
 
 #CAN_18 = { 18 17 2629 } #New Caledonia
 
 ENG_22 = { 27 26 22 23 24 25 28 2597 } #Alberta
 
-ENG_30 = { 30 31 32 33 34 35 } #Saskatchewan
+ENG_30 = { 30 31 32 33 34 35 115 } #Saskatchewan
 
 ENG_36 = { 42 36 37 38 39 40 41 } #Manitoba
 
 CAN_46 = { 46 57 55 56 52 53 54 } #Southern Ontario
 
-CAN_50 = { 49 50 51 47 48 2594 } #Northern Ontario
+CAN_50 = { 49 50 51 47 48 2594 177} #Northern Ontario
 
 CAN_58 = { 58 65 62 61 63 64 66 67 } #Southern Quebec
 
@@ -30,13 +32,13 @@ ENG_74 = { 74 75 76 77 2625 } #Newfoundland
 
 ### United States
 
-USA_78 = { 78 79 80 } #Washington
+USA_78 = { 78 79 80 114 92 } #Washington/Wellington
 
 USA_81 = { 81 82 83 } #Oregon
 
 MEX_85 = { 89 84 85 86 87 88 90 104 } #California
 
-USA_91 = { 91 92 93 } #Idaho
+USA_91 = { 91 93 } #Idaho
 
 MEX_94 = { 94 96 95 } #Nevada
 
@@ -50,9 +52,9 @@ USA_106 = { 103 106 108 109 } #Colorado
 
 USA_111 = { 112 107 110 111 } #Wyoming
 
-USA_116 = { 113 116 115 114 } #Montana
+USA_116 = { 113 116 } #Montana
 
-USA_118 = { 117 118 119 } #North Dakota
+USA_118 = { 117 119 } #North Dakota
 
 USA_121 = { 120 121 122 } #South Dakota
 
@@ -64,7 +66,7 @@ USA_129 = { 131 129 130 } #Oklahoma
 
 TEX_132 = { 133 43 132 134 135 136 137 138 } #Texas
 
-USA_139 = { 139 140 141 142 } #Louisiana
+USA_139 = { 139 141 142 } #Louisiana
 
 USA_144 = { 143 144 145 } #Arkansas
 
@@ -72,7 +74,7 @@ USA_148 = { 146 148 147 149 150 } #Missouri
 
 USA_151 = { 151 152 153 154 } #Iowa
 
-USA_158 = { 155 156 157 158 } #Minnesota
+USA_158 = { 155 156 } #Minnesota
 
 USA_162 = { 159 160 161 162 } #Wisconsin
 
@@ -80,7 +82,7 @@ USA_168 = { 163 168 167 166 165 164 } #Illinois
 
 USA_170 = { 169 170 172 171 } #Indiana
 
-USA_176 = { 173 174 175 176 177 } #Michigan
+USA_176 = { 173 174 175 176 } #Michigan
 
 USA_178 = { 178 179 180 183 182 181 } #Ohio
 
@@ -88,11 +90,13 @@ USA_185 = { 184 185 186 187 } #Kentucky
 
 USA_188 = { 188 189 191 190 } #Tennessee
 
-USA_194 = { 194 192 193 } #Mississippi
+USA_194 = { 192 193 } #Mississippi
 
-USA_196 = { 195 196 197 } #Alabama
+USA_196 = { 195 196 } #Alabama
 
-USA_200 = { 200 199 198 } #Florida
+USA_200 = { 200 199 } #East Florida
+
+USA_140 = { 140 197 194 198 } #West Florida
 
 USA_201 = { 201 202 204 2555 } #Georgia
 
@@ -284,7 +288,7 @@ PRU_553 = { 553 555 556 557 } #Magdeburg
 
 PRU_554 = { 554 561 562 563 3255 3256 } #Thuringia
 
-SAX_558 = { 558 559 560 687 } #Saxony
+SAX_558 = { 558 559 560 687 627 628} #Saxony
 
 HES_2560 = { 564 565 566 567 568 2560 3257 3270 } #Hessen
 
@@ -302,9 +306,9 @@ WUR_589 = { 589 590 591 593 594 } #Wurttemburg
 
 BAV_595 = { 595 596 597 598 } #Franconia
 
-BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
+BAV_599 = { 599 592 600 601 602 629} #Bayern
 
-#BAV_601 = { 601 602 } #Lower Bavaria
+#BAV_601 = { } #Lower Bavaria
 
 SWI_603 = { 603 606 605 604 611 3272 } #Swiss Mittelland
 
@@ -312,9 +316,9 @@ SWI_607 = { 607 608 609 3250 3271 } #RÈgion LÈmanique
 
 SWI_2568 = { 2568 } #Alpen
  
-PRU_682 = { 682 683 684 685 689 2584 } #Lower Silesia
+PRU_682 = { 682 683 684 685 689 688 632} #Lower Silesia
 
-PRU_690 = { 690 691 694 } #Westpreuﬂen
+PRU_690 = { 690 691 } #Westpreuﬂen
 
 PRU_695 = { 695 696 697 698 693 } #Ostpreuﬂen
 
@@ -323,17 +327,17 @@ PRU_701 = { 701 699 700 } #Posen
 
 ### Austria
 
-AUS_612 = { 612 613 614 615 3253 } #Tirol
+AUS_612 = { 613 614 615 3253 } #Tirol
 
 AUS_613 = { 616 617 618 } #K‰rnten-Steiermark
 
-AUS_619 = { 619 620 621 622 624 } #÷sterreich
+AUS_619 = { 619 620 621 622 624 630} #÷sterreich
 
 AUS_623 = { 623 639 640 642 643 644 } #Transdanubia
 
 AUS_625 = { 625 626 631 } #Bohemia
 
-AUS_626 = { 627 628 629 630 632 688 } #Moravia/Sudetes
+AUS_626 = { } #Moravia/Sudetes
 
 AUS_633 = { 633 634 635 636 637 638 950 } #Slovakia
 
@@ -345,7 +349,7 @@ AUS_654 = { 654 661 651 2533 660 } #Northern Transylvania
 
 AUS_657 = { 657 659 647 655 656 } #Southern Transylvania
 
-AUS_702 = { 703 704 705 714 } #Galicia-Lodomeria
+AUS_702 = { 703 704 705 714 2584 } #Galicia-Lodomeria
 
 AUS_662 = { 702 951 952 953} #East Galicia
 
@@ -355,9 +359,9 @@ AUS_726 = { 726 727 728 2669 } #Lombardia
 
 #AUS_733 = { 733 736 } #Friuli
 
-AUS_729 = { 729 730 731 732 733 3262 } #Venetia
+AUS_729 = { 729 730 731 732 733 734 3262 } #Venetia
 
-AUS_734 = { 734 735 } #South Tirol
+AUS_734 = { } #South Tirol
 
 AUS_736 = { 769 770 778 736 737 } #Istria
 
@@ -527,13 +531,15 @@ AFG_1214 = { 1212 1214 1215 1213 1211 } #Kandahar
 
 RUS_349 = { 349 350 351 352 353 } #Estonia
 
-RUS_354 = { 354 355 356 357 358 359 } #Latvia
+RUS_354 = { 354 355 356 } #Latvia/Livonia
+
+RUS_359 = { 359 358 357 } #Curonia
 
 RUS_360 = { 360 361 362 363 364 365 } #Lithuania
 
 RUS_339 = { 339 984 995 988 2587 983 982 } #Karelia
 
-RUS_706 = { 706 708 709 710 717 712 } #Masovia
+RUS_706 = { 706 708 709 710 717 712 694 } #Masovia
 
 RUS_707 = { 936 707 719 937 } #BrÍst
 
@@ -942,21 +948,21 @@ ETH_1852 = { 1852 1854 1855 1863 } #Begemder
 
 ETH_1853 = { 1853 1856 1857 1858 } #Tigray
 
-ETH_1859 = { 1859 1860 1861 1862 } #Shewa
+ETH_1859 = { 1859 1860 1861 1862 1865} #Shewa
 
 #ETH_1862 = {  } #Gibe
 
-ETH_1865 = { 1865 1866 1867 1864 } #Hararghe
+ETH_1865 = {  } #Hararghe
 
 ENG_1848 = { 1848 1849 1850 1851 } #Eritrea
 
-SOM_1868 = { 1868 1869 1870 1871 1872 } #South Somaliland
+SOM_1868 = { 1868 1869 1871 1867 1866} #South Somaliland/Puntland
 
-SOM_1872 = { 1873 1874 1875 } #North Somaliland
+SOM_1872 = { 1873 1874 1875 1872} #North Somaliland/Somaliland
 
 ENG_2024 = { 2024 2030 2032 2027 2029 2033 } #Kenya
 
-ENG_2026 = { 2026 2025 2028 2031 } #Rift Valley
+ENG_2025 = { 2025 2031 1870 1864 } #Rift Valley/Kambaland
 
 ENG_2036 = { 2036 2048 2045 2037 2047 } #Zanzibar
 
@@ -1050,7 +1056,7 @@ ENG_2014 = { 790 2012 2013 2014 2015 } #Zambia
 
 ENG_2016 = { 2016 2017 2018 } #Kazembe
 
-ENG_2019 = { 2019 2020 2021 2022 2023 } #Uganda
+ENG_2019 = { 2019 2020 2021 2022 2023 2026 2028 } #Uganda
 
 BEL_2034 = { 2034 2035 } #Ruanda-Urundi
 
@@ -1159,13 +1165,13 @@ ENG_2228 = { 2228 2229 2231 2232 2233 2237 2238 2409 2235 2234 } #Lesser Antille
 
 ### South America
 
-ENG_1979 = { 2239 2240 2241 2242 2243 2245 2246 1979 } #Guyana
+ENG_1979 = { 2239 2240 2241 2245 2246 1979 } #Guyana
 
 VNZ_2234 = { 2268 2270 2271 2272 2273 } #Zulia
 
 VNZ_2265 = { 2264 2265 2266 2267 2274 } #Miranda
 
-VNZ_2278 = { 2269 2275 2276 2277 2278 } #Bolivar
+VNZ_2278 = { 2269 2275 2276 2277 2278 2532 2243 2242 } #Bolivar
 
 CLM_2251 = { 2255 2252 2251 2253 2254 } #Antioquia
 
@@ -1199,14 +1205,14 @@ PRG_2338 = { 2338 2337 } #Alto Paraguay
 
 PRG_2343 = { 2339 2343 2341 2342 2340 } #Bajo Parguay
 
-URU_2344 = { 2344 2345 2346 2347 } #Uruguay
+URU_2344 = { 2344 2345 2346 2347 } #Uruguay/Cisplatina
 
 
 ### Brazil
 
 BRZ_2306 = { 2450 2306 2455 2451 2452 2456 2453 } #S„o Paulo
 
-BRZ_2401 = { 2402 2401 2403 2404 2405 2407 2549 2532 } #Amazonas
+BRZ_2401 = { 2402 2401 2403 2404 2405 2407 2549 } #Amazonas
 
 BRZ_2408 = { 2410 2408 2412 2415 2413 2411 2600 } #Par·
 
@@ -1270,13 +1276,17 @@ ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2475 2508 } #New South Wales
 
 ENG_2476 = { 2476 2477 2478 2479 2480 2481 2482 } #Victoria
 
-ENG_2483 = { 2483 2484 2485 2486 2487 2488 2489 2490 2604 } #Queensland
+ENG_2483 = { 2483 2484 2485 2486 2487 2488 } #Queensland
 
 ENG_2491 = { 2491 2492 2493 2494 2495 2496 } #South Australia
 
-ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
+ENG_2499 = { 2499 2497 2504 2500 2503 } #Southwest Australia
+
+ENG_2497 = { 2501 2502 2601 2602 2605 } #Northwest Australia
 
 ENG_2505 = { 2505 2506 2507 2603 } #Northern Territory
+
+ENG_2604 = { 2604 2489 2490 } #Inner Australia
 
 ENG_2509 = { 2509 2510 2511 2512 2571 } #North Island - Aotearoa
 

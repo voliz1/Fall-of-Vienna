@@ -7,6 +7,8 @@ VTU;Vanuatu;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 VTU_ADJ;Ni-Vanuatu;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SMO;Samoa;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SMO_ADJ;Samoan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+FLD;Florida;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+FLD_ADJ;Floridian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ROM_reactionary;Partidul National Roman;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ROM_reactionary_2;Partidul Nationalist-Democrat;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ROM_reactionary_3;Partidul Poporului;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -95,6 +97,8 @@ MNP_ADJ;Manipuri;;;;;;;;;;;;;;;;;;;;;;;;x
 BDK_absolute_monarchy;Kunduz;;;;;;;;;;;;;;;;;;;;;;;;x
 BDK;Badakhshan;;;;;;;;;;;;;;;;;;;;;;;;x
 BDK_ADJ;Badakhshani;;;;;;;;;;;;;;;;;;;;;;;;x
+BRN;Brandenburg;;;;;;;;;;;;;;;;;;;;;;;;x
+BRN_ADJ;Brandenburger;;;;;;;;;;;;;;;;;;;;;;;;x
 guajiro;Wayuu;;;;;;;;;;;;;;;;;;;;;;;;x
 lendu;Lendu;;;;;;;;;;;;;;;;;;;;;;;;x
 ruanda;Banyarwanda;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -427,6 +431,17 @@ KTH;Kathiri;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 KTH_ADJ;Kathirii;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 MHR;Mahra;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 MHR_ADJ;Mahrai;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+BRN_anarcho_liberal;Radikale;;;;;;;;;;;;;
+BRN_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;;
+BRN_conservative_1;Zentrumspartei;;;;;;;;;;;;;
+BRN_conservative_2;Konservative Partei;;;;;;;;;;;;;
+BRN_fascist;Alldeutscher Verband;;;;;;;;;;;;;
+BRN_liberal_1;Liberale Vereinigung;;;;;;;;;;;;;
+BRN_liberal_2;Liberaldemokratische Partei;;;;;;;;;;;;;
+BRN_reactionary;Die Konterrevolutionäre;;;;;;;;;;;;;
+BRN_liberal;Fortschrittliche Volkspartei;;;;;;;;;;;;;
+BRN_socialist_1;Sozialdemokratische Partei;;;;;;;;;;;;;
+BRN_socialist_2;Sozialistiche Arbeiterverein;;;;;;;;;;;;;
 SBA;Buenos Aires;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 SBA_ADJ;Porteno;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,
 BRZ_absolute_monarchy;The Empire of Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,
@@ -2371,8 +2386,8 @@ TAS_anarcho_liberal;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;
 TAS_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;x
 TCA;Transcaucasia;;;;;;;;;;;;x
 TCA_ADJ;Transcaucasian;;;;;;;;;;;;x
-TKG;Shogunate Japan;;;;;;;;;;;x
-TKG_ADJ;Tokugawa;;;;;;;;;;;x
+TKG;The Shogunate of Japan;;;;;;;;;;;x
+TKG_ADJ;Japanese;;;;;;;;;;;x
 TKG_fascist;Kokuryukai;;;;;;;;;;;;;x
 TKM;Turkmenistan;;;;;;;;;;;;;x
 TKM_ADJ;Turkmenian;;;;;;;;;;;;;x

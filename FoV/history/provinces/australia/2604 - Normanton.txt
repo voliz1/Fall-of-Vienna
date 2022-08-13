@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = NET
+controller = NET
 trade_goods = tropical_wood
 terrain = savanna
 life_rating = 30

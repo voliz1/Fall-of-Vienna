@@ -1,6 +1,7 @@
-owner = EGY
-controller = EGY
+owner = SHK
+controller = SHK
 add_core = EGY
 add_core = SUD
+add_core = SHK
 trade_goods = wool
 life_rating = 10

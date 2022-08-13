@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = NET
+controller = NET
 trade_goods = grain
 terrain = semidesert
 life_rating = 20

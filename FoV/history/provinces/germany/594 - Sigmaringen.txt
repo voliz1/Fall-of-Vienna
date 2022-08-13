@@ -1,13 +1,13 @@
 owner = SGM
 controller = SGM
 add_core = SGM
-add_core = PRU
+add_core = BRN
 add_core = GER
 trade_goods = grain
 life_rating = 40
 1861.1.1 = {
-	controller = PRU
-	owner = PRU
-	add_core = PRU
+	controller = BRN
+	owner = BRN
+	add_core = BRN
 	remove_core = SGM
 }

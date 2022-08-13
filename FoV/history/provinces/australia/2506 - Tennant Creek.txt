@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = NET
+controller = NET
 trade_goods = cattle
 life_rating = 15
 colonial = 2

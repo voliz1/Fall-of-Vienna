@@ -70,6 +70,7 @@ VNG		= "countries/Colonial Colombia.txt"
 VLP		= "countries/Colonial La Plata.txt"
 VOP		= "countries/Colonial Peru.txt"
 VNS		= "countries/Colonial Spain.txt"
+FLD 	= "countries/Florida.txt"
 
 ##HPM
 ATC		="countries/Antillean Confederation.txt"
@@ -424,6 +425,7 @@ SCH		= "countries/Schleswig.txt"
 SGF		= "countries/South German Fed.txt"
 WEI		= "countries/Saxe-Weimar.txt"
 WUR		= "countries/Wurttemberg.txt"
+BRN 	= "countries/Brandenburg.txt"
 
 # Italy
 LOM		= "countries/Lombardia.txt"

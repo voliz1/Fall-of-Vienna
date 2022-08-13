@@ -1,6 +1,6 @@
 owner = SPA
 controller = SPA
-add_core = USA
+add_core = FLD
 trade_goods = cotton
 life_rating = 35
 colonial = 2

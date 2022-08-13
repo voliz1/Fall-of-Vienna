@@ -1,7 +1,7 @@
-owner = PRU
-controller = PRU
+owner = BRN
+controller = BRN
 add_core = GER
-add_core = PRU
+add_core = BRN
 add_core = BOH
 add_core = CZH
 trade_goods = coal

@@ -2,7 +2,7 @@ owner = NCT
 controller = NCT
 add_core = NCT
 add_core = SWI
-add_core = PRU
+add_core = BRN
 trade_goods = coal
 life_rating = 32
 
@@ -19,5 +19,5 @@ party_loyalty = {
 	owner = SWI
 	controller = SWI
 	remove_core = NCT
-	remove_core = PRU
+	remove_core = BRN
 }
