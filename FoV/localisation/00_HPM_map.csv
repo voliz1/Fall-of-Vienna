@@ -417,7 +417,6 @@ CAN_58;Lower Canada;;;;;;;;;;;;x
 CAN_60;Northern Quebec;;;;;;;;;;;;x
 ENG_68;Maritimes;;;;;;;;;;;;x
 MEX_94;Nevada;;;;;;;;;;;;x
-MEX_97;Utah;;;;;;;;;;;;x
 USA_201;Georgia;;;;;;;;;;;;x
 USA_205;South Carolina;;;;;;;;;;;;x
 ENG_258;Connacht;;;;;;;;;;;;x
@@ -676,7 +675,6 @@ CAN_58;Lower Canada;;;;;;;;;;;;x
 CAN_60;Northern Quebec;;;;;;;;;;;;x
 ENG_68;Maritimes;;;;;;;;;;;;x
 MEX_94;Nevada;;;;;;;;;;;;x
-MEX_97;Utah;;;;;;;;;;;;x
 USA_201;Georgia;;;;;;;;;;;;x
 USA_205;South Carolina;;;;;;;;;;;;x
 ENG_258;Connacht;;;;;;;;;;;;x
@@ -1004,3 +1002,11 @@ URU_2344;Cisplatina;;;;;;;;;;;x
 ENG_2497;Northwest Australia;;;;;;;;;;;x
 ENG_2604;Inner Australia;;;;;;;;;;;x
 ENG_2499;Southwest Australia;;;;;;;;;;;x
+MEX_85;Baja California;;;;;;;;;;;x
+MEX_104;Alta California;;;;;;;;;;;x
+MEX_103;Novo Mexico;;;;;;;;;;;x
+TEX_132;Tejas;;;;;;;;;;;x
+VNZ_2278;Nova Granada;;;;;;;;;;;x
+MEX_97;Nevada-Uta;;;;;;;;;;;x
+USA_91;Orejón Menor;;;;;;;;;;;x
+USA_81;Gran Oregón;;;;;;;;;;;x

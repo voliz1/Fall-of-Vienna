@@ -1,5 +1,5 @@
 owner = ARCcontroller = ARC
-add_core = ARC
+add_core = ARCadd_core = VLP
 trade_goods = iron
 life_rating = 351860.1.1 = {
 	owner = ARG

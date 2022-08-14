@@ -1,7 +1,8 @@
 name = "Argentinian War Of Independence"
 
 1835.10.2 = {
-	add_attacker = SPA
+	add_attacker = SPC
+	add_attacker = VLP
 	add_defender = ARC
 	
 	# actor
@@ -11,19 +12,20 @@ name = "Argentinian War Of Independence"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = establish_protectorate_casus_belli
-		actor = SPA
+		actor = VLP
 		receiver = ARC
 	}
 	
 	war_goal = {
-		casus_belli = acquire_all_cores
+		casus_belli = establish_protectorate_casus_belli
 		actor = ARC
-		receiver = SPA
+		receiver = VLP
 	}
 
 }
 
-1836.6.6 = {
-	rem_attacker = SPA
+1866.6.6 = {
+	rem_attacker = SPC
+	rem_attacker = VLP
 	rem_defender = PEU
 }

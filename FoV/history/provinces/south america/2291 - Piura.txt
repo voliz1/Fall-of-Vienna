@@ -1,6 +1,7 @@
 owner = PEU
-controller = SPA
+controller = SPC
 add_core = PEU
+add_core = VOP
 trade_goods = fish
 terrain = new_world_semidesert
 life_rating = 32

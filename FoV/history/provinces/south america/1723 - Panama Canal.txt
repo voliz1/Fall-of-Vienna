@@ -1,7 +1,8 @@
-owner = SPA
-controller = SPA
+owner = VNS
+controller = VNS
 add_core = CLM
 add_core = PNM
+add_core = VNS
 terrain = panama
 trade_goods = fruit
 life_rating = 31

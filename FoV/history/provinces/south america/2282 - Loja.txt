@@ -1,7 +1,8 @@
 owner = CLM
-controller = SPA
+controller = SPC
 add_core = CLM
 add_core = ECU
 add_core = PEU
+add_core = VNG
 trade_goods = cattle
 life_rating = 32

@@ -3634,56 +3634,56 @@
 #Baton Rouge (72000/18000 POPS)
 140 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 50
 	}
 	
 	soldiers = {
 		culture = cajun
-		religion = protestant
+		religion = catholic
 		size = 1269
 	}
 
 	farmers = {
 		culture = cajun
-		religion = protestant
+		religion = catholic
 		size = 8250
 	}
 
 	officers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 45
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 175
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 4430
 	}
 
@@ -3749,7 +3749,7 @@
 
 	slaves = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 9875
 	}
 }
@@ -7547,56 +7547,56 @@
 #Biloxi (76000/19000 POPS)
 194 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 7675
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	slaves = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 9800
 	}
 }
@@ -7759,86 +7759,86 @@
 #Mobile (140000/35000 POPS)
 197 = {
 	aristocrats = {
-		culture = dixie
+		culture = floridian
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = dixie
+		culture = floridian
 		religion = catholic
 		size = 35
 	}
 
 	artisans = {
-		culture = dixie
+		culture = floridian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = dixie
+		culture = floridian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = dixie
+		culture = floridian
 		religion = catholic
 		size = 1825
 	}
 	
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 325
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 13525
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 25
 	}
 
 	slaves = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 17650
 	}
 }
@@ -7847,148 +7847,148 @@
 #Tallahassee (32000/8000 POPS)
 198 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 25
 	}
 
 	officers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 175
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 3550
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 80
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	slaves = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 3900
 	}
 }
 #St Augustine (48000/12000 POPS)
 199 = {
 	aristocrats = {
-		culture = dixie
+		culture = floridian
 		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
-		culture = dixie
+		culture = floridian
 		religion = catholic
 		size = 5
 	}
 
 	artisans = {
-		culture = dixie
+		culture = floridian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = dixie
+		culture = floridian
 		religion = catholic
 		size = 125
 	}
 	
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 325
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = floridian
+		religion = catholic
 		size = 7350
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 80
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	slaves = {
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size = 3900
 	}
 }

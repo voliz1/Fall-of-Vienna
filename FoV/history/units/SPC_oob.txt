@@ -1,4 +1,33 @@
 #Sphere of Influence
+
+VOP = {
+	value = 225
+	level = 5
+	influence_value = 100
+	military_access = yes
+}
+
+VLP = {
+	value = 225
+	level = 5
+	influence_value = 100
+	military_access = yes
+}
+
+VNS = {
+	value = 225
+	level = 5
+	influence_value = 100
+	military_access = yes
+}
+
+VNG = {
+	value = 225
+	level = 5
+	influence_value = 100
+	military_access = yes
+}
+
 #Europe
 POR = {
 	value = -50		#relation

@@ -1,8 +1,9 @@
-owner = SPA
-controller = SPA
+owner = VNS
+controller = VNS
 add_core = MEX
 add_core = BLZ
 add_core = UCA
+add_core = VNS
 add_core = GUA
 trade_goods = fruit
 life_rating = 30

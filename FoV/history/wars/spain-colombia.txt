@@ -1,7 +1,8 @@
 name = "Colombian War Of Independence"
 
 1835.10.2 = {
-	add_attacker = SPA
+	add_attacker = SPC
+	add_attacker = VNG
 	add_defender = CLM
 	
 	# actor
@@ -11,19 +12,20 @@ name = "Colombian War Of Independence"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = establish_protectorate_casus_belli
-		actor = SPA
+		actor = VNG
 		receiver = CLM
 	}
 	
 	war_goal = {
-		casus_belli = acquire_all_cores
+		casus_belli = establish_protectorate_casus_belli
 		actor = CLM
-		receiver = SPA
+		receiver = VNG
 	}
 
 }
 
-1836.6.6 = {
-	rem_attacker = SPA
+1866.6.6 = {
+	rem_attacker = SPC
+	rem_attacker = VNG
 	rem_defender = CLM
 }

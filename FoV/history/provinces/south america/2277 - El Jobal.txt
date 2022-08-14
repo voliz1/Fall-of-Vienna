@@ -1,6 +1,8 @@
-owner = SPA
+owner = VNG
 controller = CLM
+add_core = VNG
 add_core = CLM
 add_core = VNZ
+add_core = VNG
 trade_goods = fruit
 life_rating = 31

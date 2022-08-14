@@ -1,6 +1,8 @@
-owner = SPA
-controller = SPA
+owner = VNG
+controller = VNG
+add_core = VNG
 add_core = CLM
 add_core = VNZ
+add_core = VNG
 trade_goods = fish
 life_rating = 32

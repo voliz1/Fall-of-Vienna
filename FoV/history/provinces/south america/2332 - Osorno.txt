@@ -1,10 +1,11 @@
-owner = SPA
-controller = SPA
+owner = VOP
+controller = VOP
 add_core = ARG
 add_core = ARC
 add_core = PEU
 add_core = CHL
 add_core = PTG
+add_core = VOP
 trade_goods = fish
 terrain = montane_forest
 life_rating = 35

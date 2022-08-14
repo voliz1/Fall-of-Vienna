@@ -713,3 +713,32 @@ vassal = {
 	start_date = 1861.1.1
 	end_date = 1936.1.1
 }
+
+#Spain and its Viceroyalities *4 
+vassal = {
+	first = SPC
+	second = VOP
+	start_date = 1819.1.1
+	end_date = 1949.1.1
+}
+
+vassal = {
+	first = SPC
+	second = VLP
+	start_date = 1819.1.1
+	end_date = 1949.1.1
+}
+
+vassal = {
+	first = SPC
+	second = VNG
+	start_date = 1819.1.1
+	end_date = 1949.1.1
+}
+
+vassal = {
+	first = SPC
+	second = VNS
+	start_date = 1819.1.1
+	end_date = 1949.1.1
+}

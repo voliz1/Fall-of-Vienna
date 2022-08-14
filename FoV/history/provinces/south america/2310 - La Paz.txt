@@ -2,6 +2,7 @@ owner = PEU
 controller = PEU
 add_core = PEU
 add_core = BOL
+add_core = VOP
 trade_goods = cattle
 life_rating = 35
 terrain = lapaz

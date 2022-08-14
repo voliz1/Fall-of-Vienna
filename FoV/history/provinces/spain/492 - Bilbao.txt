@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = SPC
+controller = SPC
+add_core = SPC
 add_core = BSQ
 trade_goods = iron
 life_rating = 35

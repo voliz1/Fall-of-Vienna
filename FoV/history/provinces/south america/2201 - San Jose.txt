@@ -1,6 +1,7 @@
-owner = SPA
-controller = SPA
+owner = VNS
+controller = VNS
 add_core = MEX
 add_core = COS
+add_core = VNS
 trade_goods = fruit
 life_rating = 311861.1.1 = {	owner = COS	controller = COS}

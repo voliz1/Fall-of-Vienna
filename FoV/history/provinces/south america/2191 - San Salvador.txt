@@ -1,7 +1,8 @@
-owner = SPA
-controller = SPA
+owner = VNS
+controller = VNS
 add_core = MEX
 add_core = ELS
+add_core = VNS
 trade_goods = coffee
 life_rating = 32
 naval_base = 1

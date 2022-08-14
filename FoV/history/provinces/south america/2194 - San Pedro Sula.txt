@@ -1,7 +1,8 @@
-owner = SPA
-controller = SPA
+owner = VNS
+controller = VNS
 add_core = MEX
 add_core = HON
+add_core = VNS
 trade_goods = grain
 life_rating = 31
 1861.1.1 = {

@@ -1,8 +1,9 @@
-owner = SPA
+owner = VLP
 controller = ARC
 add_core = BRZ
 add_core = POR
 add_core = ARC
 add_core = PRG
+add_core = VLP
 trade_goods = grain
 life_rating = 31

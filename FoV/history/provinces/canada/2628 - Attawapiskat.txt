@@ -1,7 +1,8 @@
-owner = SPA
-controller = SPA
+owner = VNS
+controller = VNS
 add_core = MEX
 add_core = UCA
 add_core = GUA
+add_core = VNS
 trade_goods = fish
 life_rating = 31
