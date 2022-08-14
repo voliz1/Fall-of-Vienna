@@ -14,7 +14,7 @@ civilized = yes
 
 
 #GreaterPowers = prestige
-prestige = 40
+prestige = 65
 
 # Political reforms
 slavery = yes_slavery
