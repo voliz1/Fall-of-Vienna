@@ -29,6 +29,8 @@ school_reforms = no_schools
 centralization = confederalism
 colonial_policy = no_colonies 
 
+civilized = yes
+
 
 # New Reforms
 conscription = no_draft
