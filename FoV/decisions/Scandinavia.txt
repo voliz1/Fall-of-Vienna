@@ -1,54 +1,66 @@
 political_decisions = {
-form_scandinavia = {
+	form_scandinavia = {
 		potential = {
-			OR = {
-				is_culture_group = scandinavian
-				is_culture_group = bears
-			}
-			NOT = {
-				exists = SCA
-			}
+			NOT = { exists = SCA } 
+			capital_scope = { continent = europe }
 		}
 		
 		allow = {
-			prestige = 100
+			prestige = 80
+			is_greater_power = yes
 			war = no
-			controls = 324
-			controls = 372
-			controls = 313
-			controls = 343
+			SCA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+								AND = {
+									is_vassal = yes
+									is_culture_group = scandinavian
+									overlord = { is_culture_group = scandinavian }
+								}
+							}
+							war = no
+							is_greater_power = no
+						}
+					}
+				}
+			}
 		}
 		
 		effect = {
-			prestige = 20
+			prestige = 30
+			all_core = { add_core = SCA remove_core = THIS }
 			change_tag = SCA
-			add_accepted_culture = swedish
-			add_accepted_culture = danish
-			add_accepted_culture = norwegian
-			add_accepted_culture = finnish
-			add_accepted_culture = icelandic
-			add_accepted_culture = sami
+			political_reform = federalism
 			any_country = {
 				limit = {
-					NOT = {
-						is_greater_power = yes
+					is_culture_group = scandinavian
+					NOT = { primary_culture = finnish }
+					NOT = { has_country_flag = post_colonial_country }
+				}
+				all_core = { add_core = SCA }
+			}
+			any_country = {
+				limit = {
+					exists = yes
+					is_greater_power = no
+					is_culture_group = scandinavian
+					OR = {
+						vassal_of = THIS
+						AND = {
+							is_vassal = no
+							in_sphere = THIS
+						}
 					}
-					is_culture_group = scandinavian
-					in_sphere = THIS
 				}
-				country_event = { id=11101 days=0 }
-			}
-			any_country = {
-				limit = {
-					is_culture_group = scandinavian
-					} 
-				all_core = {
-					add_core = SCA
-				}
+				country_event = 11101
 			}
 		}
-		ai_will_do = {
-			factor = 1
-		}
+		ai_will_do = { factor = 1 }
 	}
 }
