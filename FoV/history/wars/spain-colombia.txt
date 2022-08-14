@@ -3,6 +3,9 @@ name = "Colombian War Of Independence"
 1835.10.2 = {
 	add_attacker = SPC
 	add_attacker = VNG
+	add_attacker = VOP
+	add_attacker = VLP
+	add_attacker = VNS
 	add_defender = CLM
 	
 	# actor
@@ -26,6 +29,9 @@ name = "Colombian War Of Independence"
 
 1866.6.6 = {
 	rem_attacker = SPC
+	rem_attacker = VOP
+	rem_attacker = VLP
 	rem_attacker = VNG
+	rem_attacker = VNS
 	rem_defender = CLM
 }

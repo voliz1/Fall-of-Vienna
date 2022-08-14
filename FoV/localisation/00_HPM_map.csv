@@ -404,7 +404,6 @@ PROV2112;Emnambithi;;;;;;;;;;;;;;;;;;;;x;
 ORA_2103;Basutoland;;;;;;;;;;;;;;;;;;;;x;
 ZUL_2113;Zululand;;;;;;;;;;;;;;;;;;;;x;
 PROV1152;Jeddah;;;;;;;;;;;;x
-CAN_13;Columbia;;;;;;;;;;;;x
 PROV13;New Westminster;;;;;;;;;;;;x
 PROV17;Stikine;;;;;;;;;;;;x
 CAN_19;New Caledonia;;;;;;;;;;;;x
@@ -662,7 +661,6 @@ PROV2843;Seto Inland Sea;;;;;;;;;;;;x
 PROV3126;Coast of Minami;;;;;;;;;;;;x
 BRA;Brunswick;;;;;;;;;;;;x
 BRA_ADJ;Brunswicker;;;;;;;;;;;;x
-CAN_13;Columbia;;;;;;;;;;;;x
 PROV13;New Westminster;;;;;;;;;;;;x
 PROV17;Stikine;;;;;;;;;;;;x
 PROV19;Valemount;;;;;;;;;;;;x
@@ -1010,3 +1008,6 @@ VNZ_2278;Nova Granada;;;;;;;;;;;x
 MEX_97;Nevada-Uta;;;;;;;;;;;x
 USA_91;Orejón Menor;;;;;;;;;;;x
 USA_81;Gran Oregón;;;;;;;;;;;x
+TEX_135;Colorado;;;;;;;;;;;x
+USA_121;Dakota;;;;;;;;;;;x
+CAN_13;Cascadia;;;;;;;;;;;x
