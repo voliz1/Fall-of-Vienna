@@ -5,6 +5,10 @@ REB 	= 	"countries/rebels.txt"
 
 ### NEW NATIONS MOD ###
 USS = "countries/United States of South America.txt"
+MIN = "countries/Ming China.txt"
+DAK = "countries/Dakota.txt"
+UPB = "countries/Portugal-Brazil.txt"
+HSA = "countries/Hispanic America.txt"
 
 
 ###France Mod###
@@ -19,6 +23,8 @@ OCC		="countries/Occitania.txt"
 ACA		="countries/Acadia.txt"
 VIC 	="countries/Nationalist France.txt"
 BOR		="countries/The Kingdom of France.txt"
+
+
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"
@@ -126,8 +132,6 @@ MGH		="countries/Maghreb.txt"
 
 #Latin America
 
-UPB     = "countries/Portugal-Brazil.txt"
-HSA     = "countries/Hispanic America.txt"
 BAH		= "countries/Bahia.txt"
 CHP		= "countries/Chiapas.txt"
 CEQ		= "countries/Equador Confederation.txt"
