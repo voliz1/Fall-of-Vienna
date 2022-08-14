@@ -81,7 +81,7 @@
 	}
 	
 	farmers = {
-		culture = arpitan
+		culture = french
 		religion = catholic
 		size = 11600
 	}
@@ -119,31 +119,31 @@
 	}
 
 	aristocrats = {
-		culture = arpitan
+		culture = french
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = arpitan
+		culture = french
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = arpitan
+		culture = french
 		religion = catholic
 		size = 1175
 	}
 
 	soldiers = {
-		culture = arpitan
+		culture = french
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = arpitan
+		culture = french
 		religion = catholic
 		size = 25600
 	}

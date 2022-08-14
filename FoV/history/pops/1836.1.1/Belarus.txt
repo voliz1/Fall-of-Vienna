@@ -487,14 +487,14 @@
 	}
 	
 	clergymen = {
-		culture = byelorussian
-		religion = orthodox
+		culture = polish
+		religion = catholic
 		size = 1050
 	}
 
 	artisans = {
-		culture = byelorussian
-		religion = orthodox
+		culture = polish
+		religion = catholic
 		size = 4200
 	}
 

@@ -1798,10 +1798,23 @@
 #Saint Petersburg (735000/147000 POPS)
 994 = {
 	aristocrats = {
+		culture = swedish
+		religion = orthodox
+		size = 3650
+	}
+	
+	aristocrats = {
 		culture = russian
 		religion = orthodox
-		size = 6650
+		size = 2650
 	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 1200
+	}
+
 
 	bureaucrats = {
 		culture = russian
@@ -1822,31 +1835,13 @@
 	}
 
 	artisans = {
-		culture = russian
-		religion = orthodox
+		culture = swedish
+		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = russian
-		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = russian
-		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = russian
-		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 10000
 	}
@@ -1872,7 +1867,13 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 16000
+		size = 8000
+	}
+	
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 8000
 	}
 
 	serfs = {
@@ -1884,7 +1885,13 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 50700
+		size = 20700
+	}
+	
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 20700
 	}
 
 	aristocrats = {
@@ -2099,7 +2106,7 @@
 	}
 
 	soldiers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 3200
 	}
@@ -2107,7 +2114,7 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 57800
+		size = 5800
 	}
 
 	clergymen = {

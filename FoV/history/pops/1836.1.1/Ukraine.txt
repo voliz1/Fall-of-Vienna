@@ -1416,7 +1416,7 @@
 #Kiev (492000/123000 POPS)
 958 = {
 	aristocrats = {
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size = 1300
 	}
@@ -1446,8 +1446,8 @@
 	}
 	
 	artisans = {
-		culture = ukrainian
-		religion = orthodox
+		culture = polish
+		religion = catholic
 		size = 500
 	}
 
@@ -1542,25 +1542,25 @@
 	}
 
 	officers = {
-		culture = russian
+		culture = polish
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = russian
+		culture = polish
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = russian
+		culture = polish
 		religion = orthodox
 		size = 100
 	}
 	
 	farmers = {
-		culture = russian
+		culture = polish
 		religion = orthodox
 		size = 250
 	}

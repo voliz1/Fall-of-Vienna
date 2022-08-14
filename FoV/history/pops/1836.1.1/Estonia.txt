@@ -19,6 +19,12 @@
 		religion = protestant
 		size = 325
 	}
+	
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 325
+	}
 
 	artisans = {
 		culture = estonian
@@ -111,37 +117,44 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 425
 	}
 
 	officers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 175
 	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 1200
+	}
+
 
 	soldiers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 	
 	farmers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
@@ -152,6 +165,12 @@
 		culture = estonian
 		religion = protestant
 		size = 425
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 325
 	}
 
 	artisans = {
@@ -173,31 +192,38 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 800
 	}
 
 	clergymen = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 1200
+	}
+
 
 	farmers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 1100
 	}
@@ -208,6 +234,12 @@
 		culture = volga_german
 		religion = protestant
 		size = 350
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 325
 	}
 
 	clergymen = {
@@ -251,6 +283,13 @@
 		religion = protestant
 		size = 200
 	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 1200
+	}
+
 
 	farmers = {
 		culture = estonian
@@ -270,6 +309,12 @@
 		culture = volga_german
 		religion = protestant
 		size = 100
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 325
 	}
 
 	artisans = {
@@ -315,25 +360,32 @@
 	}
 
 	clergymen = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 100
 	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 1200
+	}
+
 
 	farmers = {
-		culture = russian
+		culture = swedish
 		religion = orthodox
 		size = 1325
 	}
@@ -344,6 +396,12 @@
 		culture = volga_german
 		religion = protestant
 		size = 80
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 325
 	}
 
 	clergymen = {
@@ -392,6 +450,12 @@
 		culture = estonian
 		religion = protestant
 		size = 3225
+	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 1200
 	}
 
 }

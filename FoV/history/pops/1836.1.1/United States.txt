@@ -3480,6 +3480,60 @@
 		religion = protestant
 		size = 125
 	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
+	}
 
 	clergymen = {
 		culture = dixie
@@ -3498,9 +3552,21 @@
 		religion = protestant
 		size = 250
 	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
 
 	farmers = {
-		culture = dixie
+		culture = cajun
+		religion = protestant
+		size = 8250
+	}
+	
+	farmers = {
+		culture = cajun
 		religion = protestant
 		size = 8250
 	}
@@ -3577,6 +3643,18 @@
 		culture = dixie
 		religion = protestant
 		size = 50
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 
 	officers = {
@@ -3690,9 +3768,21 @@
 	}
 
 	artisans = {
-		culture = dixie
+		culture = cajun
 		religion = protestant
-		size = 175
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 
 	soldiers = {
@@ -3723,6 +3813,24 @@
 		culture = cajun
 		religion = catholic
 		size = 100
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 
 	farmers = {
@@ -3767,6 +3875,24 @@
 		culture = dixie
 		religion = protestant
 		size = 75
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 
 	artisans = {
@@ -3831,6 +3957,24 @@
 		culture = dixie
 		religion = protestant
 		size = 200
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 
 	bureaucrats = {
@@ -3900,6 +4044,24 @@
 		religion = protestant
 		size = 75
 	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
+	}
 
 	artisans = {
 		culture = dixie
@@ -3925,6 +4087,24 @@
 		culture = dixie
 		religion = protestant
 		size = 75
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 
 	artisans = {
@@ -3953,6 +4133,24 @@
 		culture = yankee
 		religion = catholic
 		size = 500
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 	
 	clergymen = {
@@ -4124,6 +4322,24 @@
 		religion = protestant
 		size = 75
 	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
+	}
 
 	artisans = {
 		culture = dixie
@@ -4161,6 +4377,24 @@
 		culture = yankee
 		religion = protestant
 		size = 25
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 
 	farmers = {
@@ -4229,6 +4463,24 @@
 		culture = yankee
 		religion = protestant
 		size = 75
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 
 	officers = {
@@ -4333,6 +4585,24 @@
 		culture = yankee
 		religion = catholic
 		size = 100
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 	
 	clergymen = {
@@ -4459,6 +4729,24 @@
 		size = 100
 	}
 	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
+	}
+	
 	clergymen = {
 		culture = yankee
 		religion = catholic
@@ -4568,6 +4856,24 @@
 		religion = protestant
 		size = 25
 	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
+	}
 
 	farmers = {
 		culture = yankee
@@ -4587,6 +4893,24 @@
 		culture = yankee
 		religion = catholic
 		size = 10
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2175
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
 	}
 
 	artisans = {
