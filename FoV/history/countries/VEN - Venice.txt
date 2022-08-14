@@ -1,6 +1,7 @@
 capital = 729
 primary_culture = north_italian
 add_culture = south_italian
+add_culture = greek
 religion = catholic
 government = democracy
 plurality = 0.1

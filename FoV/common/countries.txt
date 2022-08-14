@@ -126,6 +126,8 @@ MGH		="countries/Maghreb.txt"
 
 #Latin America
 
+UPB     = "countries/Portugal-Brazil.txt"
+HSA     = "countries/Hispanic America.txt"
 BAH		= "countries/Bahia.txt"
 CHP		= "countries/Chiapas.txt"
 CEQ		= "countries/Equador Confederation.txt"
