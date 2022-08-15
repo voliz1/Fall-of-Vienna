@@ -1,0 +1,39 @@
+Embrace_Greek_Minority = {
+        picture = embrace_minority
+        potential = {
+			tag = VEN
+			has_global_flag = Embrace_Greek_Minority
+			NOT = { has_global_flag = embraced_serbians }
+		}
+
+        allow = {
+			owns = 839
+			owns = 824
+			owns = 734
+            prestige = 30
+            idealism = 1
+			state_n_government = 1
+        }
+
+        effect = {
+            set_global_flag = Embrace_Greek_Minority
+            add_accepted_culture = greek
+			GRE = {
+				all_core = { add_core = VEN }
+			}
+            prestige = 5
+            any_pop = {
+                limit = { has_pop_culture = north_italian }
+                consciousness = 4
+                militancy = 4
+            }
+            any_pop = {
+                limit = { has_pop_culture = greek }
+                consciousness = -4
+                militancy = -4
+            }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
