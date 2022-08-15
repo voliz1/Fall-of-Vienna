@@ -50,9 +50,7 @@ political_decisions = {
 			tag = GRE
 			tag = ALB
 			NOT = {
-				exists = DLM
 				has_global_flag = Form_Dalmatia
-				has_country_flag = made_the_call_to_union
 			}
 		}
 		allow = {
