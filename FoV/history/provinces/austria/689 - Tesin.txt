@@ -2,7 +2,6 @@ owner = BRN
 controller = BRN
 add_core = BRN
 add_core = GER
-add_core = PLC
 add_core = BOH
 add_core = CZH
 add_core = SLS

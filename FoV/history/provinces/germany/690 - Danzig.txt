@@ -1,6 +1,7 @@
 owner = PLC
 controller = PLC
 add_core = PLC
+add_core = PRU
 trade_goods = fish
 life_rating = 40
 terrain = danzig

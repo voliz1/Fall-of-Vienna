@@ -1,7 +1,6 @@
 owner = BRN
 controller = BRN
 add_core = BRN
-add_core = PLC
 add_core = GER
 add_core = SLS
 trade_goods = coal

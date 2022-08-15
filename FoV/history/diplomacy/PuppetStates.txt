@@ -644,18 +644,10 @@ vassal = {
 
 # China/Tibet.
 vassal = {
-	first = QNG
+	first = MIN
 	second = TIB
 	start_date = 1815.11.9
 	end_date = 1912.1.1
-}
-
-#China/Korea
-vassal = {
-	first = QNG
-	second = KOR
-	start_date = 1636.1.1
-	end_date = 1876.1.1
 }
 
 
@@ -666,6 +658,14 @@ vassal = {
 	second = CAM
 	start_date = 1861.1.1
 	end_date = 1936.1.1
+}
+
+# Siam - vietnam
+vassal = {
+	first = SIA
+	second = DAI
+	start_date = 1826.1.1
+	end_date = 1975.1.1
 }
 
 # Siam - Champasak 
