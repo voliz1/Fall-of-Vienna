@@ -1,13 +1,15 @@
 political_decisions = {
 	Integrate_The_Baltics = {
 		potential = {	
-						OR = {
-					 tag = SCA	
-					 tag = SWE
-					 tag = RUS
-					 tag = PLC
+			OR = {
+				tag = SCA	
+				tag = SWE
+				tag = RUS
+				tag = PLC
 					}
-		}
+			NOT = { 
+				has_country_flag = Integrated_The_Baltics }
+        }
 		allow = {
 				owns = 349
 				owns = 354
@@ -15,10 +17,117 @@ political_decisions = {
 				nationalism_n_imperialism = 1
 		}
 		effect = { 
+				set_country_flag = Integrated_The_Baltics
 				add_accepted_culture = latvian
 				add_accepted_culture = estonian
-	 
+				add_accepted_culture = lithuanian
+			LIT = {
+				all_core = { add_core = THIS }
+			}
+			LAT = {
+				all_core = { add_core = THIS }
+			}
+			EST = {
+				all_core = { add_core = THIS }
+			}
+        }
+	 ai_will_do = {
+            factor = 1
 		}
 	}
-}
+	
+	The_German_Baltics = {
+		potential = {	
+			tag = GER	
+			NOT = { has_global_flag = The_German_Baltics }
+		}
+		allow = {
+				owns = 349
+				owns = 354
+				owns = 358
+				owns = 363
+				owns = 695
+				owns = 690
+				owns = 680
+				owns = 548
+				nationalism_n_imperialism = 1
+				has_global_flag = Reclaim_Prussia
+		}
+		effect = { 
+				set_global_flag = The_German_Baltics
+				add_accepted_culture = latvian
+				add_accepted_culture = estonian
+				add_accepted_culture = lithuanian
+				prestige 20
+				badboy = 10
+				LIT = {
+				all_core = { add_core = GER }
+			}
+				LAT = {
+				all_core = { add_core = GER }
+			}
+				EST = {
+				all_core = { add_core = GER }
+			}
+			
+			
+		}
+		ai_will_do = {
+            factor = 1
+        }	
+	}
+
+	
+	
+Baltic_Empire = {
+		potential = {	
+			OR = {
+				tag = SCA
+				tag = DEN
+				tag = SWE
+					}
+			NOT = { 
+				has_global_flag = Baltic_Empire }
+        }
+		allow = {
+				owns = 349
+				owns = 354
+				owns = 358
+				owns = 363
+				owns = 695
+				owns = 690
+				owns = 343
+				owns = 372
+				owns = 322
+				owns = 994
+				revolution_n_counterrevolution = 1
+		}
+		effect = { 
+				set_global_flag = Baltic_Empire
+				add_accepted_culture = latvian
+				add_accepted_culture = estonian
+				add_accepted_culture = lithuanian
+				add_accepted_culture = volga_german
+			LIT = {
+				all_core = { add_core = THIS }
+			}
+			LAT = {
+				all_core = { add_core = THIS }
+			}
+			EST = {
+				all_core = { add_core = THIS }
+			}
+			PRU = {
+				all_core = { add_core = THIS }
+			}
+        }
+	 ai_will_do = {
+            factor = 1
+		}
+	}	
+	
+	
+	
+}	
+
 

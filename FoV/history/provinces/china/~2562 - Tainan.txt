@@ -1,5 +1,5 @@
-owner = MIN
-controller = MIN
+owner = TKG
+controller = TKG
 add_core = CHI
 add_core = FJN
 trade_goods = timber

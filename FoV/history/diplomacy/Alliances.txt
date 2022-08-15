@@ -154,13 +154,6 @@ alliance = {
 	start_date = 1835.1.1
 	end_date = 1861.1.1
 }
-#China/Lanfang
-alliance = {
-	first = QNG
-	second = LAN
-	start_date = 1835.1.1
-	end_date = 1911.1.1
-}
 
 alliance = {
 		first = QNG 
@@ -180,6 +173,13 @@ alliance = {
 alliance = {
 	first = SIA
 	second = CHK
+	start_date = 1835.1.1
+	end_date = 1911.1.1
+}
+#Siam/Champassak
+alliance = {
+	first = SIA
+	second = DAI
 	start_date = 1835.1.1
 	end_date = 1911.1.1
 }
@@ -219,6 +219,31 @@ alliance = {
 	start_date = 1835.1.1
 	end_date = 1855.1.1
 }
+alliance = {
+	first = SPA
+	second = VNS
+	start_date = 1835.1.1
+	end_date = 1936.1.1
+}
+alliance = {
+	first = SPA
+	second = VLP
+	start_date = 1835.1.1
+	end_date = 1936.1.1
+}
+alliance = {
+	first = SPA
+	second = VOP
+	start_date = 1835.1.1
+	end_date = 1936.1.1
+}
+alliance = {
+	first = SPA
+	second = VNG
+	start_date = 1835.1.1
+	end_date = 1936.1.1
+}
+
 alliance = {
 	first = WES
 	second = PRU
