@@ -311,7 +311,7 @@
 	}
 
 	farmers = {
-		culture = north_german
+		culture = rhinelander
 		religion = protestant
 		size = 1200
 	}

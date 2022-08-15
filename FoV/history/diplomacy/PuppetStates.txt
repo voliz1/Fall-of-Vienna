@@ -47,20 +47,6 @@ substate = {
 
 substate = {
 	first = ENG
-	second = AST
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = ENG
-	second = NZL
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = ENG
 	second = MRU
 	start_date = 1815.1.1
 	end_date = 1936.1.1

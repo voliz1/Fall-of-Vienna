@@ -1,8 +1,8 @@
-owner = FRA
+owner = BOR
 
-controller = FRA
+controller = BOR
 
-add_core = FRA
+add_core = BOR
 add_core = BRT
 
 trade_goods = grain

@@ -403,6 +403,7 @@ POR		= "countries/Portugal.txt"
 SCO		= "countries/Scotland.txt"
 SPA		= "countries/Spain.txt"
 WLL		= "countries/Wallonia.txt"
+LOT		= "countries/Lotharingia.txt"
 
 # Germany
 ANH		= "countries/Anhalt.txt"

@@ -1,8 +1,12 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = BOR
+controller = BOR
+add_core = BOR
 add_core = LUX
 add_core = NET
+add_core = RHI
+add_core = GER
+add_core = BEL
+add_core = WLL
 trade_goods = iron
 fort = 2
 life_rating = 35

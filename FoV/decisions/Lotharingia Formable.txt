@@ -1,0 +1,65 @@
+political_decisions = {
+	reunify_lotharingia = {
+		potential = {
+			OR = {
+				tag = BOR
+				tag = FRA
+				tag = NET
+			}
+			NOT = { exists = LOT }
+			NOT = { has_global_flag = lotharingia_formation }
+		}
+	
+		allow = {
+			war = no
+			NOT = {
+				average_militancy = 2
+				num_of_revolts = 1
+			}
+			owns = 425
+			owns = 458
+			owns = 387
+			owns = 375
+			owns = 380
+			owns = 383
+			owns = 428
+			nationalism_n_imperialism = 1
+		}
+	
+		effect = {
+			prestige = 20
+			set_global_flag = lotharingia_formation
+			add_accepted_culture = french
+			add_accepted_culture = dutch
+			add_accepted_culture = flemish
+			add_accepted_culture = picard
+			add_accepted_culture = arpitan
+			add_accepted_culture = rhenish
+			add_accepted_culture = french_australian
+			badboy = 8
+			political_reform = state_equal_weight
+			political_reform = federalism
+			change_tag = LOT
+			inherit = FRA
+			inherit = NET
+			inherit = RHI
+			FRA = {
+				all_core = { add_core = LOT }
+				}
+			NET = {
+				all_core = { add_core = LOT }
+				}
+			RHI = {
+				all_core = { add_core = LOT }
+				}
+				nationalvalue = nv_order
+				add_country_modifier = {
+                name = national_confusion
+                duration = 3650
+            }
+			ai_will_do = {
+            factor = 1
+				}
+			}
+	}
+}

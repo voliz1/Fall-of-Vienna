@@ -1,8 +1,8 @@
-color = { 0 135 81 }
-graphical_culture = BritishGC
+color = { 35 48 77 }
+graphical_culture = FrenchGC
 
 party = {
-	name = "AST_liberal"
+	name = "QUE_liberal"
 	start_date = 1830.1.1
 	end_date = 1909.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-	name = "AST_conservative"
+	name = "QUE_conservative"
 	start_date = 1830.1.1
 	end_date = 1909.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-	name = "AST_socialist"
+	name = "QUE_socialist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-	name = "AST_liberal_2"
+	name = "QUE_liberal_2"
 	start_date = 1909.1.1
 	end_date = 2000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "AST_conservative_2"
+	name = "QUE_conservative_2"
 	start_date = 1919.1.1
 	end_date = 2000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "AST_communist"
+	name = "QUE_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-	name = "AST_reactionary"
+	name = "QUE_reactionary"
 	start_date = 1820.1.1
 	end_date = 2000.1.1
 
@@ -107,7 +107,7 @@ party = {
 }
 
 party = {
-	name = "AST_anarcho_liberal"
+	name = "QUE_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -137,31 +137,66 @@ party = {
 }
 
 unit_names = {
-	dreadnought = { "Big Bruce" Tasmania Queensland "New South Wales" Commonwealth             
-
+	dreadnought = {
+		"Dunkerque" "Strasbourg" "Richelieu" "Clemenceau" "Petain" "Napoléon" "Poincare"
+		"Louis XIV" "Alsace" "Bourgogne" "Poitou" "Calais" "Rouen" "Brest" "Dévastation"
+		"Courbet" "Amiral Duperré" "Terrible" "Indomptable" "Caiman" "Requin" "Admiral Baudin"
+		"Formidable" "Hoche" "Marceau" "Magenta" "Neptune" "Brennus" "Charles Martel" "Carnot"
+		"Jauréguiberry" "Masséna" "Bouvet" "Charlemagne" "Saint Louis" "Gaulois" "Henri IV"
+		"Iéna" "Suffren" "République" "Patrie" "Démocratie" "Justice" "Liberté" "Verité"
+		"Danton" "Diderot" "Mirabeau" "Vergniaud" "Voltaire" "Condorcet" "Courbet" "France"
+		"Jean Bart" "Paris" "Fleurus" "Bretagne" "Lorraine" "Provence" "Bearn" "Flandre"
+		"Gascoigne" "Languedoc" "Normandie" "Guyenne" "Champagne" "Auvergne" "Lille" "Lyon"
+		"Orleans" "La Rochelle" "Bourdeaux"
 	}
-	ironclad = { Victoria Paluma Fantome "Alf Stewart" Perth 
-                        
+	ironclad = {
+		"Congreve" "Foudroyante" "Lave" "Tonnante" "Gloire" "Invincible" "Normandie" "Couronne"
+		"Magenta" "Solferino" "Flandre" "Gauloise" "Magnanime" "Provence" "Revanche" "Savoie"
+		"Surveillante" "Valeureuse" "Héroïne"
 	}
-	manowar = { Spitfire Adelaide "Gold Coast" Murray Sheila 
-		 
+	manowar = {
+		"Alexandre" "Breslaw" "Prince Jérôme" "Ville de Paris" "Ville de Nantes" "Duguay-Trouin"
+		"Tage" "Donawerth" "Saint Louis" "Fontenoy" "Turenne" "Ville de Bordeaux" "Castiglione"
+		"Masséna" "Bayard" "Ville de Lyon" "Louis XIV"
 	}
-	cruiser = { Australia Melbourne Sydney Encounter Brisbane Pioneer Protector 
-		 
+	cruiser = {
+		"Clovis" "Maurice de Saxe" "Vercingetorix" "Richemont" "Dunois" "Ney" "Leger" "Vauban"
+		"Conde" "Turenne" "Montebello" "Austerlitz" "Souverain" "Navarin" "Ulm" "Wagram"
+		"Algésiras" "Arcole" "Friedland" "Impérial" "Eylau" "Tilsitt" "Jena" "Auerstadt"
+		"Marengo" "Toulon" "Bellone" "Glorieuse" "Gracieuse" "Audacieuse" "Impétueuse" "Ardente"
+		"Victoire" "Guerrière" "Téméraire" "Triomphant" "Tigre" "Persévérante" "Vigilant"
+		"Tenace" "Élan" "Duguay Trouin" "Lamotte-Picquet" "Primaguet" "Duquesne" "Tourville"
+		"Colbert" "Foch" "Algérie" "Jeanne D'Arc" "Maroc" "Lafayette" "Davout" "Suchet" "Forbin"
+		"Surcouf" "Cosmao" "Lalande" "Galilée" "Lavoisier" "Linois" "La Galissionere"
+		"Jean de Vienne" "Gloire" "Marseillaise" "Georges Leygues" "De Grasse" "La Fantasque"
+		"Iphigenie" "Naiade" "Arethuse" "Dubourdieu" "Milan" "Belliqueuse" "Sfax" "Tage"
+		"Amiral Cécille" "Davout" "Suchet" "Coëtlogon" "Forbin" "Surcouf" "Cosmao" "Lalande"
+		"Troude" "Galilée" "Lavoisier" "Linois" "Tunisié" "Isly" "Bugeaud" "Chasseloup-Laubat"
+		"Friant" "Descartes" "Pascal" "Cassard" "D'Assas" "Du Chayla" "Catinat" "Protet"
+		"D'Entrecasteaux" "Guichen" "Châteaurenault" "D'Estrées" "Infernet" "Jurien de la Gravière"
+		"Pluton" "Emile Bertin" "Dupuy de Lome" "Admiral Charner" "Bruix" "Chanzy" "Latouche-Treville"
+		"Pothau" "Dupetit-Thouars" "Gueydon" "Montcalm" "Desaix" "Dupleix" "Kleber"
+		"Amiral Aube" "Conde" "Sully" "Leon Gambetta" "Victor Hugo" "Jules Michelet"
+		"Ernest Renan" "Edgar Quinet" "Waldeck-Rousseau" "Thionville" "Metz" "Mulhouse" "Colmar"
+		"D'Assas" "Du Chayla" "Catinat" "Protet" "D'Entrecasteaux" "Guichen" "Châteaurenault"
 	}
-	frigate = { Darwin Darling Diamantina Dawson Dee 
-		 
+	frigate = {
+		"Condor" "Epervier" "Faucon" "Vautour" "Wattignies" "Levrier" "Casablanca" "D'Iberville"
+		"Cassini" "Lahire" "Circé" "Hermione" "Pallas" "Sémiramis" "Armorique" "Junon"
+		"Magicienne" "Thémis" "Flore"
 	}
-	monitor = { Cerberus Nelson Gayunda "Bass Strait" "Mount Kosciuszko"
-                        
+	monitor = {
+		"Océan" "Marengo" "Suffren" "Friedland" "Richelieu" "Colbert" "Trident"
 	}
-	clipper_transport = { 
-		 
+	clipper_transport = {
 	}
-	steam_transport = { Kanowna 
-		
+	steam_transport = {
 	}
-	commerce_raider = { Alexander Charlotte "Lady Penrhyn" "Prince of Wales" Scarborough 
-		 
+	commerce_raider = {
+		"Asmodée" "Gomer" "Darien" "Labrador" "Ulloa" "Cacique" "Canada" "Christophe Colomb"
+		"Eldorado" "Magellan" "Montezuma" "Orénoque" "Panama" "Albatros" "Descartes" "Vauban"
+		"Caffarelli" "Mogador" "Pomone" "Isly" "Bellone" "Foudre" "Impératrice Eugénie"
+		"Souveraine" "Audacieuse" "Impétueuse" "Ardente" "Victoire" "Guerrière" "Renommée"
+		"Danaé" "Pandore" "Zénobie" "Clorinde" "Astrée"
 	}
 }

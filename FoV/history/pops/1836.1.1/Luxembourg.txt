@@ -3,43 +3,43 @@
 #Luxembourg (172000/43000 POPS)
 397 = {
 	aristocrats = {
-		culture = north_german
+		culture = rhinelander
 		religion = catholic
 		size = 175
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = rhinelander
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = rhinelander
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = north_german
+		culture = rhinelander
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = rhinelander
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = rhinelander
 		religion = catholic
 		size = 17900
 	}
 	
 	craftsmen = {
-		culture = north_german
+		culture = rhinelander
 		religion = catholic
 		size = 20
 	}

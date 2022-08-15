@@ -191,7 +191,7 @@ DEN_372 = { 372 373 374 } #Sjaelland
 
 NET_375 = { 375 376 377 382 } #Holland
 
-NET_379 = { 379 378 380 381 } #Zeeland
+NET_379 = { 379 378 380 } #Zeeland
 
 NET_385 = { 385 383 384 386 } #Friesland
 
@@ -212,7 +212,7 @@ FRA_411 = { 411 413 414 } #Lorraine
 
 FRA_432 = { 432 433 } #Franche-Comté
 
-FRA_412 = { 412 409 410 } #Alsace-Lorraine
+FRA_412 = { 412 409 410 397 } #Alsace-Lorraine
 
 FRA_418 = { 418 415 416 417 } #Normandie
 
@@ -298,7 +298,7 @@ HES_2560 = { 564 565 566 567 568 2560 3257 3270 } #Hessen
 
 PRU_570 = { 570 573 574 571 } #Palatinate
 
-PRU_575 = { 575 576 577 572 397 396 } #Rheinland
+PRU_575 = { 575 576 577 572 396 381 } #Rheinland
 
 PRU_578 = { 578 579 2561 3265 } #Eastern Rheinland
 
@@ -1276,21 +1276,21 @@ ARG_2398 = { 2131 2398 2399 2400 } #Patagonia Meridional
 
 ### Australia & New Zealand
 
-ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2475 2508 } #New South Wales
+ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2475 2508 2490 } #New South Wales
 
 ENG_2476 = { 2476 2477 2478 2479 2480 2481 2482 } #Victoria
 
 ENG_2483 = { 2483 2484 2485 2486 2487 2488 } #Queensland
 
-ENG_2491 = { 2491 2492 2493 2494 2495 2496 } #South Australia
+ENG_2491 = { 2491 2492 2493 2494 2495 2496 2475 } #South Australia/Nouvelle-Belgique
 
-ENG_2499 = { 2499 2497 2504 2500 2503 } #Southwest Australia
+ENG_2499 = { 2499 2497 2504 2500 2503 2498 } #Southwest Australia/Nouvelle-Bretagne
 
-ENG_2497 = { 2501 2502 2601 2602 2605 } #Northwest Australia
+ENG_2497 = { 2501 2502 2601 2602 2605 } #Northwest Australia/Terrejenne
 
-ENG_2505 = { 2505 2506 2507 2603 } #Northern Territory
+ENG_2505 = { 2505 2506 2489 2604 2507 2603} #Northern Territory/Port de Vienne
 
-ENG_2604 = { 2604 2489 2490 } #Inner Australia
+ENG_2604 = { } #Inner Australia
 
 ENG_2509 = { 2509 2510 2511 2512 2571 } #North Island - Aotearoa
 

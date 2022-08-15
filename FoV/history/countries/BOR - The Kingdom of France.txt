@@ -6,16 +6,19 @@ culture = breton
 culture = arpitan
 culture = cajun
 culture = french_canadian
+culture = french_australian
 religion = catholic
-government = hms_government
+government = absolute_monarchy
 plurality = 25
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.50
 non_state_culture_literacy = 0.01
 civilized = yes
 
 #GreaterPowers = prestige
 prestige = 90
+
+oob = "BOR_oob.txt"
 
 # Political reforms
 slavery = yes_slavery

@@ -2,6 +2,7 @@ capital = 549
 primary_culture = north_german
 culture = south_german
 culture = volga_german
+culture = rhinelander
 religion = protestant
 government = absolute_monarchy
 plurality = 0.15

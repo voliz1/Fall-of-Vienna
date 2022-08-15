@@ -1,7 +1,9 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = BOR
+controller = BOR
+add_core = BOR
 add_core = ALS
+add_core = RHI
+add_core = GER
 trade_goods = cattle
 life_rating = 31
 #state_building = {
