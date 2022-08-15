@@ -1,9 +1,9 @@
-Embrace_Greek_Minority = {
+political_decisions = {
+	Embrace_Greek_Minority = {
         picture = embrace_minority
         potential = {
 			tag = VEN
-			has_global_flag = Embrace_Greek_Minority
-			NOT = { has_global_flag = embraced_serbians }
+			NOT = { has_global_flag = Embrace_Greek_Minority }
 		}
 
         allow = {
@@ -36,4 +36,199 @@ Embrace_Greek_Minority = {
         ai_will_do = {
             factor = 1
         }
-    }
+		
+	}
+	
+	
+	
+
+	Form_Dalmatia = {
+		picture = italian_dalmatia
+		potential = {
+			tag = CRO
+			tag = VEN
+			tag = GRE
+			tag = ALB
+			NOT = {
+				exists = DLM
+				has_global_flag = Form_Dalmatia
+				has_country_flag = made_the_call_to_union
+			}
+		}
+		allow = {
+			
+			war = no
+			prestige = 50
+			is_greater_power = yes
+			has_global_flag = Form_Dalmatia
+			nationalism_n_imperialism = 1
+			SER = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = HUN
+								vassal_of = BRN
+								vassal_of = FRA
+							}
+						}
+					}
+				}
+			}
+			CRO = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = HUN
+								vassal_of = BRN
+								vassal_of = FRA
+							}
+						}
+					}
+				}
+			}
+			BOS = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = HUN
+								vassal_of = BRN
+								vassal_of = FRA
+							}
+						}
+					}
+				}
+			}
+			ALB = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = HUN
+								vassal_of = BRN
+								vassal_of = FRA
+							}
+						}
+					}
+				}
+			}
+			VEN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = HUN
+								vassal_of = BRN
+								vassal_of = FRA
+							}
+						}
+					}
+				}
+			}
+			GRE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = HUN
+								vassal_of = BRN
+								vassal_of = FRA
+							}
+						}
+					}
+				}
+			}
+			MON = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = HUN
+								vassal_of = BRN
+								vassal_of = FRA
+							}
+						}
+					}
+				}
+			}
+			MCD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = HUN
+								vassal_of = BRN
+								vassal_of = FRA
+							}
+						}
+					}
+				}
+			}
+			
+		}
+		effect = {
+			set_global_flag = Form_Dalmatia
+			prestige = 20
+			change_tag = DLM
+			badboy = 20
+			SER = { all_core = { add_core = DLM } }
+			CRO = { all_core = { add_core = DLM } }
+			BOS = { all_core = { add_core = DLM } }
+			ALB = { all_core = { add_core = DLM } }
+			VEN = { all_core = { add_core = DLM } }
+			GRE = { all_core = { add_core = DLM } }
+			MON = { all_core = { add_core = DLM } }
+			MCD = { all_core = { add_core = DLM } }
+			inherit = SER
+			inherit = CRO
+			inherit = BOS
+			inherit = ALB
+			inherit = VEN
+			inherit = GRE
+			inherit = MON
+			inherit = MCD
+			
+			
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+		
+
+}
