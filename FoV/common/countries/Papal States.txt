@@ -1,4 +1,4 @@
-color = { 229 150 87 }
+color = { 245 196 122 }
 graphical_culture = ItalianGC
 
 party = {

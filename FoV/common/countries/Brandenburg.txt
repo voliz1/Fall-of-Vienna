@@ -1,5 +1,5 @@
 color = {
-    37  31  27
+    41  35  27
 }
 graphical_culture = EuropeanGC
 
