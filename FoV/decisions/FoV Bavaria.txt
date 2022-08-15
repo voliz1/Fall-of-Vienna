@@ -1,0 +1,31 @@
+political_decisions = {
+	Claim_Austria = {
+        picture = marching_soldiers
+        potential = {
+			OR = {
+				tag = BAV
+			}
+			NOT = { has_global_flag = Claim_Austria }
+		}
+
+        allow = {
+            prestige = 30
+			is_greater_power = yes
+			war = no
+			owns = 619
+            state_n_government = 1
+        }
+
+        effect = {
+            set_global_flag = Claim_Austria
+			AUS = {
+				all_core = { add_core = BAV }
+			}
+            prestige = 15
+			badboy = 10
+        }  
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}
