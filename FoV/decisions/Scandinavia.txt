@@ -3,6 +3,7 @@ political_decisions = {
 		potential = {
 			NOT = { exists = SCA } 
 			capital_scope = { continent = europe }
+		is_culture_group = scandinavian
 		}
 		
 		allow = {

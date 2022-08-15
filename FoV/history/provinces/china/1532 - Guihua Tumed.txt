@@ -1,6 +1,6 @@
-owner = IMG
-controller = IMG
+owner = QNG
+controller = QNG
 add_core = CHI
-add_core = IMG
+add_core = QNG
 trade_goods = coal
 life_rating = 32

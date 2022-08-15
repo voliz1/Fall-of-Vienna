@@ -331,6 +331,30 @@
 		religion = protestant
 		size = 50
 	}
+	
+	aristocrats = {
+		culture = volga_german
+		religion = protestant
+		size = 750 
+	}
+
+	clergymen = {
+		culture = volga_german
+		religion = protestant
+		size = 200   
+	}
+
+	artisans = {
+		culture = volga_german
+		religion = protestant
+		size = 2400   
+	}
+
+	soldiers = {
+		culture = volga_german
+		religion = protestant
+		size = 1100
+	}
 
 	bureaucrats = {
 		culture = finnish
