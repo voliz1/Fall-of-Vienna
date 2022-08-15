@@ -1876,7 +1876,7 @@
 	soldiers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 6100
+		size = 2100
 	}
 
 	farmers = {
@@ -1974,7 +1974,7 @@
 	soldiers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 15100
+		size = 1100
 	}
 
 	farmers = {
@@ -3921,7 +3921,7 @@
 	soldiers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 6425
+		size = 1425
 	}
 
 	farmers = {

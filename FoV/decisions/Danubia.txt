@@ -6,7 +6,6 @@ political_decisions = {
 				tag = HUN
 				tag = ROM
 				tag = CRO
-				tag = DAL
 			}
 			NOT = { has_global_flag = danube_creation }
         }
@@ -17,19 +16,92 @@ political_decisions = {
                 average_militancy = 1
                 num_of_revolts = 1
             }
-			owns = 647
-			owns = 659
-			owns = 641
-			owns = 661
-			owns = 670
-			owns = 639
-			owns = 633
-			owns = 767
-			owns = 771
-			owns = 779
-			owns = 792
-			owns = 653
-			owns = 664
+			ROM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = BRN
+								vassal_of = RUS
+								vassal_of = PLC
+							}
+						}
+					}
+				}
+			}
+			CRO = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = BRN
+								vassal_of = VEN
+								vassal_of = PLC
+							}
+						}
+					}
+				}
+			}
+			SLO = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = BRN
+								vassal_of = VEN
+								vassal_of = PLC
+							}
+						}
+					}
+				}
+			}
+			HUN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = BRN
+								vassal_of = VEN
+								vassal_of = PLC
+							}
+						}
+					}
+				}
+			}
+			BOS = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = BRN
+								vassal_of = VEN
+								vassal_of = PLC
+							}
+						}
+					}
+				}
+			}
+			
 			nationalism_n_imperialism = 1
         }
 
@@ -57,6 +129,9 @@ political_decisions = {
 				all_core = { add_core = DNB }
 			}
 			HUN = {
+				all_core = { add_core = DNB }
+			}
+			BOS = {
 				all_core = { add_core = DNB }
 			}
 			inherit = HUN
@@ -89,9 +164,23 @@ political_decisions = {
 		}
 
         allow = {
-			owns = 809
-			owns = 674
-			owns = 816
+			BUL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = BRN
+								vassal_of = VEN
+								vassal_of = RUS
+							}
+						}
+					}
+				}
+			}
             prestige = 50
             revolution_n_counterrevolution = 1
             experimental_psychology = 1
@@ -133,9 +222,23 @@ political_decisions = {
 		}
 
         allow = {
-			owns = 794
-			owns = 783
-			owns = 792
+			SER = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = BRN
+								vassal_of = VEN
+								vassal_of = RUS
+							}
+						}
+					}
+				}
+			}
             prestige = 50
             nationalism_n_imperialism = 1
             experimental_psychology = 1
@@ -162,6 +265,7 @@ political_decisions = {
                 consciousness = -4
                 militancy = -4
             }
+			inherit SER
         }
         ai_will_do = {
             factor = 1
@@ -181,9 +285,23 @@ political_decisions = {
 		}
 
         allow = {
-			owns = 850
-			owns = 853
-			owns = 852
+			ALB = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = TUR
+								vassal_of = RUS
+								vassal_of = VEN
+								vassal_of = ITA
+							}
+						}
+					}
+				}
+			}
             prestige = 50
             revolution_n_counterrevolution = 1
             experimental_psychology = 1
@@ -206,6 +324,7 @@ political_decisions = {
                 consciousness = -4
                 militancy = -4
             }
+			inherit ALB
         }
         ai_will_do = {
             factor = 1

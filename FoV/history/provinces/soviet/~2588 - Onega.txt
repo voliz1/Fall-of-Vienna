@@ -1,6 +1,5 @@
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = RUS
+controller = RUS
 add_core = RUS
 trade_goods = timber
 terrain = boreal
