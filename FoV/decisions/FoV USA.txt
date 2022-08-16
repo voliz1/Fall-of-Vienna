@@ -1,0 +1,69 @@
+political_decisions = {
+
+Claim_Florida = {
+        picture = embrace_minority
+        potential = {
+			tag = USA
+			NOT = { has_global_flag = Claim_Florida }
+		}
+
+        allow = {
+			FLD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = SPA
+								vassal_of = SPC
+								vassal_of = MEX
+								vassal_of = ULA
+							}
+						}
+					}
+				}
+			}
+            prestige = 50
+            idealism = 1
+        }
+
+        effect = {
+            set_global_flag = Claim_Florida
+			add_accepted_culture = floridian
+			FLD = {
+				all_core = { add_core = USA }
+			}
+            prestige = 10
+            any_pop = {
+                limit = { has_pop_culture = yankee }
+                consciousness = 4
+                militancy = 4
+            }
+            any_pop = {
+                limit = { has_pop_culture = dixie }
+                consciousness = -4
+                militancy = -4
+            }
+			badboy = 5
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
