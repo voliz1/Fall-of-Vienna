@@ -1,5 +1,5 @@
-capital = 1616
-primary_culture = han_chinese
+capital = 2221
+primary_culture = south_han
 religion = confucian
 government = absolute_empire
 plurality = 0.0
