@@ -1,8 +1,6 @@
-owner = NCT
-controller = NCT
-add_core = NCT
+owner = SWI
+controller = SWI
 add_core = SWI
-add_core = BRN
 trade_goods = coal
 life_rating = 32
 

@@ -23,7 +23,7 @@ political_decisions = {
 		picture = cavours_diplomacy
 		potential = {
 			OR = {
-				tag = SAR
+				tag = VEN
 				tag = SVY
 			}
 			NOT = { exists = ITA }
@@ -97,7 +97,7 @@ political_decisions = {
 			}
 			FRA = {
 				war = no
-				is_disarmed = no
+				is_diVENmed = no
 				NOT = { num_of_revolts = 1 }
 				NOT = { truce_with = AUS }
 				NOT = { truce_with = KUK }
@@ -349,7 +349,7 @@ political_decisions = {
 	statuto_albertino = {
 		potential = {
 			OR = {
-				tag = SAR
+				tag = VEN
 				tag = SVY
 			}
 			OR = { 
@@ -469,7 +469,7 @@ political_decisions = {
 	picture = garibaldi_redshirts
 		potential = {
 			OR = {
-				tag = SAR
+				tag = VEN
 				tag = ITA
 			}
 			OR = {
@@ -501,7 +501,7 @@ political_decisions = {
 			any_country = {
 				limit = {
 					is_culture_group = THIS
-					NOT = { tag = SAR }
+					NOT = { tag = VEN }
 					NOT = { has_country_flag = post_colonial_country }
 				}
 				any_owned = {
@@ -521,7 +521,7 @@ political_decisions = {
 					militancy = 10
 				}
 				relation = {
-					who = SAR
+					who = VEN
 					value = -50
 				}
 				add_country_modifier = {
@@ -771,7 +771,7 @@ political_decisions = {
 	war_italian_independence = {
 		potential = {
 			OR = {
-				tag = SAR
+				tag = VEN
 				tag = SVY
 			}
 			ai = yes
@@ -987,132 +987,9 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 
-	we_are_italian = {
-		picture = form_italy
-		potential = {
-			OR = {
-				tag = CRS
-				tag = TRE
-				tag = LOM
-				tag = VEN
-				tag = RMG
-				tag = SRD
-				tag = SYC
-			}
-			exists = yes
-			NOT = { has_country_flag = we_are_italian }
-		}
+	
 
-		allow = {
-			war = no
-		}
-
-		effect = {
-			set_country_flag = we_are_italian
-			all_core = { add_core = ITA }
-			any_pop = {
-				limit = {
-					OR = {
-						has_pop_culture = north_italian
-						has_pop_culture = south_italian
-					}
-				}
-				militancy = -4
-			}
-			random_country = {
-				limit = {
-					is_culture_group = italian
-					is_greater_power = yes
-					THIS = {
-						NOT = { sphere_owner = { is_culture_group = italian } }
-					}
-				}
-				diplomatic_influence = {
-					who = THIS
-					value = 100
-				}
-			}
-			any_country = {
-				limit = {
-					is_culture_group = italian
-				}
-				relation = {
-					who = THIS
-					value = 100
-				}
-			}
-		}
-		
-		ai_will_do = { factor = 1 }
-	}
-
-	unite_with_tuscany = {
-		picture = gtfo
-		potential = {
-			tag = LUC
-			exists = TUS
-			NOT = { has_country_flag = unite_with_tuscany }
-		}
-
-		allow = {
-			war = no
-			is_vassal = no
-			OR = {
-				part_of_sphere = no
-				AND = {
-					sphere_owner = { is_sphere_leader_of = TUS }
-					year = 1847
-				}
-			}
-			TUS = {
-				war = no
-				neighbour = LUC
-				is_vassal = no
-			}
-		}
-
-		effect = {
-			set_country_flag = unite_with_tuscany
-			all_core = {
-				remove_core = LUC
-				add_core = TUS
-			}
-			random_country = {
-				limit = {
-					tag = TUS
-					ai = yes
-					LUC = { ai = yes }
-				}
-				inherit = LUC
-			}
-			random_country = {
-				limit = {
-					tag = TUS
-					ai = yes
-					LUC = { ai = no }
-				}
-				any_owned = { secede_province = LUC }
-				LUC = {
-					random_owned = {
-						limit = { province_id = 744 }
-						owner = { capital = 744 }
-					}
-					change_tag = TUS
-				}	
-			}
-			random_country = {
-				limit = {
-					tag = TUS
-					ai = no
-				}
-				country_event = 60130
-			}
-		}
-
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	
 	
 	treaty_of_ouchy = {
 		picture = treaty_signing
@@ -1209,98 +1086,8 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 	
-	become_savoy = {
-		potential = {
-			tag = SAR
-			NOT = {
-				exists = SVY
-				owns = 765
-			}
-		}
 
-		allow = {
-			war = no
-			owns = 720
-			NOT = { owns = 765 }
-		}
-
-		effect = {
-			SAR = {
-				all_core = {
-					add_core = SVY
-					remove_core = SAR
-				}
-			}
-			change_tag = SVY
-			any_pop = {
-				limit = { has_pop_culture = north_italian }
-				militancy = -3
-			}
-		}
-
-		ai_will_do = {
-			factor = 1
-		}
-	}
-
-	become_piedmont = {
-		picture = become_savoy
-		potential = {
-			tag = SVY
-			NOT = { exists = SAR }
-			SRD = {
-				OR = {
-					exists = no
-					ai = yes
-				}
-			}
-		}
-
-		allow = {
-			war = no
-			owns = 720
-			OR = {
-				owns = 765
-				SRD = {
-					war = no
-					exists = yes
-					NOT = { truce_with = THIS }
-					is_vassal = no
-					relation = { who = THIS value = 150 }
-					OR = {
-						NOT = { part_of_sphere = yes }
-						in_sphere = THIS
-						sphere_owner = { is_sphere_leader_of = THIS }
-					}
-				}
-			}
-		}
-
-		effect = {
-			prestige = 10
-			SVY = {
-				all_core = {
-					add_core = SAR
-					remove_core = SVY
-				}
-			}
-			random_country = {
-				limit = {
-					tag = SRD
-					exists = yes
-				}
-				annex_to = THIS
-			}
-			change_tag = SAR
-			add_accepted_culture = south_italian
-			any_pop = {
-				limit = { is_culture_group = italian }
-				militancy = -3
-			}
-		}
-
-		ai_will_do = { factor = 1 }
-	}
+	
 	
 	conquest_of_the_adriatic = {
 	picture = conquest_adriatic
@@ -1502,7 +1289,7 @@ political_decisions = {
 	appoint_camillo_cavour = {
 		picture = SAR_appoint_camillo_cavour
 		potential = {
-			tag = SAR
+			tag = VEN
 			year = 1850
 			OR = {
 				government = hms_government

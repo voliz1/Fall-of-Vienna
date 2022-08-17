@@ -256,7 +256,7 @@
 	}
 	
 	slaves = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 500
 	}

@@ -1,6 +1,7 @@
 owner = VEN
 controller = VEN
 add_core = VEN
+add_core = ITA
 add_core = HUN
 add_core = SLO
 trade_goods = grain

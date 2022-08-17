@@ -94,9 +94,9 @@ USA_185 = { 184 185 186 187 } #Kentucky
 
 USA_188 = { 188 189 191 190 } #Tennessee
 
-USA_194 = { 192 193 } #Mississippi
+USA_194 = {  } #Mississippi
 
-USA_196 = { 195 196 } #Alabama
+USA_196 = { 195 196 192 193 } #Alabama
 
 USA_200 = { 200 199 } #East Florida
 

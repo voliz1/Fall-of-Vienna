@@ -4993,37 +4993,37 @@
 #Former Ghat - Now Nordhorn(16000/4000 POPS)
 1743 = {
 	officers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 75 
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 88 
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 8075
 	}
 	
 	farmers = {
-		culture = volga_german
+		culture = north_german
 		size = 500
 		religion = catholic
 	}

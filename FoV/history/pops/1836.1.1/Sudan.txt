@@ -99,7 +99,7 @@
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 22000
 	}
@@ -143,7 +143,7 @@
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 7000
 	}
@@ -187,32 +187,32 @@
 	}
 
 	aristocrats = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 675
 	}
 
 
 	artisans = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 1800
 	}
 
 	soldiers = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 24225
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 9000
 	}
@@ -280,31 +280,31 @@
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 4675
 	}
 
 	slaves = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 2000
 	}
@@ -390,7 +390,7 @@
 	}
 
 	slaves = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 4000
 	}
@@ -410,25 +410,25 @@
 	}	
 	
 	aristocrats = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 275
 	}
 
 	artisans = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 13825
 	}
@@ -458,43 +458,43 @@
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 200
 	}
 	
 	bureaucrats = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 50
 	}	
 	
 	officers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 550
 	}
 
 	soldiers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 3025
 	}
 	
 	farmers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 10125
 	}
 
 	slaves = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 4000
 	}	
@@ -606,7 +606,7 @@
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 2000
 	}
@@ -780,7 +780,7 @@
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 3000
 	}
@@ -1149,7 +1149,7 @@
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 15000
 	}
@@ -1187,55 +1187,55 @@
 	}
 	
 	aristocrats = {
-		culture = nuba
+		culture = amhara
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = nuba
+		culture = amhara
 		religion = animist
 		size = 725
 	}
 
 	soldiers = {
-		culture = nuba
+		culture = amhara
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = nuba
+		culture = amhara
 		religion = animist
 		size = 16650
 	}
 
 	slaves = {
-		culture = nuba
+		culture = amhara
 		religion = animist
 		size = 10000
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 275
 	}
 
 	artisans = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 14775
 	}
@@ -1423,31 +1423,31 @@
 	}
 
 	aristocrats = {
-		culture = nuba
+		culture = amhara
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = nuba
+		culture = amhara
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = nuba
+		culture = amhara
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = nuba
+		culture = amhara
 		religion = animist
 		size = 10150
 	}
 
 	slaves = {
-		culture = nuba
+		culture = amhara
 		religion = animist
 		size = 7000
 	}
@@ -1511,56 +1511,56 @@
 	}
 
 	aristocrats = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 750
 	}
 
 
 	artisans = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 1950
 	}
 
 	soldiers = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 400
 	}
 
 	farmers = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 35900
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 675
 	}
 
 	soldiers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 15775
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 10000
 	}
@@ -1598,37 +1598,37 @@
 	}
 
 	aristocrats = {
-		culture = azande
+		culture = amhara
 		religion = animist
 		size = 450
 	}
 
 	artisans = {
-		culture = azande
+		culture = amhara
 		religion = animist
 		size = 900
 	}
 
 	soldiers = {
-		culture = azande
+		culture = amhara
 		religion = animist
 		size = 325
 	}
 
 	farmers = {
-		culture = azande
+		culture = amhara
 		religion = animist
 		size = 21100
 	}
 
 	slaves = {
-		culture = azande
+		culture = amhara
 		religion = animist
 		size = 8000
 	}
 	
 	slaves = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 4000
 	}
@@ -1636,80 +1636,80 @@
 #Lado (244000/61000 POPS)
 1846 = {
 	aristocrats = {
-		culture = azande
+		culture = amhara
 		religion = animist
 		size = 450
 	}
 
 	artisans = {
-		culture = azande
+		culture = amhara
 		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = azande
+		culture = amhara
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = azande
+		culture = amhara
 		religion = animist
 		size = 22100
 	}
 
 	aristocrats = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 325
 	}
 
 
 	artisans = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 900
 	}
 
 	soldiers = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = nuer
+		culture = amhara
 		religion = animist
 		size = 16575
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 325
 	}
 
 	farmers = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 16550
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 1100
 	}
@@ -1717,55 +1717,55 @@
 #Kapoeta (140000/35000 POPS)
 1847 = {
 	aristocrats = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 525
 	}
 
 	artisans = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 1400
 	}
 
 	soldiers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 25800
 	}
 
 	aristocrats = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = luo
+		culture = amhara
 		religion = animist
 		size = 6475
 	}
 	
 	slaves = {
-		culture = nilotic
+		culture = somali
 		religion = animist
 		size = 1100
 	}

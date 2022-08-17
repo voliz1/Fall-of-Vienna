@@ -1,5 +1,5 @@
-owner = SPC
-controller = SPC
+owner = BOR
+controller = BOR
 add_core = HAI
 add_core = DOM
 trade_goods = tobacco

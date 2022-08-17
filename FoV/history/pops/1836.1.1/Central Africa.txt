@@ -1,72 +1,72 @@
-#Ubangi-Shari Region (228000)
+#mongo-Shari Region (228000)
 #uncolonized in 1836
 #Bangui (104000/26000 POPS)
 1965 = {
 	aristocrats = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 500
 	}
 
 	clergymen = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 250
 	}
 
 	artisans = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 1300
 	}
 
 	soldiers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 275
 	}
 
 	farmers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 23675
 	}
 }
 #Nola (40000/10000 POPS)
 1966 = {
 	aristocrats = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 75
 	}
 
 	clergymen = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 100
 	}
 
 	artisans = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 500
 	}
 
 	soldiers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 100
 	}
 
 	farmers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 9125
 	}
 	
 	slaves = {
 		culture = forest_bantu
-		religion = animist
+		religion = swahili
 		size = 500
 	}
 	
@@ -75,32 +75,32 @@
 #Bouar (28000/7000 POPS)
 1967 = {
 	aristocrats = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 125
 	}
 
 	clergymen = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 75
 	}
 
 	artisans = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 350
 	}
 
 	soldiers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 75
 	}
 
 	farmers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 6375
 	}
 	
@@ -137,32 +137,32 @@
 #Bossangoa (56000/14000 POPS)
 1968 = {
 	aristocrats = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 75
 	}
 
 	clergymen = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 100
 	}
 
 	artisans = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 500
 	}
 
 	soldiers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 100
 	}
 
 	farmers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 9125
 	}
 
@@ -198,157 +198,157 @@
 
 	aristocrats = {
 		culture = sara
-		religion = animist
+		religion = swahili
 		size = 100
 	}
 
 	clergymen = {
 		culture = sara
-		religion = animist
+		religion = swahili
 		size = 100
 	}
 
 	artisans = {
 		culture = sara
-		religion = animist
+		religion = swahili
 		size = 150
 	}
 
 	soldiers = {
 		culture = sara
-		religion = animist
+		religion = swahili
 		size = 100
 	}
 
 	farmers = {
 		culture = sara
-		religion = animist
+		religion = swahili
 		size = 2700
 	}
 }
 #Dar Banda Region (128000)
-#uncolonized in 1836/under influence of Azande
+#uncolonized in 1836/under influence of mongo
 #Zemio (44000/11000 POPS)
 1969 = {
 	aristocrats = {
-		culture = azande
-		religion = animist
+		culture = mongo
+		religion = swahili
 		size = 100
 	}
 
 	clergymen = {
-		culture = azande
-		religion = animist
+		culture = mongo
+		religion = swahili
 		size = 50
 	}
 
 	artisans = {
-		culture = azande
-		religion = animist
+		culture = mongo
+		religion = swahili
 		size = 300
 	}
 
 	soldiers = {
-		culture = azande
-		religion = animist
+		culture = mongo
+		religion = swahili
 		size = 75
 	}
 
 	farmers = {
-		culture = azande
-		religion = animist
+		culture = mongo
+		religion = swahili
 		size = 5475
 	}
 
 	aristocrats = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 75
 	}
 
 	clergymen = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 50
 	}
 
 	artisans = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 250
 	}
 
 	soldiers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 50
 	}
 
 	farmers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 4575
 	}
 }
 #Bangassou (56000/14000 POPS)
 1970 = {
 	aristocrats = {
-		culture = azande
-		religion = animist
+		culture = mongo
+		religion = swahili
 		size = 100
 	}
 
 	clergymen = {
-		culture = azande
-		religion = animist
+		culture = mongo
+		religion = swahili
 		size = 100
 	}
 
 	artisans = {
-		culture = azande
-		religion = animist
+		culture = mongo
+		religion = swahili
 		size = 100
 	}
 
 	soldiers = {
-		culture = azande
-		religion = animist
+		culture = mongo
+		religion = swahili
 		size = 100
 	}
 
 	farmers = {
-		culture = azande
-		religion = animist
+		culture = mongo
+		religion = swahili
 		size = 900
 	}
 
 	aristocrats = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 225
 	}
 
 	clergymen = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 150
 	}
 
 	artisans = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 650
 	}
 
 	soldiers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 150
 	}
 
 	farmers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 11875
 	}
 }
@@ -386,32 +386,32 @@
 	}
 
 	aristocrats = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 100
 	}
 
 	clergymen = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 50
 	}
 
 	artisans = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 300
 	}
 
 	soldiers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 75
 	}
 
 	farmers = {
-		culture = ubangian
-		religion = animist
+		culture = mongoan
+		religion = swahili
 		size = 5475
 	}
 

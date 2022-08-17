@@ -1,0 +1,5 @@
+owner = SPC
+controller = SPC
+add_core = HAI
+trade_goods = tobacco
+life_rating = 35

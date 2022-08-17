@@ -1,70 +1,70 @@
 #Damaraland Region (192000)  
-#uncolonized in 1836/dominated by the Herero in 1836
+#uncolonized in 1836/dominated by the khoisan in 1836
 #Windhoek (72000/18000 POPS)
 2078 = {
 	aristocrats = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 100
 	}
 
 	clergymen = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 50
 	}
 
 	artisans = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 300
 	}
 
 	soldiers = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 75
 	}
 
 	farmers = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 5175
 	}
 	
 	farmers = {
-		culture = herero
+		culture = khoisan
 		religion = protestant
 		size = 300
 	}
 
 	aristocrats = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 225
 	}
 
 	clergymen = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 125
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 600
 	}
 
 	soldiers = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 125
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 10725
 	}
 	
@@ -77,162 +77,162 @@
 #Swakopmund (52000/13000 POPS)
 2079 = {
 	aristocrats = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 150
 	}
 
 	clergymen = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 100
 	}
 
 	artisans = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 450
 	}
 
 	soldiers = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 100
 	}
 
 	farmers = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 8200
 	}
 
 	aristocrats = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 50
 	}
 
 	clergymen = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 50
 	}
 
 	artisans = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 200
 	}
 
 	soldiers = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 50
 	}
 
 	farmers = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 3650
 	}
 }
 #Tsumeb (24000/6000 POPS)
 2080 = {
 	aristocrats = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 100
 	}
 
 	clergymen = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 50
 	}
 
 	artisans = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 300
 	}
 
 	soldiers = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 75
 	}
 
 	farmers = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 5475
 	}
 
 	farmers = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 8200
 	}
 }
 #Otjinene (44000/11000 POPS)
 2082 = {
 	aristocrats = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 100
 	}
 
 	clergymen = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 50
 	}
 
 	artisans = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 300
 	}
 
 	soldiers = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 75
 	}
 
 	farmers = {
-		culture = herero
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 5475
 	}
 
 	aristocrats = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 75
 	}
 
 	clergymen = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 50
 	}
 
 	artisans = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 250
 	}
 
 	soldiers = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 50
 	}
 
 	farmers = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 4575
 	}
 }
@@ -241,62 +241,62 @@
 #Linyati (16000/4000 POPS)
 2081 = {
 	aristocrats = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 100
 	}
 
 	clergymen = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 100
 	}
 
 	artisans = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 150
 	}
 
 	soldiers = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 100
 	}
 
 	farmers = {
-		culture = kavango
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 2700
 	}
 
 	aristocrats = {
-		culture = lunda
-		religion = animist
+		culture = swahili
+		religion = swahili
 		size = 100
 	}
 
 	clergymen = {
-		culture = lunda
-		religion = animist
+		culture = swahili
+		religion = swahili
 		size = 100
 	}
 
 	artisans = {
-		culture = lunda
-		religion = animist
+		culture = swahili
+		religion = swahili
 		size = 100
 	}
 
 	soldiers = {
-		culture = lunda
-		religion = animist
+		culture = swahili
+		religion = swahili
 		size = 100
 	}
 
 	farmers = {
-		culture = lunda
-		religion = animist
+		culture = swahili
+		religion = swahili
 		size = 900
 	}
 }
@@ -306,25 +306,25 @@
 2083 = {
 	aristocrats = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 15
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 50
 	}
 
 	soldiers = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 10
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 1925
 	}
 }
@@ -332,31 +332,31 @@
 2084 = {
 	aristocrats = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 125
 	}
 
 	clergymen = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 75
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 350
 	}
 
 	soldiers = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 75
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 16375
 	}
 }
@@ -364,61 +364,61 @@
 2085 = {
 	aristocrats = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 25
 	}
 
 	clergymen = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 50
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 100
 	}
 
 	soldiers = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 25
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 1800
 	}
 
 	aristocrats = {
-		culture = tswana
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 15
 	}
 
 	clergymen = {
-		culture = tswana
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 25
 	}
 
 	artisans = {
-		culture = tswana
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 50
 	}
 
 	soldiers = {
-		culture = tswana
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 10
 	}
 
 	farmers = {
-		culture = tswana
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 900
 	}
 }
@@ -426,61 +426,61 @@
 2086 = {
 	aristocrats = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 50
 	}
 
 	clergymen = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 50
 	}
 
 	artisans = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 200
 	}
 
 	soldiers = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 50
 	}
 
 	farmers = {
 		culture = khoisan
-		religion = animist
+		religion = swahili
 		size = 3650
 	}
 
 	aristocrats = {
-		culture = tswana
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 15
 	}
 
 	clergymen = {
-		culture = tswana
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 25
 	}
 
 	artisans = {
-		culture = tswana
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 50
 	}
 
 	soldiers = {
-		culture = tswana
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 10
 	}
 
 	farmers = {
-		culture = tswana
-		religion = animist
+		culture = khoisan
+		religion = swahili
 		size = 900
 	}
 
