@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
+owner = BOR
+controller = BOR
 trade_goods = tobacco
 life_rating = 30
 colonial = 2

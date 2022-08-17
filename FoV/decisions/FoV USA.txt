@@ -8,24 +8,7 @@ Claim_Florida = {
 		}
 
         allow = {
-			FLD = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							war = no
-							NOT = {
-								vassal_of = SPA
-								vassal_of = SPC
-								vassal_of = MEX
-								vassal_of = ULA
-							}
-						}
-					}
-				}
-			}
-            prestige = 50
+            prestige = 20
             idealism = 1
         }
 
@@ -53,7 +36,29 @@ Claim_Florida = {
         }
     }
 
+Past_the_Mississippi = {
+        picture = marching_soldiers
+        potential = {
+			tag = USA
+			NOT = { has_global_flag = Past_the_Mississippi }
+		}
 
+        allow = {
+            prestige = 20
+            state_n_government = 1
+        }
+
+        effect = {
+            set_global_flag = Past_the_Mississippi
+			ULA = {
+				all_core = { add_core = USA }
+			}
+            prestige = 15
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
 
 
 

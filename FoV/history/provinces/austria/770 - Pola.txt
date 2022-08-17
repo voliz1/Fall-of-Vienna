@@ -3,7 +3,6 @@ controller = VEN
 add_core = VEN
 add_core = ITA
 add_core = FIU
-add_core = HUN
 add_core = CRO
 terrain = pola
 naval_base = 1

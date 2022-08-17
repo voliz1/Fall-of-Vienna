@@ -1,8 +1,6 @@
-owner = RHI
-controller = RHI
-add_core = RHI
+owner = NET
+controller = NET
 add_core = NET
-add_core = BEL
 trade_goods = coal
 life_rating = 35
 #state_building = {

@@ -1,7 +1,7 @@
-owner = BOR
-controller = BOR
-add_core = BEL
+owner = NET
+controller = NET
 add_core = NET
+add_core = BEL
 add_core = FLA
 trade_goods = cattle
 life_rating = 35

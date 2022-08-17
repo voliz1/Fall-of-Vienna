@@ -201,41 +201,7 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 	
-	texas_vassal_join_csa = {
-		picture = manifest_destiny
-		potential = {
-			tag = TEX
-			139 = { NOT = { owned_by = USA owned_by = CSA} }
-			vassal_of = USA
-			NOT = { has_country_flag = fra_loui_texas_join_csa }
-		}
-		
-		allow = {
-			war = no
-			slavery = yes_slavery
-		}
-		
-		effect = {
-			set_country_flag = fra_loui_texas_join_csa
-			all_core = {
-				add_core = CSA
-			}
-			USA = {
-				release_vassal = TEX
-				leave_alliance = TEX
-				diplomatic_influence = {
-					who = THIS
-					value = -400
-				}
-			}
-			CSA = {
-				create_vassal = TEX
-				create_alliance = TEX
-			}
-		}
-		
-		ai_will_do = { factor = 1 }
-	}
+	
 	
 	rename_texas_mexico = {
 		picture = all_texas

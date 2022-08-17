@@ -3111,7 +3111,7 @@
 	}
 
 	artisans = {
-		culture = rhinelander
+		culture = dutch
 		religion = catholic
 		size = 4000
 	}
@@ -3141,13 +3141,13 @@
 	}
 
 	artisans = {
-		culture = rhinelander
+		culture = dutch
 		religion = protestant
 		size = 450
 	}
 
 	soldiers = {
-		culture = rhinelander
+		culture = dutch
 		religion = protestant
 		size = 100 
 	}
@@ -3155,7 +3155,12 @@
 	farmers = {
 		culture = rhinelander
 		religion = protestant
-		size = 8275
+		size = 4275
+	}
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 4275
 	}
 
 }

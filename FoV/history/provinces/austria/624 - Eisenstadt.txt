@@ -1,6 +1,6 @@
-owner = BRN
-controller = BRN
-add_core = BRN
+owner = HUN
+controller = HUN
+add_core = HUN
 add_core = GER
 add_core = AUS
 trade_goods = grain

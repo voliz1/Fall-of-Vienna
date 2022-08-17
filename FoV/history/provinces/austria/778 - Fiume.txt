@@ -4,6 +4,5 @@ add_core = VEN
 add_core = ITA
 add_core = CRO
 add_core = FIU
-add_core = HUN
 trade_goods = fruit
 life_rating = 35

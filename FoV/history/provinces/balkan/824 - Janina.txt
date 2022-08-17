@@ -1,6 +1,6 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = GRE
 add_core = ALB
 trade_goods = wool

@@ -3,31 +3,31 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
 	aristocrats = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 700
 	}
 	
 	bureaucrats = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 25
 	}
 	
 	clergymen = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 75
 	}
@@ -35,23 +35,34 @@
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 62375
+		size = 25000
+	}
+	farmers = {
+		culture = mulatto
+		religion = catholic
+		size = 25000
+	}
+	
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 18300
 	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = french
 		religion = catholic
 		size = 50
 	}
@@ -59,19 +70,29 @@
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 45350
+		size = 20350
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 15350
+	}
+	farmers = {
+		culture = mulatto
+		religion = catholic
+		size = 15350
 	}
 }
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
 	aristocrats = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 550
 	}
 	
 	clergymen = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 100
 	}
@@ -83,7 +104,7 @@
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 50
 	}
@@ -91,11 +112,11 @@
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 30175
+		size = 40175
 	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 50
 	}
@@ -107,15 +128,15 @@
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
-		size = 19575
+		size = 9575
 	}
 
 }

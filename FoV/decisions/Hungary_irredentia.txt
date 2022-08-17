@@ -1,76 +1,49 @@
-#political_decisions = { #You dont need to put political_decisions for all decisions, just once at the very start of the file, make sure it's bracket closes at the very end, look at line number 61.
-#	Integrate_The_Serbs = {
-#		potential = {
-#			tag = HUN
-#			NOT = { has_country_flag = hungary_integrates_serbians } #Country and global flags are needed so the decisions disappear once they are taken
-#		}
-#		allow = {
-#			owns = 794
-#			owns = 792
-#			owns = 798
-#			nationalism_n_imperialism = 1
-#		}
-#		
-#		effect = {
-#			set_country_flag = hungary_integrates_serbians #You can name any flag as you want but try not to use numbers nor capital letters
-#			add_accepted_culture = serbian
-#			SER = {
-#			all_core = {
-#				add_core = THIS 
-#				} 
-#			}
-#		}
-#	}
-#
-#	Integrate_The_Romanians = {
-#		potential = {	
-#			tag = HUN
-#			NOT = { has_country_flag = hungary_integrates_romanians }
-#		}
-#		allow = {
-#			owns = 670
-#			owns = 664
-#			owns = 656
-#			owns = 652
-#			owns = 661
-#			nationalism_n_imperialism = 1
-#		}
-#		effect = {
-#			set_country_flag = hungary_integrates_romanians
-#			add_accepted_culture = romanian
-#			ROM = {
-#			all_core = {
-#				add_core = THIS 
-#				} 
-#			}
-#		}
-#	}
-#
-#	Integrate_The_Bulgarians = {
-#		potential = {	
-#			OR = {
-#				tag = HUN
-#				tag = ROM
-#			}
-#			NOT = { has_country_flag = hungary_or_romania_integrate_bulgarians }
-#		}
-#		allow = {
-#			owns = 809
-#			owns = 816
-#			owns = 829
-#			owns = 806
-#			owns = 799
-#			owns = 674
-#			revolution_n_counterrevolution = 1
-#		}
-#		effect = {
-#			set_country_flag = hungary_or_romania_integrate_bulgarians
-#			add_accepted_culture = bulgarian
-#			BUL = {
-#			all_core = {
-#				add_core = THIS 
-#				} 
-#			}
-#		}
-#	}
-#}
+political_decisions = {  
+
+Hungary_to_The_Sea = {
+        picture = marching_soldiers
+        potential = {
+			tag = HUN
+			NOT = { has_global_flag = Hungary_to_The_Sea }
+		}
+
+        allow = {
+            prestige = 20
+            state_n_government = 1
+        }
+
+        effect = {
+            set_global_flag = Hungary_to_The_Sea
+			SLO = {
+				all_core = { add_core = HUN }
+			}
+			CRO = {
+				all_core = { add_core = HUN }
+			}
+            prestige = 15
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
