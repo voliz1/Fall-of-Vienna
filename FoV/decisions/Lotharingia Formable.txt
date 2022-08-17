@@ -5,6 +5,7 @@ political_decisions = {
 				tag = BOR
 				tag = FRA
 				tag = NET
+				tag = RHI
 			}
 			NOT = { exists = LOT }
 			NOT = { has_global_flag = lotharingia_formation }
@@ -16,14 +17,104 @@ political_decisions = {
 				average_militancy = 2
 				num_of_revolts = 1
 			}
-			owns = 425
-			owns = 458
-			owns = 387
-			owns = 375
-			owns = 380
-			owns = 383
-			owns = 428
-			nationalism_n_imperialism = 1
+			FRA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = GER
+								vassal_of = BRN
+								vassal_of = ENG
+								vassal_of = NET
+								vassal_of = BAV
+								vassal_of = SCA
+							}
+						}
+					}
+				}
+			}
+			BEL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = GER
+								vassal_of = BRN
+								vassal_of = ENG
+								vassal_of = NET
+								vassal_of = BAV
+								vassal_of = SCA
+							}
+						}
+					}
+				}
+			}
+			NET = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = GER
+								vassal_of = BRN
+								vassal_of = ENG
+								vassal_of = NET
+								vassal_of = BAV
+								vassal_of = SCA
+							}
+						}
+					}
+				}
+			}
+			RHI = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = GER
+								vassal_of = BRN
+								vassal_of = ENG
+								vassal_of = NET
+								vassal_of = BAV
+								vassal_of = SCA
+							}
+						}
+					}
+				}
+			}
+			LUX = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = GER
+								vassal_of = BRN
+								vassal_of = ENG
+								vassal_of = NET
+								vassal_of = BAV
+								vassal_of = SCA
+							}
+						}
+					}
+				}
+			}
+			revolution_n_counterrevolution = 1
+			machine_guns = 1
+			idealism = 1
 		}
 	
 		effect = {
@@ -35,14 +126,24 @@ political_decisions = {
 			add_accepted_culture = picard
 			add_accepted_culture = arpitan
 			add_accepted_culture = rhenish
-			add_accepted_culture = french_australian
-			badboy = 8
+			remove_accepted_culture = occitan
+			remove_accepted_culture = breton
+			remove_accepted_culture = catalan
+			badboy = 24
 			political_reform = state_equal_weight
 			political_reform = federalism
 			change_tag = LOT
 			inherit = FRA
 			inherit = NET
 			inherit = RHI
+			inherit = BEL
+			inherit = LUX
+			BEL = {
+				all_core = { add_core = LOT }
+				}
+			LUX = {
+				all_core = { add_core = LOT }
+				}
 			FRA = {
 				all_core = { add_core = LOT }
 				}

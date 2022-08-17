@@ -12,9 +12,9 @@ CAN_13 = { 13 14 20 21 15 19 16 18 17 2629 92 78 79 80 } #Columbia/Cascadia
 
 #CAN_18 = { 18 17 2629 } #New Caledonia
 
-ENG_22 = { 27 26 22 23 24 25 28 2597 114 } #Alberta
+ENG_22 = { 27 26 22 23 24 25 28 2597 } #Alberta
 
-ENG_30 = { 30 31 32 33 34 35 115 } #Saskatchewan
+ENG_30 = { 30 31 32 33 34 35 } #Saskatchewan
 
 ENG_36 = { 42 36 37 38 39 40 41 } #Manitoba
 
@@ -34,25 +34,25 @@ ENG_74 = { 74 75 76 77 2625 } #Newfoundland
 
 USA_78 = { } #Washington/Wellington
 
-USA_81 = { 81 82 83 } #Oregon
+USA_81 = { 81 82 83 91 93 111 } #Oregon
 
-MEX_85 = { 89 87 88 90 96 2139 2138 } #North California
+MEX_85 = { 89 87 88 90 104 84 86 85 86 94 } #California
 
-MEX_104 = { 104 84 86 85 86 94 } #South California
+MEX_104 = {  } #South California
 
-USA_91 = { 91 93 111 } #Idaho
+USA_91 = { } #Idaho
 
 MEX_94 = { 94 } #Nevada
 
-MEX_97 = { 97 98 99 95 110 107 109 108 } #Utah
+MEX_97 = { 97 98 99 95 110 109 108 2148 100 101 96 } #Utah
 
 MEX_100 = { } #Arizona
 
-MEX_103 = { 2148 100 101 } #New Mexico
+MEX_103 = { } #New Mexico
 
-USA_106 = { } #Colorado
+USA_106 = { 133 43 132 134 137 141 } #Colorado
 
-USA_111 = { 112 116 113 } #Wyoming
+USA_111 = { 112 116 113 115 114 } #Wyoming
 
 USA_116 = { } #Montana
 
@@ -60,25 +60,25 @@ USA_118 = { } #North Dakota
 
 USA_121 = { 120 121 122 117 119 } #Dakota
 
-USA_124 = { 123 124 125 } #Nebraska
+USA_124 = { } #Nebraska
 
-USA_126 = { 126 127 106 } #Kansas
+USA_126 = { 126 127 131 130 123 124 125 } #Kansas
 
-USA_129 = { 131 130 } #Oklahoma
+USA_129 = { } #Oklahoma
 
-TEX_132 = { 133 43 132 134 136 137 138 } #Texas
+TEX_132 = { 136 138 135 105 } #Texas
 
-TEX_135 = { 135 105 129 128 103 } #FoV Colorado State
+TEX_135 = { 129 128 103 107 106 } #FoV Colorado State
 
-USA_139 = { 139 141 142 } #Louisiana
+USA_139 = { 139 142 144 } #Louisiana
 
-USA_144 = { 143 144 145 } #Arkansas
+USA_144 = {  } #Arkansas
 
-USA_148 = { 146 148 147 149 150 } #Missouri
+USA_148 = { 146 148 147 149 143 145 } #Missouri
 
-USA_151 = { 151 152 153 154 } #Iowa
+USA_151 = { 151 152 155 156 153 154 150 } #Iowa
 
-USA_158 = { 155 156 } #Minnesota
+USA_158 = { } #Minnesota
 
 USA_162 = { 159 160 161 162 177 } #Wisconsin
 
@@ -108,9 +108,9 @@ USA_205 = { 205 206 } #South Carolina
 
 USA_2556 = { 209 207 208 210 2556 } #North Carolina
 
-USA_211 = { 60 211 212 213 214 215 216 } #Virginia
+USA_211 = { 60 211 212 213 214 215 216 218 217 } #Virginia
 
-USA_218 = { 218 217 } #West Virginia
+USA_218 = {  } #West Virginia
 
 USA_219 = { 2146 220 219 222 221 } #Maryland
 
@@ -1114,7 +1114,7 @@ MAD_2121 = { 2121 2115 2120 2119 } #North Madagascar
 
 ### Mexico
 
-MEX_2138 = { 2137 2140 2141 102 } #Sonora
+MEX_2138 = { 2137 2140 2141 102 2139 2138 } #Sonora
 
 MEX_2142 = { 2142 2143 2144 2145 2662 } #Chihuahua
 

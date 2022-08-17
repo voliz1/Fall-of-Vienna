@@ -1,5 +1,6 @@
-owner = RPL
-controller = RPL
+owner = ULA
+controller = ULA
+add_core = ULA
 add_core = RPL
 trade_goods = cattle
 life_rating = 35
