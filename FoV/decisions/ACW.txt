@@ -782,6 +782,9 @@ political_decisions = {
 		
 		allow = {
 			average_consciousness = 3
+			owns = 123
+			owns = 126
+			owns = 125
 		}
 		
 		effect = {

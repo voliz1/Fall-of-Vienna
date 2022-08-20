@@ -1,7 +1,7 @@
 political_decisions = {
 
 Claim_Florida = {
-        picture = embrace_minority
+        picture = dreams_of_empire
         potential = {
 			tag = USA
 			NOT = { has_global_flag = Claim_Florida }
@@ -14,20 +14,19 @@ Claim_Florida = {
 
         effect = {
             set_global_flag = Claim_Florida
-			add_accepted_culture = floridian
 			FLD = {
 				all_core = { add_core = USA }
 			}
             prestige = 10
             any_pop = {
                 limit = { has_pop_culture = yankee }
-                consciousness = 4
-                militancy = 4
+                consciousness = 2
+                militancy = 2
             }
             any_pop = {
                 limit = { has_pop_culture = dixie }
-                consciousness = -4
-                militancy = -4
+                consciousness = -2
+                militancy = -2
             }
 			badboy = 5
         }
@@ -40,19 +39,28 @@ Past_the_Mississippi = {
         picture = marching_soldiers
         potential = {
 			tag = USA
-			NOT = { has_global_flag = Past_the_Mississippi }
+			NOT = { 
+				has_global_flag = Past_the_Mississippi
+				}
 		}
 
         allow = {
             prestige = 20
             state_n_government = 1
+			owns = 140
         }
 
         effect = {
             set_global_flag = Past_the_Mississippi
-			ULA = {
-				all_core = { add_core = USA }
-			}
+            ULA = {
+                all_core = { add_core = USA }
+            }
+            war = {
+            target = ULA
+            attacker_goal = { casus_belli = establish_protectorate_casus_belli }
+            defender_goal = { casus_belli = status_quo }
+            call_ally = yes
+            }
             prestige = 15
         }
         ai_will_do = {
@@ -61,7 +69,63 @@ Past_the_Mississippi = {
     }
 
 
+Victory_for_Louisiana = {
+        picture = dreams_of_empire
+        potential = {
+			tag = ULA
+			has_global_flag = Past_the_Mississippi
+			war = no
+			NOT = { has_country_modifier = recently_lost_war }
+			NOT = { has_global_flag = Victory_for_Louisiana }
+		}
 
+        allow = {
+			owns = 139
+			owns = 143
+			owns = 153
+			owns = 103
+			owns = 116
+        
+        }
+
+        effect = {
+			192 = { secede_province = ULA } 
+			193 = { secede_province = ULA } 
+			189 = { secede_province = ULA } 
+			140 = { secede_province = ULA } 
+			194 = { secede_province = ULA } 
+			168 = { secede_province = ULA } 
+			167 = { secede_province = ULA } 
+			166 = { secede_province = ULA } 
+			164 = { secede_province = ULA } 
+			163 = { secede_province = ULA } 
+			165 = { secede_province = ULA } 
+			162 = { secede_province = ULA } 
+			159 = { secede_province = ULA } 
+			161 = { secede_province = ULA } 
+			177 = { secede_province = ULA } 
+			160 = { secede_province = ULA } 
+			ULA = {
+				all_core = { remove_core = USA }
+			}
+            set_global_flag = Victory_for_Louisiana
+            prestige = 30
+            any_pop = {
+                limit = { has_pop_culture = yankee }
+                consciousness = 4
+                militancy = 4
+            }
+            any_pop = {
+                limit = { has_pop_culture = dixie }
+                consciousness = 4
+                militancy = 4
+            }
+			badboy = 5
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
 
 
 

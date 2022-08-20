@@ -474,7 +474,7 @@ political_decisions = {
 				government = hms_government
 			}
 			OR = {
-				tag = PRU
+				tag = BRN
 				tag = NGF
 				tag = GER
 				tag = GCF
@@ -581,7 +581,7 @@ political_decisions = {
 	the_jade_purchase = {
 		picture = "wilhelmshaven"
 		potential = {
-			tag = PRU
+			tag = BRN
 			NOT = { has_country_flag = has_asked_for_jade }
 			NOT = { owns = 3259 }
 		}
@@ -881,7 +881,7 @@ political_decisions = {
 		potential = {
 			NOT = { has_global_flag = danzig_imperial_shipyard_built }
 			OR = {
-				tag = PRU
+				tag = BRN
 				tag = GER
 				tag = NGF
 			}
