@@ -117,10 +117,19 @@ political_decisions = {
 		}
 
         allow = {
-			
+			PHL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+						}
+					}
+				}
+			}
             prestige = 50
             nationalism_n_imperialism = 1
-            experimental_psychology = 1
         }
 
         effect = {
@@ -129,7 +138,7 @@ political_decisions = {
 				all_core = { add_core = JAP }
 			}
             prestige = 15
-			inherit PHL
+			inherit = PHL
         }
         ai_will_do = {
             factor = 1
@@ -140,9 +149,10 @@ political_decisions = {
         picture = embrace_minority
         potential = {
 			OR = {
-				tag = DNB
-				tag = HUN
-				tag = ROM
+				tag = TKG
+				tag = JAP
+				tag = MIN
+				tag = QNG
 			}
 			NOT = { has_global_flag = Korea_is_Ours }
 		}
@@ -151,13 +161,27 @@ political_decisions = {
 			
             prestige = 50
             nationalism_n_imperialism = 1
-            experimental_psychology = 1
+			KOR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							war = no
+							NOT = {
+								vassal_of = any_neighbor_country
+							}
+						}
+					}
+				}
+			}
         }
 
         effect = {
+			inherit = KOR
             set_global_flag = Korea_is_Ours
 			KOR = {
-				all_core = { add_core = JAP }
+				all_core = { add_core = THIS }
 			}
             prestige = 15
             any_pop = {
@@ -170,7 +194,7 @@ political_decisions = {
                 consciousness = -4
                 militancy = -4
             }
-			inherit KOR
+			
         }
         ai_will_do = {
             factor = 1

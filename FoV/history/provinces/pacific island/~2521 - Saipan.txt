@@ -1,6 +1,6 @@
-owner = TKG
-controller = TKG
-add_core = TKG
+owner = SPC
+controller = SPC
+add_core = PHL
 trade_goods = fish
 life_rating = 30
 colonial = 2
