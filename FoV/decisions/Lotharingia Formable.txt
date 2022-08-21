@@ -163,4 +163,122 @@ political_decisions = {
 				}
 			}
 	}
+	
+Kleve_For_Us = {
+        picture = rhineland
+        potential = {
+			tag = RHI
+			NOT = { 
+				has_global_flag = Kleve_For_Us
+				}
+			
+		}
+
+        allow = {
+            prestige = 20
+            state_n_government = 1
+			exists = RHI
+			exists = NET
+        }
+
+        effect = {
+			badboy = 8
+            set_global_flag = Kleve_For_Us
+
+			random_owned = { 
+				owner = { limit = { tag = RHI } 
+					war = {
+            target = NET
+            attacker_goal = { casus_belli = acquire_all_cores country = RHI }
+            defender_goal = { casus_belli = status_quo }
+            call_ally = yes
+					} 
+				}
+			}
+			BEL = {
+				all_core = { add_core = BOR }
+			}
+		}
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+
+Dutch_Victory = {
+        picture = rhineland
+        potential = {
+			tag = NET
+			has_global_flag = Kleve_For_Us
+			war = no
+			NOT = { has_country_modifier = recently_lost_war }
+			NOT = { has_global_flag = Dutch_Victory }
+		}
+
+        allow = {
+			owns = 577
+			owns = 381
+			owns = 379
+			owns = 375
+			owns = 387
+        
+        }
+
+        effect = {
+			393 = { secede_province = NET } 
+			394 = { secede_province = NET } 
+			392 = { secede_province = NET } 
+			395 = { secede_province = NET } 
+			398 = { secede_province = NET } 
+			397 = { secede_province = NET } 
+			inherit = RHI
+			BEL = {
+				all_core = { remove_core = BOR }
+			}
+			NET = {
+				all_core = { remove_core = RHI }
+			}
+            set_global_flag = Dutch_Victory
+            prestige = 50
+            any_pop = {
+                limit = { has_pop_culture = french }
+                consciousness = 4
+                militancy = 4
+            }
+			any_pop = {
+                limit = { has_pop_culture = rhinelander }
+                consciousness = 4
+                militancy = 4
+            }
+			any_pop = {
+                limit = { has_pop_culture = flemish }
+                consciousness = -4
+                militancy = -4
+            }
+            any_pop = {
+                limit = { has_pop_culture = dutch }
+                consciousness = -4
+                militancy = -4
+            }
+			badboy = 14
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }

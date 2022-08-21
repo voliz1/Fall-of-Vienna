@@ -169,7 +169,7 @@ political_decisions = {
 							in_sphere = THIS
 							war = no
 							NOT = {
-								vassal_of = any_neighbor_country
+								vassal_of = any_country
 							}
 						}
 					}
