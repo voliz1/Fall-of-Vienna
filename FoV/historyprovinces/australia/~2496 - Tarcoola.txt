@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = SWE
+controller = SWE
+add_core = NSC
 trade_goods = wool
 terrain = semidesert
 life_rating = 20

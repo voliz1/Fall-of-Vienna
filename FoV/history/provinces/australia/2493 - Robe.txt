@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = NZL
+owner = SWE
+controller = SWE
+add_core = NSC
 trade_goods = wool
 terrain = savanna
 life_rating = 30

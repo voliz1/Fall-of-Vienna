@@ -14,8 +14,10 @@ PROV3273;Thohoyandu;;;;;;;;;;;;;;x
 PROV2499;Gerardeville;;;;;;;;;;;;;;x
 PROV2497;Poixe;;;;;;;;;;;;;;x
 PROV2498;Séjour-des-Chiens;;;;;;;;;;;;;;x
-PROV2496;Nulletonnelle;;;;;;;;;;;;;;x
-PROV2492;Port-du-Portugal;;;;;;;;;;;;;;x
+PROV2496;Ingaträd;;;;;;;;;;;;;;x
+PROV2492;Gustav;;;;;;;;;;;;;;x
+PROV2493;Karlshamn;;;;;;;;;;;;;;x
+PROV2494;Goordnada;;;;;;;;;;;;;;x
 PROV2500;Calgoirie;;;;;;;;;;;;;;x
 PROV2605;Negaunateu;;;;;;;;;;;;;;x
 PROV2601;Uilcinaur;;;;;;;;;;;;;;x
@@ -28,7 +30,8 @@ BEL_387;Vlaanderen;;;;;;;;;;;;;;x
 BEL_394;Wallonie;;;;;;;;;;;;;;x
 ENG_2505;Port-de-Vienne;;;;;;;;;;;;;;x
 PROV609;Sion;;;;;;;;;;;;;;x
-ENG_2491;Nouvelle-Belgique;;;;;;;;;;;;;;x
+PROV2491;Charlotta;;;;;;;;;;;;;;x
+ENG_2491;Nya Skåneland;;;;;;;;;;;;;;x
 ENG_2497;Terrejenne;;;;;;;;;;;;;;x
 PROV1623;Songjin;;;;;;;;;;;;;;x
 ENG_2499;Nouvelle-Bretagne;;;;;;;;;;;;;;x
@@ -77,119 +80,119 @@ RUS_959;Volyn;;;;;;;;;;;;x
 druze;Druze;;;;;;;;;;;;x
 PROV911;Ma'an;;;;;;;;;;;;x
 PROV910;Azraq;;;;;;;;;;;;x
-PROV2582;Cattaro;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV1839;Al-Fula;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV1739;An Nuhud;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV1806;Bayuda;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV2046;Mbeya;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV1850;Keren;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-AUS_733;Friuli;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PAP_741;Emilia-Romagna;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-new_world_semidesert;Desert Scrublands;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-new_world_desert;Desert;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-new_world_boreal;Taiga;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-new_world_montane_tundra;Alpine Tundra;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-new_world_arctic;Tundra;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-new_world_mountain;Montane Grassland;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-new_world_jungle;Jungle;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-new_world_plains;Grassland;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-new_world_small_island;Island;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-arid_climate;Arid Climate;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+PROV2582;Cattaro;;;;;;;;;;;;x
+PROV1839;Al-Fula;;;;;;;;;;;;x
+PROV1739;An Nuhud;;;;;;;;;;;;x
+PROV1806;Bayuda;;;;;;;;;;;;x
+PROV2046;Mbeya;;;;;;;;;;;;x
+PROV1850;Keren;;;;;;;;;;;;x
+AUS_733;Friuli;;;;;;;;;;;;x
+PAP_741;Emilia-Romagna;;;;;;;;;;;;x
+new_world_semidesert;Desert Scrublands;;;;;;;;;;;;x
+new_world_desert;Desert;;;;;;;;;;;;x
+new_world_boreal;Taiga;;;;;;;;;;;;x
+new_world_montane_tundra;Alpine Tundra;;;;;;;;;;;;x
+new_world_arctic;Tundra;;;;;;;;;;;;x
+new_world_mountain;Montane Grassland;;;;;;;;;;;;x
+new_world_jungle;Jungle;;;;;;;;;;;;x
+new_world_plains;Grassland;;;;;;;;;;;;x
+new_world_small_island;Island;;;;;;;;;;;;x
+arid_climate;Arid Climate;;;;;;;;;;;;x
 CANAL_6;English Channel;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-GRE_837;Central Greece;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV2669;Sondrio;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV3262;Belluno;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV3261;Pescara;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV2351;Magdalena;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV3260;Sado;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV1531;Tombara;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV2537;Birara;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV158;Grand Portage;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV29;Kyzylkum;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV2595;Nunavut;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV25;Old Bow Fort;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV6;Selkirk;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV35;Fort Pitt;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV28;Jasper;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV26;Rocky Mountain House;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV22;Buckingham House;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV24;Fort Chesterfield;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV34;Fort Carlton;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV33;Battleford;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV41;Fort Ellice;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2594;Osnaburgh House;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV49;Rat Portage;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV52;Orillia;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV75;Port-Aux-Basques;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+GRE_837;Central Greece;;;;;;;;;;;;x
+PROV2669;Sondrio;;;;;;;;;;;;x
+PROV3262;Belluno;;;;;;;;;;;;x
+PROV3261;Pescara;;;;;;;;;;;;x
+PROV2351;Magdalena;;;;;;;;;;;;x
+PROV3260;Sado;;;;;;;;;;;x
+PROV1531;Tombara;;;;;;;;;;;x
+PROV2537;Birara;;;;;;;;;;;x
+PROV158;Grand Portage;;;;;;;;;;;x
+PROV29;Kyzylkum;;;;;;;;;;;x
+PROV2595;Nunavut;;;;;;;;;;;x
+PROV25;Old Bow Fort;;;;;;;;;;;x
+PROV6;Selkirk;;;;;;;;;;;x
+PROV35;Fort Pitt;;;;;;;;;;;x
+PROV28;Jasper;;;;;;;;;;;x
+PROV26;Rocky Mountain House;;;;;;;;;;;x
+PROV22;Buckingham House;;;;;;;;;;;x
+PROV24;Fort Chesterfield;;;;;;;;;;;x
+PROV34;Fort Carlton;;;;;;;;;;;x
+PROV33;Battleford;;;;;;;;;;;x
+PROV41;Fort Ellice;;;;;;;;;;;x
+PROV2594;Osnaburgh House;;;;;;;;;;;x
+PROV49;Rat Portage;;;;;;;;;;;x
+PROV52;Orillia;;;;;;;;;;;x
+PROV75;Port-Aux-Basques;;;;;;;;;;;x
 PROV69;Petit-Sault;;;;;;;;;;;;x
-PROV683;Waldenburg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV43;Clarksville;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV134;Fort Parker;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV135;Llano Estacado;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV85;Sonoma;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-urban;Urban;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRA_1901;Houet;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-ASH_1910;Volta;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV155;Fort Snelling;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV156;Fort Renville;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV157;Fort Ripley;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV92;Kullyspell;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV93;Fort Hall;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV123;Fort Robidoux;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV124;Bordeaux's Post;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV125;Fontenelle's Post;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV126;Fort Leavenworth;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV127;Fort Mann;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV113;Gallatin Valley;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV117;Fort Clark;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV118;Fort James;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV119;Fort Union;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV122;Fort Pierre;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV121;Fort Cedar;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV120;Fort Kiowa;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV114;Fort Owen;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV115;Fort Benton;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV116;Fort Van Buren;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV131;Fort Washita;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV130;Fort Gibson;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV111;Fort Bonneville;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV112;Fort Laramie;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV106;Bent's Fort;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2702;Alty-Kuduk;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV1210;Kunduz;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV1196;Gurgench;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV686;Merv;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-BUR_1334;Mandalay;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV579;Neuwied;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV574;Koblenz;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV547;Greifswald;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV57;Bytown;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2036;Mzizima;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2681;Taipei;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV1485;Tainan;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2562;Taitung;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV1743;Nordhorn;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV1739;Jalu;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV1738;Al Jaghbub;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2585;Al Jawf;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV1742;Wath;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV1744;Sabha;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2016;Mpika;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2017;Mwansabombwe;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
-PROV3104;Lake Nyasa;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV702;Lemberg;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV952;Tarnopol;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2605;Ngaanyatjarraku;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2601;Wilkinkarra;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2495;Tirari;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV1990;Kindu;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV1991;Rusozi;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2471;Bathurst;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2496;Nullarbor;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2603;Chanamee;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2507;Mparntwe;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2505;Port Essington;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-RUS_973;Kherson-Zaporizhia;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV683;Waldenburg;;;;;;;;;;;x
+PROV43;Clarksville;;;;;;;;;;;x
+PROV134;Fort Parker;;;;;;;;;;;x
+PROV135;Llano Estacado;;;;;;;;;;;x
+PROV85;Sonoma;;;;;;;;;;;x
+urban;Urban;;;;;;;;;;;x
+FRA_1901;Houet;;;;;;;;;;;x
+ASH_1910;Volta;;;;;;;;;;;;x
+PROV155;Fort Snelling;;;;;;;;;;;;x
+PROV156;Fort Renville;;;;;;;;;;;;x
+PROV157;Fort Ripley;;;;;;;;;;;;x
+PROV92;Kullyspell;;;;;;;;;;;;x
+PROV93;Fort Hall;;;;;;;;;;;;x
+PROV123;Fort Robidoux;;;;;;;;;;;;x
+PROV124;Bordeaux's Post;;;;;;;;;;;;x
+PROV125;Fontenelle's Post;;;;;;;;;;;;x
+PROV126;Fort Leavenworth;;;;;;;;;;;;x
+PROV127;Fort Mann;;;;;;;;;;;;x
+PROV113;Gallatin Valley;;;;;;;;;;;;x
+PROV117;Fort Clark;;;;;;;;;;;;x
+PROV118;Fort James;;;;;;;;;;;;x
+PROV119;Fort Union;;;;;;;;;;;;x
+PROV122;Fort Pierre;;;;;;;;;;;;x
+PROV121;Fort Cedar;;;;;;;;;;;;x
+PROV120;Fort Kiowa;;;;;;;;;;;;x
+PROV114;Fort Owen;;;;;;;;;;;;x
+PROV115;Fort Benton;;;;;;;;;;;;x
+PROV116;Fort Van Buren;;;;;;;;;;;;x
+PROV131;Fort Washita;;;;;;;;;;;;x
+PROV130;Fort Gibson;;;;;;;;;;;;x
+PROV111;Fort Bonneville;;;;;;;;;;;;x
+PROV112;Fort Laramie;;;;;;;;;;;;x
+PROV106;Bent's Fort;;;;;;;;;;;;x
+PROV2702;Alty-Kuduk;;;;;;;;;;;;x
+PROV1210;Kunduz;;;;;;;;;;;;x
+PROV1196;Gurgench;;;;;;;;;;;;x
+PROV686;Merv;;;;;;;;;;;;x
+BUR_1334;Mandalay;;;;;;;;;;;;x
+PROV579;Neuwied;;;;;;;;;;;;;x
+PROV574;Koblenz;;;;;;;;;;;;;x
+PROV547;Greifswald;;;;;;;;;;;;;x
+PROV57;Bytown;;;;;;;;;;;;;x
+PROV2036;Mzizima;;;;;;;;;;;;;x
+PROV2681;Taipei;;;;;;;;;;;;;x
+PROV1485;Tainan;;;;;;;;;;;;;x
+PROV2562;Taitung;;;;;;;;;;;;;x
+PROV1743;Nordhorn;;;;;;;;;;;;;x
+PROV1739;Jalu;;;;;;;;;;;;;x
+PROV1738;Al Jaghbub;;;;;;;;;;;;;x
+PROV2585;Al Jawf;;;;;;;;;;;;;x
+PROV1742;Wath;;;;;;;;;;;;;x
+PROV1744;Sabha;;;;;;;;;;;;;x
+PROV2016;Mpika;;;;;;;;;;;;;x
+PROV2017;Mwansabombwe;;;;;;;;;;;;;x
+PROV3104;Lake Nyasa;;;;;;;;;;;;;x
+PROV702;Lemberg;;;;;;;;;;;;;x
+PROV952;Tarnopol;;;;;;;;;;;;;x
+PROV2605;Ngaanyatjarraku;;;;;;;;;;;;;x
+PROV2601;Wilkinkarra;;;;;;;;;;;;;x
+PROV2495;Tirari;;;;;;;;;;;;;x
+PROV1990;Kindu;;;;;;;;;;;;;x
+PROV1991;Rusozi;;;;;;;;;;;;;x
+PROV2471;Bathurst;;;;;;;;;;;;;x
+PROV2496;Nullarbor;;;;;;;;;;;;;x
+PROV2603;Chanamee;;;;;;;;;;;;;x
+PROV2507;Mparntwe;;;;;;;;;;;;;x
+PROV2505;Port Essington;;;;;;;;;;;;;x
+RUS_973;Kherson-Zaporizhia;;;;;;;;;;;;;x
 RUS_955;Yekaterinoslav;;;;;;;;;;;;x
 PROV3107;Lake Baikal;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 PROV2589;Tsushima;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -370,9 +373,9 @@ PROV1049;Ubykhia;;;;;;;;;;;;;;;;;;;;;;;x
 PROV900;Antakya;;;;;;;;;;;;;;;;;;;;;;;x
 PROV689;Teschen;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1773;Saguia el-Hamra;;;;;;;;;;;;;;;;;;;;;;;x
-PROV1178;Sana'a;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV969;Olviopol;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV972;Yekaterinoslav;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV1178;Sana'a;;;;;;;;;;;;;x
+PROV969;Olviopol;;;;;;;;;;;;;x
+PROV972;Yekaterinoslav;;;;;;;;;;;;;x
 PROV974;Bachmut;;;;;;;;;;;;;;;;;;;x;
 PROV1041;Elista;;;;;;;;;;;;;;;;;;;x;
 PROV745;Livorno;;;;;;;;;;;;;;;;;;;x;

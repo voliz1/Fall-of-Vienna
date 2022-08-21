@@ -3,6 +3,9 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
+### FoV ###
+NSC = "countries/New Sweden.txt"
+
 ### NEW NATIONS MOD ###
 USS = "countries/United States of South America.txt"
 MIN = "countries/Ming China.txt"
@@ -373,6 +376,8 @@ AOT     = "countries/Aotearoa.txt"
 FIJ		= "countries/Fiji.txt"
 SNZ     = "countries/South Island.txt"
 TGA		= "countries/Tonga.txt"
+
+
 ####HPM######
 PPG		= "countries/Papua New Guinea.txt"
 VTU		= "countries/Vanuatu.txt" 
