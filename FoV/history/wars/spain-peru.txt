@@ -6,6 +6,8 @@ name = "Peruvian War Of Independence"
 	add_attacker = VNG
 	add_attacker = VOP
 	add_attacker = VLP
+	add_attacker = IQI
+	add_attacker = CGC
 	add_defender = PEU
 	
 	# actor
@@ -14,9 +16,21 @@ name = "Peruvian War Of Independence"
 	# country - 3rd party
 	# state_province_id - target state capital
 	war_goal = {
+		casus_belli = acquire_all_cores
+		actor = IQI
+		receiver = PEU
+	}
+
+	war_goal = {
 		casus_belli = establish_protectorate_casus_belli
 		actor = VOP
 		receiver = PEU
+	}
+	
+	war_goal = {
+		casus_belli = establish_protectorate_casus_belli
+		actor = PEU
+		receiver = IQI
 	}
 	
 	war_goal = {
@@ -33,5 +47,7 @@ name = "Peruvian War Of Independence"
 	rem_attacker = VLP
 	rem_attacker = VNG
 	rem_attacker = VNS
+	rem_attacker = IQI
+	rem_attacker = CGC
 	rem_defender = PEU
 }

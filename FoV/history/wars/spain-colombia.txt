@@ -6,6 +6,7 @@ name = "Colombian War Of Independence"
 	add_attacker = VOP
 	add_attacker = VLP
 	add_attacker = VNS
+	add_attacker = CGC
 	add_defender = CLM
 	
 	# actor
@@ -33,5 +34,6 @@ name = "Colombian War Of Independence"
 	rem_attacker = VLP
 	rem_attacker = VNG
 	rem_attacker = VNS
+	rem_attacker = CGC
 	rem_defender = CLM
 }

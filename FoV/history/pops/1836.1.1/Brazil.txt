@@ -4310,6 +4310,39 @@
 		size = 3625
 	}
 }
+
+#Boca do Acre
+3275 = {
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 3625
+	}
+}
 #Forte do Principe (16000/4000 POPS) #now part of Brazil - Rondonia State
 2550 = {
 	clergymen = {

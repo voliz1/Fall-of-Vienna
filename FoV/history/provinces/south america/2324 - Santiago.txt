@@ -1,10 +1,8 @@
-owner = VOP
-controller = VOP
-add_core = ARG
-add_core = ARC
+owner = CGC
+controller = CGC
 add_core = PEU
 add_core = CHL
-add_core = VOP
+add_core = CGC
 trade_goods = grain
 life_rating = 35
 terrain = santiago

@@ -256,3 +256,10 @@ alliance = {
 	start_date = 1835.1.1
 	end_date = 1855.1.1
 }
+
+alliance = {
+	first = SPC
+	second = IQI
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}

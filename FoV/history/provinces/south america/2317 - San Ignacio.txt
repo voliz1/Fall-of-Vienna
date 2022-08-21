@@ -1,10 +1,10 @@
-owner = VLP
-controller = VLP
+owner = VOP
+controller = VOP
 add_core = ARG
 add_core = ARC
 add_core = PEU
 add_core = BOL
-add_core = VLP
+add_core = VOP
 trade_goods = tropical_wood
 life_rating = 31
 1860.1.1 = {

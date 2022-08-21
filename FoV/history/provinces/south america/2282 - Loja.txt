@@ -1,6 +1,5 @@
-owner = CLM
-controller = SPC
-add_core = CLM
+owner = PEU
+controller = PEU
 add_core = ECU
 add_core = PEU
 add_core = VNG

@@ -1,0 +1,55 @@
+CHL = {
+	value = -125
+}
+ARC = {
+	value = -125
+}
+BRZ = {
+	value = -50
+}
+ECU = {
+	value = -25
+}
+CLM = {
+	value = -25
+}
+VNZ = {
+	value = -25
+}
+PEU = {
+	value = -200
+}	
+
+leader = {
+	name = "Antonio Huachaca"
+	type = land
+	date = 1836.1.1
+	background = generals_aide
+	personality = bold
+}
+
+army = {
+	name = "Ejército Realista de Iquicha"
+	location = 3276 #Huanta
+	regiment = {
+		name= "1. Brigada de Infanteria"
+		type = infantry
+		home = 3276
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = infantry
+		home = 3276
+	}
+}
+
+leader = {
+	name = "Tadeo Choque"
+	type = land
+	date = 1794.12.14
+	background = innovative_tactician
+	personality = coolminded
+}
+	
+	

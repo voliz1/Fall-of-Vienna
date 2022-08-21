@@ -1,5 +1,5 @@
 owner = PEU
-controller = SPC
+controller = PEU
 add_core = PEU
 add_core = VOP
 trade_goods = fish

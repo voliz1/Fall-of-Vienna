@@ -6,6 +6,7 @@ name = "Argentinian War Of Independence"
 	add_attacker = VNG
 	add_attacker = VOP
 	add_attacker = VLP
+	add_attacker = CGC
 	add_defender = ARC
 	
 	# actor
@@ -24,6 +25,12 @@ name = "Argentinian War Of Independence"
 		actor = ARC
 		receiver = VLP
 	}
+	
+	war_goal = {
+		casus_belli = establish_protectorate_casus_belli
+		actor = ARC
+		receiver = VOP
+	}
 
 }
 
@@ -33,5 +40,6 @@ name = "Argentinian War Of Independence"
 	rem_attacker = VLP
 	rem_attacker = VNG
 	rem_attacker = VNS
+	rem_attacker = CGC
 	rem_defender = PEU
 }

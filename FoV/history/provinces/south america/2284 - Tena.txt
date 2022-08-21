@@ -1,9 +1,8 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = ECU
+owner = PEU
+controller = PEU
 add_core = PEU
-add_core = VNG
+add_core = ECU
+add_core = VOP
 trade_goods = timber
 terrain = montane_forest
 life_rating = 32

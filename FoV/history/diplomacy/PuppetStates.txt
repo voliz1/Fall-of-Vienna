@@ -728,3 +728,17 @@ vassal = {
 	start_date = 1819.1.1
 	end_date = 1949.1.1
 }
+
+vassal = {
+	first = SPC
+	second = CGC
+	start_date = 1819.1.1
+	end_date = 1949.1.1
+}
+
+vassal = {
+	first = SPC
+	second = IQI
+	start_date = 1819.1.1
+	end_date = 1949.1.1
+}

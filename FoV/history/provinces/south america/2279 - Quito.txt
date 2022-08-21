@@ -1,9 +1,7 @@
-owner = CLM
-controller = CLM
-add_core = VNG
-add_core = CLM
+owner = ECU
+controller = ECU
 add_core = ECU
-add_core = PEU
+add_core = VNG
 trade_goods = fruit
 life_rating = 35
 terrain = quito
