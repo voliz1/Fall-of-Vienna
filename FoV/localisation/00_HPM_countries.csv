@@ -1,6 +1,12 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MIN;Ming Dynasty;;;;;;;;;;;;;x
 MIN_ADJ;Ming Han;;;;;;;;;;;;;x
+ULM;Ulm;;;;;;;;;;;;;x
+ULM_ADJ;Ulmer;;;;;;;;;;;;;x
+BRG;Berg;;;;;;;;;;;;;x
+BRG_ADJ;Bergian;;;;;;;;;;;;;x
+WRZ;Wurzburg;;;;;;;;;;;;;x
+WRZ_ADJ;Wurzburg;;;;;;;;;;;;;x
 LOT;Lotharingia;;;;;;;;;;;;;x
 LOT_ADJ;Lotharingian;;;;;;;;;;;;;x
 ATC;Antillean Confederation;;;;;;;;;;;;;;;;;;;;;;;x;;;;

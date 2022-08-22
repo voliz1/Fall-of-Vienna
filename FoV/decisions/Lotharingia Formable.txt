@@ -225,13 +225,14 @@ Dutch_Victory = {
         }
 
         effect = {
+			577 = { remove_core = RHI }
+			381 = { remove_core = RHI }
 			393 = { secede_province = NET } 
 			394 = { secede_province = NET } 
 			392 = { secede_province = NET } 
 			395 = { secede_province = NET } 
 			398 = { secede_province = NET } 
 			397 = { secede_province = NET } 
-			inherit = RHI
 			BEL = {
 				all_core = { remove_core = BOR }
 			}

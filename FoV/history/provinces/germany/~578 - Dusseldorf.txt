@@ -1,6 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = BRN
+controller = BRN
+add_core = BRN
 add_core = GER
 trade_goods = coal
 life_rating = 40

@@ -13,6 +13,10 @@ MIN = "countries/Ming China.txt"
 DAK = "countries/Dakota.txt"
 UPB = "countries/Portugal-Brazil.txt"
 HSA = "countries/Hispanic America.txt"
+BRG = "countries/Berg.txt"
+ULM = "countries/Ulm.txt"
+WRZ = "countries/Wurzburg.txt"
+
 
 
 ###France Mod###
