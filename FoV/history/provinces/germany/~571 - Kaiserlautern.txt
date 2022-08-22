@@ -1,6 +1,7 @@
-owner = WRZ
-controller = WRZ
-add_core = WRZ
+owner = RHI
+controller = RHI
+add_core = RHI
+add_core = BAV
 add_core = GER
 trade_goods = fruit
 life_rating = 40
