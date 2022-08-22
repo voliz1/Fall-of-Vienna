@@ -5,7 +5,7 @@ culture = norwegian
 religion = protestant
 government = hms_government
 plurality = 25.0
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.8
 civilized = yes
 prestige = 70
@@ -47,7 +47,7 @@ set_country_flag = protestant_country
 	#flag = theocracy
 #}
 
-ruling_party = SWE_conservative
+ruling_party = NSC_conservative
 last_election = 1833.1.1
 upper_house = {
 	fascist = 0
