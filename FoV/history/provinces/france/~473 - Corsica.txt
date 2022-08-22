@@ -1,6 +1,0 @@
-owner = SIC
-controller = SIC
-add_core = SIC
-add_core = CRS
-trade_goods = fish
-life_rating = 30

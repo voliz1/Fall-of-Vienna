@@ -1,7 +1,0 @@
-owner = SWE
-controller = SWE
-add_core = NSC
-trade_goods = wool
-terrain = semidesert
-life_rating = 20
-colonial = 2

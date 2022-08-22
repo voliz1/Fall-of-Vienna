@@ -2,7 +2,6 @@ owner = BOR
 controller = BOR
 add_core = BOR
 add_core = LUX
-add_core = NET
 add_core = RHI
 add_core = ALS
 add_core = BEL
