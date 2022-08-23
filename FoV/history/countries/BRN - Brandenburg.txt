@@ -43,14 +43,15 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-ruling_party = PRU_liberal
+ruling_party = BRN_conservative_2
 upper_house = {
 	fascist = 0
-	liberal = 15
-	conservative = 70
-	reactionary = 15
+	liberal = 35
+	conservative = 55
+	reactionary = 10
 	anarcho_liberal = 0
 	socialist = 0
+	communist = 0
 	communist = 0
 }
 

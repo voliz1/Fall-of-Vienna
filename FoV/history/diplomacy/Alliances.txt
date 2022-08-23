@@ -122,6 +122,24 @@ alliance = {
 	}	
 alliance = {
 		first = PRU 
+		second = WRZ
+		start_date =  1835.1.1
+		end_date = 1867.1.1
+	}	
+alliance = {
+		first = PRU 
+		second = BRG
+		start_date =  1835.1.1
+		end_date = 1867.1.1
+	}	
+alliance = {
+		first = PRU 
+		second = WUR
+		start_date =  1835.1.1
+		end_date = 1867.1.1
+	}		
+alliance = {
+		first = PRU 
 		second = OLD 
 		start_date =  1835.1.1
 		end_date = 1867.1.1
@@ -132,13 +150,7 @@ alliance = {
 		start_date =  1835.1.1
 		end_date = 1867.1.1
 	}
-#Russia/Montenegro
-alliance = {
-	first = RUS
-	second = MON
-	start_date = 1835.1.1
-	end_date = 1911.1.1
-}
+
 
 #Russia/Transcaucasia
 alliance = {
@@ -147,13 +159,7 @@ alliance = {
 	start_date = 1835.1.1
 	end_date = 1881.1.1
 }
-#France/Papal States
-alliance = {
-	first = FRA
-	second = PAP
-	start_date = 1835.1.1
-	end_date = 1861.1.1
-}
+
 
 alliance = {
 		first = QNG 
@@ -213,12 +219,7 @@ alliance = {
 	start_date = 1835.1.1
 	end_date = 1855.1.1
 }
-alliance = {
-	first = SPA
-	second = FRA
-	start_date = 1835.1.1
-	end_date = 1855.1.1
-}
+
 alliance = {
 	first = SPA
 	second = VNS
