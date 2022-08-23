@@ -1626,4 +1626,63 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 	
+	form_china = {
+		picture = form_china
+		potential = {
+			is_culture_group = east_asian
+			NOT = {
+				exists = CHI
+			}
+		}
+		allow = {
+			war = no
+			civilized = yes
+			CHI = {
+				all_core = {
+				OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			change_tag = CHI
+			add_accepted_culture = manchu
+			add_accepted_culture = beifaren
+			add_accepted_culture = nanfaren
+			add_accepted_culture = hanhui
+			add_accepted_culture = hakka
+			add_accepted_culture = miao
+			add_accepted_culture = min
+			add_accepted_culture = zhuang
+			add_accepted_culture = yi
+			add_accepted_culture = yue
+			any_country = {
+				limit = {
+						is_culture_group = east_asian
+						in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+			CHI_1485 = { add_core = CHI } #Formosa
+			TIB_1591 = { add_core = CHI } #Tibet
+			CHI_1594 = { add_core = CHI } #Kashgar (Southern Xinjiang)
+			CHI_1600 = { add_core = CHI } #Urumqi (Northern Xinjiang)
+			CHI_1557 = { add_core = CHI } #Kokonor/Qinghai
+			CHI_1532 = { add_core = CHI } #Inner Mongolia
+			CHI_1468 = { add_core = CHI } #Uliastai (Outer Mongolia)
+			CHI_1479 = { add_core = CHI } #Fengtian (part of Inner Manchuria)
+			CHI_1552 = { add_core = CHI } #Heilongjiang (part of Inner Manchuria)
+			CHI_1082 = { add_core = CHI } #Outer Manchuria
+			1499 = { add_core = CHI } #Hainan
+			1469 = { add_core = CHI } #Tannu Tuva
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

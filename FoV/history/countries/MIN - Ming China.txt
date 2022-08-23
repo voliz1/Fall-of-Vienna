@@ -1,5 +1,5 @@
 capital = 2221
-primary_culture = south_han
+primary_culture = nanfaren
 religion = confucian
 government = absolute_monarchy
 plurality = 0.0
