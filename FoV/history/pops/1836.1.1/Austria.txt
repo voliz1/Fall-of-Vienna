@@ -230,7 +230,7 @@
 		size = 35150
 	}
 }
-#Klagenfurt (188000/47000 POPS)
+#Klagensudaneset (188000/47000 POPS)
 618 = {
 	aristocrats = {
 		culture = south_german

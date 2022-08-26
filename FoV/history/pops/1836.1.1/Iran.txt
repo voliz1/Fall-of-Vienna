@@ -1780,7 +1780,7 @@
 	}
 
 	slaves = {
-		culture = panjabi
+		culture = pashtun
 		religion = sikh
 		size = 2000
 	}
@@ -2370,7 +2370,7 @@
 	}
 
 	slaves = {
-		culture = panjabi
+		culture = pashtun
 		religion = hindu
 		size = 4000
 	}

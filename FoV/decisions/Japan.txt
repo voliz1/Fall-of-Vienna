@@ -103,7 +103,7 @@ political_decisions = {
 		}
 	}
 	
-	Philippines is Ours = {
+	Philippines_is_Ours = {
         picture = embrace_minority
         potential = {
 			OR = {
@@ -145,7 +145,7 @@ political_decisions = {
         }
     }
 	
-	Korea is Ours = {
+	Korea_is_Ours = {
         picture = embrace_minority
         potential = {
 			OR = {

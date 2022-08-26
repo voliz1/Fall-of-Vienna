@@ -646,31 +646,31 @@
 #Mwanza (368000/92000 POPS)
 2044 = {
 	aristocrats = {
-		culture = amhara
+		culture = sudanese
 		religion = swahili
 		size = 475
 	}
 
 	clergymen = {
-		culture = amhara
+		culture = sudanese
 		religion = swahili
 		size = 250
 	}
 
 	artisans = {
-		culture = amhara
+		culture = sudanese
 		religion = swahili
 		size = 1100
 	}
 
 	soldiers = {
-		culture = amhara
+		culture = sudanese
 		religion = swahili
 		size = 250
 	}
 
 	farmers = {
-		culture = amhara
+		culture = sudanese
 		religion = swahili
 		size = 9025
 	}

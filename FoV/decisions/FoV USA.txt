@@ -36,7 +36,7 @@ Claim_Florida = {
     }
 
 Past_the_Mississippi = {
-        picture = marching_soldiers
+        picture = new_france_louisiana
         potential = {
 			tag = USA
 			NOT = { 
@@ -47,7 +47,6 @@ Past_the_Mississippi = {
         allow = {
             prestige = 20
             state_n_government = 1
-			owns = 140
         }
 
         effect = {

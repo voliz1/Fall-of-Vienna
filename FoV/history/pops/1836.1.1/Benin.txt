@@ -3,37 +3,37 @@
 #Cotonou (544000/136000 POPS)
 1919 = {
 	aristocrats = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 1950
 	}
 
 	clergymen = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 4100
 	}
 
 	soldiers = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 59950
 	}
 
 	slaves = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 4000
 	}
@@ -113,55 +113,55 @@
 #Abomey (480000/120000 POPS)
 1920 = {
 	aristocrats = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 2100
 	}
 
 	bureaucrats = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 100
 	}
 
 	officers = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 4250
 	}
 
 	soldiers = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 3000
 	}
 
 	soldiers = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 83250
 	}
 
 	slaves = {
-		culture = fon
+		culture = akan
 		religion = animist
 		size = 8000
 	}
@@ -243,31 +243,31 @@
 #Nikki (48000/12000 POPS)
 1921 = {
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 2700
 	}
@@ -311,31 +311,31 @@
 #Jugu (28000/7000 POPS)
 1922 = {
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 4575
 	}

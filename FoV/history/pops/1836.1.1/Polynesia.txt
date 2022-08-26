@@ -272,7 +272,7 @@
 }
 #Central Polynesia Region (9600)
 #uncolonized in 1836
-#Rarotonga (6000/1500 POPS)
+#Rarokhoisan (6000/1500 POPS)
 2545 = {
 	aristocrats = {
 		culture = polynesian

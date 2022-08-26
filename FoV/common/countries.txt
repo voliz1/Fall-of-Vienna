@@ -3,61 +3,16 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
-### FoV ###
-NSC = "countries/New Sweden.txt"
-IQI	= "countries/Iquicha.txt"
 
-### NEW NATIONS MOD ###
-USS = "countries/United States of South America.txt"
-MIN = "countries/Ming China.txt"
-DAK = "countries/Dakota.txt"
-UPB = "countries/Portugal-Brazil.txt"
-HSA = "countries/Hispanic America.txt"
-BRG = "countries/Berg.txt"
-ULM = "countries/Ulm.txt"
-WRZ = "countries/Wurzburg.txt"
-
-
-
-###France Mod###
-NZF		="countries/French New Zealand.txt"
-FAS		="countries/French Australia.txt"
-FCA		="countries/French Canada.txt"
-ULA		="countries/Louisiana.txt"
-EIC		="countries/East India Company.txt"
-UTI		="countries/Utility Tag.txt"
-CLN     ="countries/Cleanup.txt"
-OCC		="countries/Occitania.txt"
-ACA		="countries/Acadia.txt"
-VIC 	="countries/Nationalist France.txt"
-BOR		="countries/The Kingdom of France.txt"
-
-
-
-##HFM New Nations
-#ATB	= "countries/Saxe-Altenburg.txt"
-ADO		= "countries/Andorra.txt"
-MNC		= "countries/Monaco.txt"
-LIE		= "countries/Liechtenstein.txt"
-#MST	= "countries/Mecklenburg-Strelitz.txt"
-SCL		= "countries/Schaumburg-Lippe.txt"
-REU		= "countries/Reuss.txt"
-SWG		= "countries/Schwarzburg.txt"
-WLD		= "countries/Waldeck.txt"
-IMG		= "countries/Inner Mongolia.txt"
-GUI		= "countries/Guizhou.txt"
-LEG		= "countries/Legation Cities.txt"
-NIA		= "countries/Nian.txt"
-MIT		= "countries/Mittelafrika.txt"
-AOG		= "countries/AOG.txt"
-SDB		= "countries/Sonderbund.txt"
-CRB		= "countries/Caribbean Federation.txt"
-WSF 	= "countries/Zapadoslavia.txt"
+#removing
+SMR		= "countries/San Marino.txt"
+SAA 	= "countries/Saar.txt"
 ANT		= "countries/Anatolia.txt"
 RUM		= "countries/Eastern Rumelia.txt"
 SAM		= "countries/Samos.txt"
 URP 	= "countries/United Principalities.txt" 
 GCF 	= "countries/German Confederation.txt"
+GEN 	= "countries/Genoa.txt"
 VLG 	= "countries/Volga.txt"
 SMR		= "countries/San Marino.txt"
 SAA 	= "countries/Saar.txt"
@@ -77,6 +32,64 @@ MIG		="countries/Mingrelia.txt"
 CHH		="countries/Chhatarpur.txt"
 REW		="countries/Rewah.txt"
 GEN 	="countries/Genoa.txt"
+SPU		= "countries/South Peru.txt"
+MRU		= "countries/Maritime Union.txt"
+PRI		= "countries/Puerto Rico.txt"
+RPL		= "countries/Rupert's Land.txt"
+#TRS	= "countries/Tarasco.txt"
+TTB		= "countries/Trinidad.txt"
+UIL		= "countries/Illinois.txt"
+UNB		= "countries/Nebraska.txt"
+UNM		= "countries/New Mexico.txt"
+UOR		= "countries/Oregon.txt"
+
+
+### FoV ###
+NSC = "countries/New Sweden.txt"
+IQI	= "countries/Iquicha.txt"
+USS = "countries/United States of South America.txt"
+MIN = "countries/Ming China.txt"
+DAK = "countries/Dakota.txt"
+UPB = "countries/Portugal-Brazil.txt"
+HSA = "countries/Hispanic America.txt"
+BRG = "countries/Berg.txt"
+ULM = "countries/Ulm.txt"
+WRZ = "countries/Wurzburg.txt"
+
+### NEW NATIONS MOD ###
+
+###France Mod###
+NZF		="countries/French New Zealand.txt"
+FAS		="countries/French Australia.txt"
+FCA		="countries/French Canada.txt"
+ULA		="countries/Louisiana.txt"
+EIC		="countries/East India Company.txt"
+UTI		="countries/Utility Tag.txt"
+CLN     ="countries/Cleanup.txt"
+OCC		="countries/Occitania.txt"
+ACA		="countries/Acadia.txt"
+BOR		="countries/The Kingdom of France.txt"
+
+
+
+##HFM New Nations
+#ATB	= "countries/Saxe-Altenburg.txt"
+#MST	= "countries/Mecklenburg-Strelitz.txt"
+SCL		= "countries/Schaumburg-Lippe.txt"
+REU		= "countries/Reuss.txt"
+SWG		= "countries/Schwarzburg.txt"
+WLD		= "countries/Waldeck.txt"
+IMG		= "countries/Inner Mongolia.txt"
+GUI		= "countries/Guizhou.txt"
+LEG		= "countries/Legation Cities.txt"
+NIA		= "countries/Nian.txt"
+MIT		= "countries/Mittelafrika.txt"
+AOG		= "countries/AOG.txt"
+SDB		= "countries/Sonderbund.txt"
+CRB		= "countries/Caribbean Federation.txt"
+WSF 	= "countries/Zapadoslavia.txt"
+
+
 
 ###Colonial Spain Countries
 CGC 	= "countries/Colonial Chile.txt"
@@ -154,7 +167,6 @@ PTG		= "countries/Patagonia.txt"
 RGR		= "countries/Rio Grande.txt"
 RGS		= "countries/Rio Grande do Sul.txt"
 SON		= "countries/Sonora.txt"
-SPU		= "countries/South Peru.txt"
 YUC		= "countries/Yucatan.txt"
 
 #North America
@@ -164,15 +176,6 @@ FSA		= "countries/Free States of America.txt"
 GRN		= "countries/Greenland.txt"
 JAM		= "countries/Jamaica.txt"
 LSK		= "countries/Alaska.txt"
-MRU		= "countries/Maritime Union.txt"
-PRI		= "countries/Puerto Rico.txt"
-RPL		= "countries/Rupert's Land.txt"
-#TRS	= "countries/Tarasco.txt"
-TTB		= "countries/Trinidad.txt"
-UIL		= "countries/Illinois.txt"
-UNB		= "countries/Nebraska.txt"
-UNM		= "countries/New Mexico.txt"
-UOR		= "countries/Oregon.txt"
 
 #Europe
 ALS		= "countries/Elsass.txt"

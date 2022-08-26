@@ -87,7 +87,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 8000
 	}
@@ -279,7 +279,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu	
+		culture = mongo	
 		religion = animist
 		size = 2000
 	}
@@ -421,7 +421,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 4000
 	}
@@ -565,7 +565,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 50
 	}
@@ -943,7 +943,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 20000
 	}
@@ -1209,7 +1209,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 1500
 	}
@@ -1249,31 +1249,31 @@
 #Tarfaya (36000/9000 POPS)
 1696 = {
 	aristocrats = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 15
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 265
 	}
@@ -1417,31 +1417,31 @@
 #Rashidia (44000/11000 POPS)
 1698 = {
 	aristocrats = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 75
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 1325
 	}
@@ -1509,31 +1509,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 75
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 1325
 	}

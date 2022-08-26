@@ -94,7 +94,7 @@
 		size = 900
 	}
 }
-#Essequibo (33000/8250 POPS)
+#Essequeast_kwa (33000/8250 POPS)
 2243 = {
 	aristocrats = {
 		culture = british

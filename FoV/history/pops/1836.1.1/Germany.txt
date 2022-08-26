@@ -1505,7 +1505,7 @@
 		size = 295
 	}
 }
-#Erfurt (220800/55200 POPS)
+#Ersudaneset (220800/55200 POPS)
 554 = {
 	aristocrats = {
 		culture = north_german
@@ -2121,8 +2121,8 @@
 	}
 }
 #Hesse Region (1719600) 
-#under the rule of Frankfurt 1836  
-#Frankfurt-am-Main (44000/16000 POPS)
+#under the rule of Franksudaneset 1836  
+#Franksudaneset-am-Main (44000/16000 POPS)
 564 = {
 	aristocrats = {
 		culture = north_german

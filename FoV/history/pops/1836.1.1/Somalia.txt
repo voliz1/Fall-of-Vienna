@@ -1,4 +1,4 @@
-#file includes modern Somalia and Djibouti
+#file includes modern Somalia and Djeast_kwauti
 #Benadir Region (392000)
 #under the loose rule of Muscat in 1836
 #Mogadishu (216000/54000 POPS)
@@ -289,7 +289,7 @@
 	}
 
 	slaves = {
-		culture = oromo
+		culture = amhara
 		religion = animist
 		size = 7000
 	}
@@ -332,7 +332,7 @@
 		size = 7300
 	}
 }
-#Jibuti (28000/7000 POPS) #now part of Djibouti  
+#Jibuti (28000/7000 POPS) #now part of Djeast_kwauti  
 1875 = {
 	aristocrats = {
 		culture = somali
@@ -365,31 +365,31 @@
 	}
 
 	aristocrats = {
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size = 3625
 	}

@@ -145,31 +145,31 @@
 	}
 
 	aristocrats = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 25
 	}
 
 	clergymen = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 50
 	}
 
 	artisans = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 100
 	}
 
 	soldiers = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 25
 	}
 
 	farmers = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 1800
 	}
@@ -177,31 +177,31 @@
 #Kariba (36000/9000 POPS) 
 2635 = {
 	aristocrats = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 75
 	}
 
 	clergymen = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 50
 	}
 
 	artisans = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 300
 	}
 
 	soldiers = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 50
 	}
 
 	farmers = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 5525
 	}
@@ -355,19 +355,19 @@
 	}
 
 	artisans = {
-		culture = sotho
+		culture = khoisan
 		religion = swahili
 		size = 200
 	}
 
 	soldiers = {
-		culture = sotho
+		culture = khoisan
 		religion = swahili
 		size = 50
 	}
 
 	farmers = {
-		culture = sotho
+		culture = khoisan
 		religion = swahili
 		size = 6650
 	}
@@ -417,31 +417,31 @@
 	}
 
 	aristocrats = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 150
 	}
 
 	clergymen = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 100
 	}
 
 	artisans = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 500
 	}
 
 	soldiers = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 100
 	}
 
 	farmers = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 9150
 	}
@@ -527,31 +527,31 @@
 	}
 
 	aristocrats = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 300
 	}
 
 	clergymen = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 150
 	}
 
 	artisans = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 800
 	}
 
 	soldiers = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 175
 	}
 
 	farmers = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 14575
 	}

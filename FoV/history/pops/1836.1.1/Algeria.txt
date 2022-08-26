@@ -193,7 +193,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 5000
 	}
@@ -279,7 +279,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 6000
 	}
@@ -566,7 +566,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 8000
 	}
@@ -676,7 +676,7 @@
 	}
 	
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 2000
 	}
@@ -1091,7 +1091,7 @@
 		size = 1900
 	}
 }
-#Tuggurt (12000/3000 POPS)
+#Tugakant (12000/3000 POPS)
 1712 = {
 	aristocrats = {
 		culture = berber
@@ -1234,7 +1234,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 2500
 	}

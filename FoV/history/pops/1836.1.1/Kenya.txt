@@ -95,31 +95,31 @@
 #Lodwar (36000/9000 POPS)
 2026 = {
 	aristocrats = {
-		culture = amhara
+		culture = sudanese
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = amhara
+		culture = sudanese
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = amhara
+		culture = sudanese
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = amhara
+		culture = sudanese
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = amhara
+		culture = sudanese
 		religion = animist
 		size = 4625
 	}
@@ -262,31 +262,31 @@
 #Kisumu (196000/49000POPS)
 2028 = {
 	aristocrats = {
-		culture = amhara
+		culture = sudanese
 		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = amhara
+		culture = sudanese
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = amhara
+		culture = sudanese
 		religion = animist
 		size = 775
 	}
 
 	soldiers = {
-		culture = amhara
+		culture = sudanese
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = amhara
+		culture = sudanese
 		religion = animist
 		size = 20350
 	}
@@ -362,31 +362,31 @@
 	}
 	
 	aristocrats = {
-		culture = oromo
+		culture = amhara
 		religion = coptic
 		size = 100
 	}
 
 	clergymen = {
-		culture = oromo
+		culture = amhara
 		religion = coptic
 		size = 100
 	}
 
 	artisans = {
-		culture = oromo
+		culture = amhara
 		religion = coptic
 		size = 250
 	}
 
 	soldiers = {
-		culture = oromo
+		culture = amhara
 		religion = coptic
 		size = 100
 	}
 
 	farmers = {
-		culture = oromo
+		culture = amhara
 		religion = coptic
 		size = 4575
 	}

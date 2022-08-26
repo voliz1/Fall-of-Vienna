@@ -27,104 +27,104 @@
 	}
 
 	aristocrats = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 11550
 	}
 
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 100
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 100
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 500
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 100
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 40200
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 2000
 	}
 
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 100
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 100
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 100
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 100
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 8600
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 2000
 	}
 }
@@ -132,142 +132,142 @@
 #2001 - Mbanza (180000/45000 POPS)
 2001 = {
 	aristocrats = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 7350
 	}
 
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 200
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 150
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 1100
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 1200
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 12450
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 4000
 	}
 
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 200
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 150
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 700
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 200
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 13250
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 3500
 	}
 }
 #Quibala (120000/30000 POPS)
 2002 = {
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 300
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 250
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 1200
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 300
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 21950
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 6000
 	}
 
@@ -277,67 +277,67 @@
 #Cabinda (116000/29000 POPS) 
 2000 = {
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 125
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 75
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 350
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 75
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 6375
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 5000
 	}
 
 	aristocrats = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 425
 	}
 
 	clergymen = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = khoisan
+		culture = mongo
 		religion = catholic
 		size = 15225
 	}
@@ -349,114 +349,114 @@
 #Benguela (116000/29000 POPS)
 2003 = {
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 300
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 300
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 1500
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 300
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 20800
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 5800
 	}
 }
 #Mocamedes (116000/29000 POPS)
 2004 = {
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 300
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 600
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 750
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 300
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 21250
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 5800
 	}
 }
 #Huambo (208000/52000 POPS)
 2005 = {
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 600
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 550
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 2600
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 600
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 36650
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 10000
 	}
 
@@ -466,186 +466,186 @@
 #Kuito (148000/37000 POPS)
 2006 = {
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 350
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 350
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 1800
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 400
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 26700
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 7500
 	}
 }
 #Mavinga (80000/20000 POPS)
 2007 = {
 	aristocrats = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 50
 	}
 
 	clergymen = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 75
 	}
 
 	artisans = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 75
 	}
 
 	soldiers = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 50
 	}
 
 	farmers = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 2400
 	}
 
 	slaves = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 1350
 	}
 
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 175
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 175
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 800
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 200
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 11450
 	}
 
 	slaves = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 3200
 	}
 }
 #Ondjiva (36000/9000 POPS)
 2008 = {
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 30
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 60
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 75
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 30
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 2205
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 600
 	}
 
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 50
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 75
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 300
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 75
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 4275
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 1250
 	}
 
@@ -655,110 +655,110 @@
 #Malanje (44000/11000 POPS)
 2009 = {
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 75
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 50
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 250
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 75
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 4350
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 1200
 	}
 
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 30
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 60
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 75
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 60
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 2175
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 600
 	}
 
 	aristocrats = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 25
 	}
 
 	clergymen = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 50
 	}
 
 	artisans = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 100
 	}
 
 	soldiers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 25
 	}
 
 	farmers = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 1400
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 400
 	}
 }
@@ -766,147 +766,147 @@
 2010 = {
 	aristocrats = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 250
 	}
 
 	clergymen = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 250
 	}
 
 	artisans = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 1250
 	}
 
 	soldiers = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 250
 	}
 
 	farmers = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 8000
 	}
 
 	slaves = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 8000
 	}
 
 	aristocrats = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 50
 	}
 
 	clergymen = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 50
 	}
 
 	artisans = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 200
 	}
 
 	soldiers = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 50
 	}
 
 	farmers = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 10850
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 800
 	}
 }
 #mongonda (76000/19000 POPS)
 2011 = {
 	aristocrats = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 150
 	}
 
 	clergymen = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 125
 	}
 
 	artisans = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 750
 	}
 
 	soldiers = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 150
 	}
 
 	farmers = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 8125
 	}
 
 	slaves = {
-		culture = swahili
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 4700
 	}
 
 	aristocrats = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 50
 	}
 
 	clergymen = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 50
 	}
 
 	artisans = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 250
 	}
 
 	soldiers = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 50
 	}
 
 	farmers = {
 		culture = mongo
-		religion = swahili
+		religion = mongo
 		size = 3600
 	}
 
 	slaves = {
-		culture = khoisan
-		religion = swahili
+		culture = mongo
+		religion = mongo
 		size = 1100
 	}
 

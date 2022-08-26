@@ -3,121 +3,121 @@
 #Colombo (400000/100000 POPS)
 1321 = {
 	aristocrats = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 3900
 	}
 
 	bureaucrats = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 150
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 750
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 800
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 750
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 64650
 	}
 
 	aristocrats = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 125
 	}
 
 	bureaucrats = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 100
 	}
 
 	clergymen = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 125
 	}
 
 	artisans = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 750
 	}
 
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 100
 	}
 
 	labourers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 9800
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = telegu
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = telegu
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = telegu
 		religion = catholic
 		size = 50
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = telegu
 		religion = catholic
 		size = 6400
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = telegu
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = telegu
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = telegu
 		religion = protestant
 		size = 25
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = telegu
 		religion = protestant
 		size = 1200
 	}
@@ -221,61 +221,61 @@
 #Jaffna (288000/72000 POPS)
 1322 = {
 	aristocrats = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 500
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 500
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 4000
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 500
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 42500
 	}
 
 	aristocrats = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 250
 	}
 
 	clergymen = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 250
 	}
 
 	artisans = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 2000
 	}
 
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 500
 	}
 
 	labourers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 21000
 	}
@@ -283,31 +283,31 @@
 #Kandy (304000/76000 POPS)
 1323 = {
 	aristocrats = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 750
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 750
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 4000
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 750
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 69250
 	}
@@ -315,109 +315,109 @@
 #Trincomalee (208000/52000 POPS)
 1324 = {
 	aristocrats = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 250
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 225
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 500
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 200
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = telegu
 		religion = theravada
 		size = 19825
 	}
 
 	aristocrats = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 250
 	}
 
 	clergymen = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 250
 	}
 
 	artisans = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 500
 	}
 
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 250
 	}
 
 	labourers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 22750
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = telegu
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = telegu
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = telegu
 		religion = protestant
 		size = 25
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = telegu
 		religion = protestant
 		size = 700
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = telegu
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = telegu
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = telegu
 		religion = catholic
 		size = 25
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = telegu
 		religion = catholic
 		size = 1475
 	}

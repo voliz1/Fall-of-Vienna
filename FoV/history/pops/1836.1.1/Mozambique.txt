@@ -39,37 +39,37 @@
 	}
 
 	aristocrats = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 1250
 	}
 
 	clergymen = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 225
 	}
 
 	artisans = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 1750
 	}
 
 	soldiers = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 250
 	}
 
 	farmers = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 21525
 	}
 
 	slaves = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 3000
 	}
@@ -113,37 +113,37 @@
 	}
 
 	aristocrats = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 300
 	}
 
 	clergymen = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 375
 	}
 
 	artisans = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 1850
 	}
 
 	soldiers = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 400
 	}
 
 	farmers = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 19075
 	}
 
 	slaves = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 16000
 	}
@@ -187,37 +187,37 @@
 	}
 
 	aristocrats = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 300
 	}
 
 	clergymen = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 300
 	}
 
 	artisans = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 1400
 	}
 
 	soldiers = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 400
 	}
 
 	farmers = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 30600
 	}
 
 	slaves = {
-		culture = tonga
+		culture = khoisan
 		religion = swahili
 		size = 5000
 	}
@@ -853,37 +853,37 @@
 	}
 
 	aristocrats = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 150
 	}
 
 	clergymen = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 150
 	}
 
 	artisans = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 700
 	}
 
 	soldiers = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 150
 	}
 
 	farmers = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 10850
 	}
 
 	slaves = {
-		culture = southern_bantu
+		culture = swahili
 		religion = swahili
 		size = 3000
 	}

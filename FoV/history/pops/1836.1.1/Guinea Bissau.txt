@@ -28,79 +28,79 @@
 	}
 
 	aristocrats = {
-		culture = western_nigritic
+		culture = akan
 		religion = catholic
 		size = 100
 	}
 	
 	officers = {
-		culture = western_nigritic
+		culture = akan
 		religion = catholic
 		size = 100
 	}
 	
 	clergymen = {
-		culture = western_nigritic
+		culture = akan
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = western_nigritic
+		culture = akan
 		religion = catholic
 		size = 375
 	}
 
 	soldiers = {
-		culture = western_nigritic
+		culture = akan
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = western_nigritic
+		culture = akan
 		religion = catholic
 		size = 5300
 	}
 
 	slaves = {
-		culture = western_nigritic
+		culture = akan
 		religion = animist
 		size = 2000
 	}
 	
 		aristocrats = {
-		culture = western_nigritic
+		culture = akan
 		religion = animist
 		size = 300
 	}
 	
 	officers = {
-		culture = western_nigritic
+		culture = akan
 		religion = animist
 		size = 100
 	}
 	
 	clergymen = {
-		culture = western_nigritic
+		culture = akan
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = western_nigritic
+		culture = akan
 		religion = animist
 		size = 1000
 	}
 
 	soldiers = {
-		culture = western_nigritic
+		culture = akan
 		religion = animist
 		size = 3000
 	}
 
 	farmers = {
-		culture = western_nigritic
+		culture = akan
 		religion = animist
 		size = 12048
 	}
@@ -109,80 +109,80 @@
 #Gabu (152000/38000 POPS)
 1878 = {
 	aristocrats = {
-		culture = mande
+		culture = akan
 		religion = sunni
 		size = 500
 	}
 	
 	bureaucrats = {
-		culture = mande
+		culture = akan
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = mande
+		culture = akan
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = akan
 		religion = sunni
 		size = 1000
 	}
 
 	soldiers = {
-		culture = mande
+		culture = akan
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mande
+		culture = akan
 		religion = sunni
 		size = 3768
 	}
 	
 	
 	aristocrats = {
-		culture = fulbe
+		culture = akan
 		religion = sunni
 		size = 400
 	}
 	
 	bureaucrats = {
-		culture = fulbe
+		culture = akan
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = akan
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = akan
 		religion = sunni
 		size = 1000
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = akan
 		religion = sunni
 		size = 1200
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = akan
 		religion = sunni
 		size = 11129
 	}
 
 	slaves = {
-		culture = western_nigritic
+		culture = akan
 		religion = animist
 		size = 2000
 	}
