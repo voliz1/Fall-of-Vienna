@@ -154,7 +154,7 @@ vassal = {
 
 #Netherlands-Tidore Sultanate
 vassal = {
-	first = POR
+	first = UPB
 	second = MAL
 	start_date = 1836.1.1
 	end_date = 1936.1.1
@@ -162,7 +162,7 @@ vassal = {
 
 #Netherlands-Yogyakarta/Surakarta Sultanate
 vassal = {
-	first = POR
+	first = UPB
 	second = JAV
 	start_date = 1836.1.1
 	end_date = 1936.1.1
@@ -170,7 +170,7 @@ vassal = {
 
 #Netherlands-Siak Sultanate
 vassal = {
-	first = POR
+	first = UPB
 	second = SAK
 	start_date = 1836.1.1
 	end_date = 1936.1.1
@@ -178,7 +178,7 @@ vassal = {
 
 #Netherlands-Siak Sultanate
 vassal = {
-	first = POR
+	first = UPB
 	second = DJA
 	start_date = 1836.1.1
 	end_date = 1936.1.1

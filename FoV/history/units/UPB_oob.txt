@@ -14,9 +14,6 @@ ENG = {
 QNG = {
 	value = 125
 }
-BRZ = {
-	value = 100
-}
 SPA = {
 	value = -50
 }
