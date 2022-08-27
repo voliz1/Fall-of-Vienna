@@ -3,46 +3,71 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
+####################
+##### REMOVING #####
+####################
 
-#removing
+#removing - (?)
+#TRS	= "countries/Tarasco.txt"
+
+#removing - Europe
 SMR		= "countries/San Marino.txt"
-SAA 	= "countries/Saar.txt"
-ANT		= "countries/Anatolia.txt"
-RUM		= "countries/Eastern Rumelia.txt"
-SAM		= "countries/Samos.txt"
-URP 	= "countries/United Principalities.txt" 
-GCF 	= "countries/German Confederation.txt"
 GEN 	= "countries/Genoa.txt"
-VLG 	= "countries/Volga.txt"
-SMR		= "countries/San Marino.txt"
+
 SAA 	= "countries/Saar.txt"
 LAU 	= "countries/Lauenburg.txt"
 MML 	= "countries/Memelland.txt"
-HQJ		= "countries/Black Flag.txt"
 TST		= "countries/South Tirol.txt"
 HGL		="countries/Heligoland.txt"
+
+RUM		= "countries/Eastern Rumelia.txt"
+SAM		= "countries/Samos.txt"
+
+#removing - colonial
 MSK		="countries/Mosquito Coast.txt"
 MAU		="countries/Mauritius.txt"
 SEY		="countries/Seychelles.txt"
 IOT		="countries/Indian Ocean Territory.txt"
 SGP		="countries/Singapore.txt"
 MTQ		="countries/Martinique.txt"
+
+#useless Georgian tags
 SVA		="countries/Svaneti.txt"
 MIG		="countries/Mingrelia.txt"
-CHH		="countries/Chhatarpur.txt"
-REW		="countries/Rewah.txt"
-GEN 	="countries/Genoa.txt"
+
+# removing - New World
 SPU		= "countries/South Peru.txt"
-MRU		= "countries/Maritime Union.txt"
-PRI		= "countries/Puerto Rico.txt"
-RPL		= "countries/Rupert's Land.txt"
-#TRS	= "countries/Tarasco.txt"
 TTB		= "countries/Trinidad.txt"
+
+# removing - USA collapse tags
 UIL		= "countries/Illinois.txt"
 UNB		= "countries/Nebraska.txt"
 UNM		= "countries/New Mexico.txt"
 UOR		= "countries/Oregon.txt"
 
+#indian small tags
+CHH		="countries/Chhatarpur.txt"
+REW		="countries/Rewah.txt"
+
+####################
+
+#do not remove these tags before further discussion (remove other tags first)
+ANT		= "countries/Anatolia.txt"					#Greeks in Anatolia
+VLG 	= "countries/Volga.txt"						#Volga German tag
+
+URP 	= "countries/United Principalities.txt" 	#Romanian tag
+GCF 	= "countries/German Confederation.txt"		#Alternate Germany
+HQJ		= "countries/Black Flag.txt" 				#Black Flag Army
+
+MRU		= "countries/Maritime Union.txt"			#Nova Scotia, New Brunswick, PEI
+PRI		= "countries/Puerto Rico.txt"
+
+####################
+####################
+####################
+
+# DO NOT REMOVE THIS TAG
+RPL		= "countries/Rupert's Land.txt"
 
 ### FoV ###
 NSC = "countries/New Sweden.txt"
