@@ -38,6 +38,10 @@ MIG		="countries/Mingrelia.txt"
 # removing - New World
 SPU		= "countries/South Peru.txt"
 TTB		= "countries/Trinidad.txt"
+ENT		= "countries/Entre Rios.txt"
+BAH		= "countries/Bahia.txt"
+CHP		= "countries/Chiapas.txt"
+LOS		= "countries/Los Altos.txt"
 
 # removing - USA collapse tags
 UIL		= "countries/Illinois.txt"
@@ -61,6 +65,10 @@ HQJ		= "countries/Black Flag.txt" 				#Black Flag Army
 
 MRU		= "countries/Maritime Union.txt"			#Nova Scotia, New Brunswick, PEI
 PRI		= "countries/Puerto Rico.txt"
+
+PTG		= "countries/Patagonia.txt"
+LPL		= "countries/La Plata.txt"
+PBC		= "countries/Peru-Bolivia Confederation.txt"
 
 ####################
 ####################
@@ -177,18 +185,10 @@ QNG		="countries/Qing China.txt"
 MGH		="countries/Maghreb.txt"
 
 #Latin America
-
-BAH		= "countries/Bahia.txt"
-CHP		= "countries/Chiapas.txt"
 CEQ		= "countries/Equador Confederation.txt"
-ENT		= "countries/Entre Rios.txt"
 GCO		= "countries/Gran Colombia.txt"
 GUY		= "countries/Guyana.txt"
-LOS		= "countries/Los Altos.txt"
-LPL		= "countries/La Plata.txt"
 #OAX		= "countries/Oaxaca.txt"
-PBC		= "countries/Peru-Bolivia Confederation.txt"
-PTG		= "countries/Patagonia.txt"
 RGR		= "countries/Rio Grande.txt"
 RGS		= "countries/Rio Grande do Sul.txt"
 SON		= "countries/Sonora.txt"
