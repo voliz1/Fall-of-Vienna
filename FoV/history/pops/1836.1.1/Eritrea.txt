@@ -212,7 +212,7 @@
 	}
 
 	slaves = {
-		culture = cushitic
+		culture = amhara
 		religion = sunni
 		size = 500
 	}
@@ -250,7 +250,7 @@
 	}
 	
 	slaves = {
-		culture = cushitic
+		culture = amhara
 		religion = sunni
 		size = 500
 	}

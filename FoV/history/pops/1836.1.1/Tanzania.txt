@@ -1120,7 +1120,7 @@
 	}
 	
 	slaves = {
-		culture = cushitic
+		culture = amhara
 		religion = sunni
 		size = 2000
 	}

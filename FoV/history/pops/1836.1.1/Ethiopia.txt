@@ -611,7 +611,7 @@
 	}
 
 	slaves = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 3000
 	}
@@ -1012,37 +1012,37 @@
 	}
 	
 	aristocrats = {
-		culture = cushitic #sidama
+		culture = amhara #sidama
 		religion = animist
 		size = 4225
 	}
 	
 	clergymen = {
-		culture = cushitic #sidama
+		culture = amhara #sidama
 		religion = animist
 		size = 625
 	}
 	
 	artisans = {
-		culture = cushitic #sidama
+		culture = amhara #sidama
 		religion = animist
 		size = 5350
 	}
 	
 	soldiers = {
-		culture = cushitic #sidama
+		culture = amhara #sidama
 		religion = animist
 		size = 1500
 	}
 	
 	farmers = {
-		culture = cushitic #sidama
+		culture = amhara #sidama
 		religion = animist
 		size = 106500
 	}
 	
 	slaves = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 8200
 	}
@@ -1211,13 +1211,13 @@
 	}
 
 	clergymen = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 435
 	}
 
 	farmers = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 41000
 	}
@@ -1261,37 +1261,37 @@
 	}
 	
 	aristocrats = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 275
 	}
 
 	artisans = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 1075
 	}
 
 	soldiers = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 9875
 	}
 
 	slaves = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 7000
 	}
@@ -1373,7 +1373,7 @@
 	}
 	
 	slaves = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 2200
 	}
@@ -1443,7 +1443,7 @@
 	}
 	
 	slaves = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 5000
 	}
@@ -1507,7 +1507,7 @@
 	}
 
 	slaves = {
-		culture = cushitic
+		culture = amhara
 		religion = animist
 		size = 2000
 	}

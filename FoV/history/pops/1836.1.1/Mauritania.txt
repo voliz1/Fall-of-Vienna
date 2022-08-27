@@ -104,37 +104,37 @@
 	}
 
 	officers = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 5
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 850
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 220
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 13325
 	}
 
 	slaves = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 6000
 	}

@@ -1239,19 +1239,19 @@
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 2625
 	}
@@ -1289,31 +1289,31 @@
 #Araouane (12000/3000 POPS)
 2609 = {
 	aristocrats = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = tuareg
 		religion = sunni
 		size = 3500
 	}
