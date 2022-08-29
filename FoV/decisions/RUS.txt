@@ -1866,7 +1866,30 @@ political_decisions = {
 			}
 			random_owned = { limit = { owner = { NOT = { owns = 1210 } } } 1210 = { owner = { country_event = 325461 } } }
 		}
-
+		ai_will_do = { factor = 1 }
+	}
+	
+	russia_reclaim_ingria_karelia = {
+		picture = russian_naval_crimea
+		potential = {
+			tag = RUS			
+		}
+		allow = {
+			war = no
+			OR = {
+				nationalism_n_imperialism = 1
+				year = 1865
+			}
+			994 = { owner = { war = no } }
+		}
+		effect = {
+			RUS_339 = {
+				add_core = RUS
+			}
+			RUS_994 = {
+				add_core = RUS
+			}
+		}
 		ai_will_do = { factor = 1 }
 	}
 }
