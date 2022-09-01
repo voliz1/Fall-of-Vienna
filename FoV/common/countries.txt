@@ -1,7 +1,7 @@
 #Please keep tags sorted alphabetically when you add/remove country tags
 
 # Special countries...
-REB 	= "countries/rebels.txt"
+REB 	= 	"countries/rebels.txt"
 
 ####################
 ##### REMOVING #####
@@ -18,24 +18,22 @@ SAA 	= "countries/Saar.txt"
 LAU 	= "countries/Lauenburg.txt"
 MML 	= "countries/Memelland.txt"
 TST		= "countries/South Tirol.txt"
-HGL		= "countries/Heligoland.txt"
+HGL		="countries/Heligoland.txt"
 
 RUM		= "countries/Eastern Rumelia.txt"
 SAM		= "countries/Samos.txt"
 
-KRL		= "countries/Karelia.txt"
-
 #removing - colonial
-MSK		= "countries/Mosquito Coast.txt"
-MAU		= "countries/Mauritius.txt"
-SEY		= "countries/Seychelles.txt"
-IOT		= "countries/Indian Ocean Territory.txt"
-SGP		= "countries/Singapore.txt"
-MTQ		= "countries/Martinique.txt"
+MSK		="countries/Mosquito Coast.txt"
+MAU		="countries/Mauritius.txt"
+SEY		="countries/Seychelles.txt"
+IOT		="countries/Indian Ocean Territory.txt"
+SGP		="countries/Singapore.txt"
+MTQ		="countries/Martinique.txt"
 
 #useless Georgian tags
-SVA		= countries/Svaneti.txt"
-MIG		= "countries/Mingrelia.txt"
+SVA		="countries/Svaneti.txt"
+MIG		="countries/Mingrelia.txt"
 
 # removing - New World
 SPU		= "countries/South Peru.txt"
@@ -52,8 +50,8 @@ UNM		= "countries/New Mexico.txt"
 UOR		= "countries/Oregon.txt"
 
 #indian small tags
-CHH		= "countries/Chhatarpur.txt"
-REW		= "countries/Rewah.txt"
+CHH		="countries/Chhatarpur.txt"
+REW		="countries/Rewah.txt"
 
 ####################
 
@@ -245,6 +243,7 @@ IZH		= "countries/Ingria.txt"
 KAZ 	= "countries/Kazakhstan.txt"
 KAM 	= "countries/Kamchatka.txt"
 KMK		= "countries/Kalmykia.txt"
+KRL		= "countries/Karelia.txt"
 SIB		= "countries/Siberian Republic.txt"
 TAR 	= "countries/Tatarstan.txt"
 TNT		= "countries/Tannu Tuva.txt"
