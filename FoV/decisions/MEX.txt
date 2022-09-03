@@ -142,7 +142,7 @@ political_decisions = {
 					USA = { has_recently_lost_war = yes }
 				}
 			}
-			all_core = { owned_by = THIS }
+			all_core = { NOT = { owned_by = USA } }
 		}
 		
 		effect = {
