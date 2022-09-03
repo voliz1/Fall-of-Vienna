@@ -6,12 +6,10 @@ Claim_Florida = {
 			tag = USA
 			NOT = { has_global_flag = Claim_Florida }
 		}
-
         allow = {
             prestige = 20
             idealism = 1
         }
-
         effect = {
             set_global_flag = Claim_Florida
 			FLD = {
@@ -35,40 +33,64 @@ Claim_Florida = {
         }
     }
 
-Past_the_Mississippi = {
-        picture = new_france_louisiana
+	manifest_destiny_louisiana = {
+		picture = new_france_louisiana
         potential = {
 			tag = USA
-			NOT = { 
-				has_global_flag = Past_the_Mississippi
-				}
+			NOT = { has_country_flag = hasmanifestdestinylouisiana }
 		}
+		allow = {
+			war = no
+			idealism = 1
+			romanticism = 1
+			NOT = { truce_with = ULA }
+			NOT = { war_policy = pacifism }
+			NOT = { ULA = { any_owned_province = { country_units_in_province = USA } } }
+		}
+		effect = {
+			set_country_flag = hasmanifestdestinylouisiana
+			random_list = {
+				25 = { }
+				25 = { badboy = 1 }
+				25 = { badboy = 2 }
+				25 = { badboy = 3 }
+			}
+			USA_126 = { add_core = USA } #French Kansas			
+			TEX_135 = { add_core = USA } #French Colorado
+			USA_111 = { add_core = USA } #French Wyoming
+			USA_121 = { add_core = USA } #Dakota
+			USA_151 = { add_core = USA } #French Iowa
+			relation = { who = ULA value = -200 }
+			diplomatic_influence = { who = ULA value = -200 }
+			leave_alliance = ULA
+			random_country = {
+				limit = {
+					tag = ULA
+					vassal_of = THIS
+				}
+				THIS = { release_vassal = ULA }
+			}
+			random_country = {
+				limit = {
+					is_our_vassal = ULA
+					NOT = { tag = THIS }
+				}
+				relation = { who = THIS value = -200 }
+				leave_alliance = THIS
+			}
+			ULA = { country_event = 44130 }
+			any_pop = {
+				dominant_issue = {
+					factor = 0.05
+					value = jingoism
+				}
+				consciousness = 2
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
 
-        allow = {
-            prestige = 20
-            state_n_government = 1
-        }
-
-        effect = {
-            set_global_flag = Past_the_Mississippi
-            ULA = {
-                all_core = { add_core = USA }
-            }
-            war = {
-            target = ULA
-            attacker_goal = { casus_belli = establish_protectorate_casus_belli }
-            defender_goal = { casus_belli = status_quo }
-            call_ally = yes
-            }
-            prestige = 15
-        }
-        ai_will_do = {
-            factor = 1
-        }
-    }
-
-
-Victory_for_Louisiana = {
+	Victory_for_Louisiana = {
         picture = dreams_of_empire
         potential = {
 			tag = ULA
@@ -77,16 +99,15 @@ Victory_for_Louisiana = {
 			NOT = { has_country_modifier = recently_lost_war }
 			NOT = { has_global_flag = Victory_for_Louisiana }
 		}
-
+		
         allow = {
 			owns = 139
 			owns = 143
 			owns = 153
 			owns = 103
 			owns = 116
-        
         }
-
+		
         effect = {
 			192 = { secede_province = ULA } 
 			193 = { secede_province = ULA } 

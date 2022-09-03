@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = UPB
+controller = UPB
 add_core = ATJ
 add_core = SAK
 trade_goods = fish

@@ -394,12 +394,14 @@ political_decisions = {
 		}
 		
 		ai_will_do = { factor = 1 }
-	}		
+	}
+	
 	manifest_destiny = {
 		potential = {
 			tag = USA
-			is_greater_power = yes
+			neighbour = MEX
 			NOT = { has_country_flag = hasmanifestdestiny }
+			NOT = { ULA = { any_owned_province = { is_core = USA } } }		#if USA fails to buy northern Louisiana or take it in a war, this will return FALSE
 		}
 		allow = {
 			war = no
@@ -409,8 +411,6 @@ political_decisions = {
 			NOT = { war_policy = pacifism }
 			NOT = { MEX = { any_owned_province = { country_units_in_province = USA } } }
 			OR = {
-				TEX = { in_sphere = THIS }
-				TEX = { exists = no }
 				invention = manifest_destiny
 				any_owned_province = { is_core = MEX }
 			}
