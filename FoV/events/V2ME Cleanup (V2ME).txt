@@ -832,26 +832,6 @@ country_event = {
 					has_country_flag = Government_Democracy
 				}
 			}
-			any_pop = {
-                limit = {
-                    has_pop_religion = catholic
-                    is_culture_group = american_cultures
-                    location = { is_overseas = no }
-                    NOT = {
-                        has_pop_culture = texan
-                        type = craftsmen
-                        type = bureaucrats
-                        strata = rich
-                        strata = middle
-                    }
-
-                }
-                random_list = {
-                    15 = { reduce_pop = 1.02 }
-                    35 = { reduce_pop = 1.03 }
-                    45 = { reduce_pop = 1.04 }
-                }
-            }
             any_pop = {
                 limit = {
                     has_pop_religion = catholic
@@ -874,7 +854,6 @@ country_event = {
                     has_pop_religion = catholic
                     OR = {
                         has_pop_culture = cajun
-                        has_pop_culture = texan
                     }
                     NOT = { type = craftsmen }
                     location = { is_overseas = no }

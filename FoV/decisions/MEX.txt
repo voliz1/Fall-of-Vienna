@@ -175,19 +175,6 @@ political_decisions = {
 			}
 			
 			random_owned = {
-				limit = { owner = { primary_culture = texan } }
-					owner = {
-					any_owned = {
-						limit = {
-							is_core = MEX
-							is_core = THIS
-						}
-				remove_core = MEX
-					}
-				}
-			}
-			
-			random_owned = {
 				limit = { owner = { primary_culture = mexican } }
 				owner = {
 					129 = { add_core = MEX }

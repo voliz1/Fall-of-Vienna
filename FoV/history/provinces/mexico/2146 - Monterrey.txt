@@ -1,13 +1,9 @@
 owner = USA
-
 controller = USA
-
 add_core = USA
-
 trade_goods = grain
 life_rating = 35
-terrain = dc
-
+terrain = dc #Bruh
 party_loyalty = {
 	ideology = liberal
 	loyalty_value = 40

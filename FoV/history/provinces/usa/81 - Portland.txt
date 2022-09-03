@@ -2,14 +2,6 @@ owner = MEX
 controller = MEX
 add_core = MEX
 add_core = COL
-add_core = VNS
 trade_goods = fish
 life_rating = 20
 colonial = 1
-1861.1.1 = {
-owner = USA
-controller = USA
-add_core = USA
-remove_core = COL
-colonial = 2
-}

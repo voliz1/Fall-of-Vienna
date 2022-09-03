@@ -498,13 +498,6 @@ country_event = {
 			LSK = { primary_culture = anglo_canadian }
 			LSK = { government = democracy }
 		}
-		FROM = {
-			remove_accepted_culture = alaskan
-			any_owned = {
-				limit = { continent = north_america }
-				secede_province = THIS
-			}
-		}
 		
 		random_owned = { limit = { owner = { NOT = { primary_culture = japanese } } }
 			owner = {
