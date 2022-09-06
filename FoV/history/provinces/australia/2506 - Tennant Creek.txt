@@ -1,6 +1,6 @@
 owner = BOR
 controller = BOR
-add_core = AST
+add_core = FAS
 trade_goods = cattle
 life_rating = 15
 colonial = 2

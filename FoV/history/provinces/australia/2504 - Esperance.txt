@@ -1,6 +1,6 @@
 owner = BOR
 controller = BOR
-add_core = AST
+add_core = FAS
 trade_goods = fruit
 terrain = dryhills
 life_rating = 30

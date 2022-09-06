@@ -1,9 +1,9 @@
 capital = 2502
-primary_culture = french_australian
-religion = catholic
+primary_culture = australian
+religion = protestant
 government = absolute_monarchy
 plurality = 0.98
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.7
 civilized = yes
 
@@ -36,11 +36,10 @@ border_policy = open_borders
 centralization = federalism
 colonial_policy = no_colonies 
 
-set_country_flag = catholic_country
 set_country_flag = new_world_nation
 set_country_flag = releaseable_country
 
-ruling_party = QUE_liberal_2
+ruling_party = AST_liberal
 upper_house = {
 	fascist = 0
 	liberal = 25
@@ -49,11 +48,4 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-
-
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

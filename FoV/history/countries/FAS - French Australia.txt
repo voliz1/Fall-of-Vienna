@@ -1,4 +1,4 @@
-capital = 2512
+capital = 2502
 primary_culture = french_australian
 religion = catholic
 government = hms_government
@@ -41,10 +41,9 @@ colonial_policy = no_colonies
 
 set_country_flag = catholic_country
 set_country_flag = new_world_nation
-set_country_flag = existing_country
-set_country_flag = unreleasable_country
+set_country_flag = releaseable_country
 
-ruling_party = NWZ_conservative
+ruling_party = QUE_conservative
 upper_house = {
 	fascist = 0
 	liberal = 30
@@ -53,11 +52,4 @@ upper_house = {
 	anarcho_liberal = 5
 	socialist = 0
 	communist = 0
-}
-
-
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }
