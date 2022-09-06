@@ -49,7 +49,7 @@ UNB		= "countries/Nebraska.txt"
 UNM		= "countries/New Mexico.txt"
 UOR		= "countries/Oregon.txt"
 
-#indian small tags
+#indian small tags (there are better tags to remove)
 CHH		="countries/Chhatarpur.txt"
 REW		="countries/Rewah.txt"
 
@@ -74,14 +74,46 @@ PBC		= "countries/Peru-Bolivia Confederation.txt"
 ####################
 ####################
 
-# DO NOT REMOVE THIS TAG
-RPL		= "countries/Rupert's Land.txt"
+### FoV: Oceania ###
+NSC 	= "countries/New Sweden.txt"
+NZF		= "countries/French New Zealand.txt"	#unused
+FAS		= "countries/French Australia.txt"		#"Australie"
+AST		= "countries/Australia.txt"
+NZL		= "countries/New Zealand.txt"
 
-### FoV ###
-NSC = "countries/New Sweden.txt"
+
+
+### FoV: North America ###
+RPL		= "countries/Rupert's Land.txt"			#DO NOT REMOVE
+QUE		= "countries/Quebec.txt"
+CAN		= "countries/Canada.txt"
+COL		= "countries/Columbia.txt"				#British Columbia
+USA		= "countries/USA.txt"
+CSA		= "countries/CSA.txt"
+ULA		= "countries/Louisiana.txt"
+MEX		= "countries/Mexico.txt"
+FLD 	= "countries/Florida.txt"
+
+
+
+### FoV: China ###
+CHI		= "countries/China.txt"
+MIN 	= "countries/Ming China.txt"
+QNG		= "countries/Qing China.txt"
+GNG		= "countries/Guangdong.txt"
+GXI		= "countries/Guangxi Clique.txt"
+XBI		= "countries/Xibei San Ma.txt"			#Qinghai
+FJN		= "countries/Fujian.txt"
+XIN		= "countries/Xinjiang.txt"
+TIB		= "countries/Tibet.txt"
+MCK		= "countries/Manchukuo.txt"
+MGL		= "countries/Mongolia.txt"
+
+
+
+### FoV: Miscellaneous ###
 IQI	= "countries/Iquicha.txt"
 USS = "countries/United States of South America.txt"
-MIN = "countries/Ming China.txt"
 DAK = "countries/Dakota.txt"
 UPB = "countries/Portugal-Brazil.txt"
 HSA = "countries/Hispanic America.txt"
@@ -89,13 +121,13 @@ BRG = "countries/Berg.txt"
 ULM = "countries/Ulm.txt"
 WRZ = "countries/Wurzburg.txt"
 
+
+
 ### NEW NATIONS MOD ###
 
 ###France Mod###
-NZF		="countries/French New Zealand.txt"
-FAS		="countries/French Australia.txt"
+
 FCA		="countries/French Canada.txt"
-ULA		="countries/Louisiana.txt"
 EIC		="countries/East India Company.txt"
 UTI		="countries/Utility Tag.txt"
 CLN     ="countries/Cleanup.txt"
@@ -130,7 +162,6 @@ VNG		= "countries/Colonial Colombia.txt"
 VLP		= "countries/Colonial La Plata.txt"
 VOP		= "countries/Colonial Peru.txt"
 VNS		= "countries/Colonial Spain.txt"
-FLD 	= "countries/Florida.txt"
 
 ##HPM
 ATC		="countries/Antillean Confederation.txt"
@@ -181,7 +212,6 @@ BHP		="countries/Bahawalpur.txt"
 EZO		="countries/Ezo.txt"
 CHY		="countries/Chechnya.txt"
 CHK		="countries/Champasak.txt"
-QNG		="countries/Qing China.txt"
 MGH		="countries/Maghreb.txt"
 
 #Latin America
@@ -372,9 +402,7 @@ ZAM		= "countries/Zambia.txt"
 
 # Eastern Asia
 DJA		= "countries/Jambi.txt"
-FJN		= "countries/Fujian.txt"
 GMJ		= "countries/Guominjun.txt"
-GNG		= "countries/Guangdong.txt"
 HNN		= "countries/Hunan.txt"
 HUI		= "countries/Anhui.txt"
 INO		= "countries/Indonesia.txt"
@@ -591,31 +619,21 @@ BHU		="countries/Bhutan.txt"
 BRU		="countries/Brunei.txt"
 BUR		="countries/Burma.txt"
 CAM		="countries/Cambodia.txt"
-CHI		="countries/China.txt"
 DAI		="countries/Dai Viet.txt"
 JAV		="countries/Java.txt"
 KOR		="countries/Korea.txt"
 LUA		="countries/Luang Prabang.txt"
 JOH		="countries/Johore.txt"
 SIA		="countries/Siam.txt"
-TIB		="countries/Tibet.txt"
-MGL		="countries/Mongolia.txt"
 WIA		="countries/Wiang Chhan.txt"
 PHL		="countries/Philippines.txt"
-MCK		="countries/Manchukuo.txt"
-GXI		="countries/Guangxi Clique.txt"
 SXI		="countries/Shanxi.txt"
 YNN		="countries/Yunnan.txt"
-XBI		="countries/Xibei San Ma.txt"
-XIN		="countries/Xinjiang.txt"
 
 # North America
 CAL		="countries/Californian Republic.txt"
-CAN		="countries/Canada.txt"
 CHE		="countries/Cherokee.txt"
-COL		="countries/Columbia.txt"
 COS		="countries/Costa Rica.txt"
-CSA		="countries/CSA.txt"
 CUB		="countries/Cuba.txt"
 DES		="countries/Deseret.txt"
 DOM		="countries/Dominican Republic.txt"
@@ -624,14 +642,12 @@ GUA		="countries/Guatemala.txt"
 HAI		="countries/Haiti.txt"
 HAW		="countries/Hawaii.txt"
 #MAN		="countries/Manhattan Commune.txt"
-MEX		="countries/Mexico.txt"
 MTC		="countries/Metis Confederacy.txt"
 HON		="countries/Honduras.txt"
 NEN		="countries/New England.txt"
 NEW		="countries/Newfoundland.txt"
 NIC		="countries/Nicaragua.txt"
 PNM		="countries/Panama.txt"
-QUE		="countries/Quebec.txt"
 TEX		="countries/Texas.txt"
 UCA		="countries/United States of Central America.txt"
 
@@ -647,10 +663,6 @@ PRG		="countries/Paraguay.txt"
 URU		="countries/Uruguay.txt"
 VNZ		="countries/Venezuela.txt"
 
-# Australasia
-AST		="countries/Australia.txt"
-NZL		="countries/New Zealand.txt"
-
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"
 RUS		= "countries/Russia.txt"
@@ -658,7 +670,6 @@ FRA		= "countries/France.txt"
 PRU		= "countries/Prussia.txt"
 GER		= "countries/Germany.txt"
 AUS		= "countries/Austria.txt"
-USA		= "countries/USA.txt"
 JAP		= "countries/Japan.txt"
 ITA		= "countries/Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
