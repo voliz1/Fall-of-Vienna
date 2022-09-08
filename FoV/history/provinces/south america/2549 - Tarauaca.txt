@@ -4,7 +4,6 @@ add_core = PEU
 add_core = ARC
 add_core = ARG
 add_core = BOL
-add_core = BRZ
 add_core = VOP
 trade_goods = tropical_wood
 life_rating = 15
