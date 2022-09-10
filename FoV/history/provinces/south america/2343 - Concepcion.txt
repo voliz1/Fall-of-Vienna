@@ -1,7 +1,6 @@
-owner = VLP
-controller = VLP
-add_core = ARC
-add_core = PRG
-add_core = VLP
+owner = ARG
+controller = SPC
+add_core = ARG
+add_core = PRG
 trade_goods = fruit
 life_rating = 31

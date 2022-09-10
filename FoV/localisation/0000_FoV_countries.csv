@@ -39,3 +39,17 @@ EVTDESC44136;Despite having them over the figurative barrel, the $FROMCOUNTRY_AD
 EVT44136OPTA;A foolish move.;;;;;;;;;;;;x,,,
 treaty_of_new_orleans_title;Treaty of New Orleans;;;;;;;;;;;;x,,,
 treaty_of_new_orleans_desc;Should we get a convincing enough victory over the Louisianans, we will be able to force them to the negotiating table in order to discuss their surrendering of all claims to land that we claim -- in exchange for a fair price, of course.\n\n§RNOTE: The treaty will cost 100,000¤.§W;;;;;;;;;;;;x
+call_for_south_american_union_title;Call for South American Union;;;;;;;;;;;;x,,,
+call_for_south_american_union_desc;There has been a growing call in our country to unite South America in one republic. We are in a position to justify claiming much of the region to advance this cause.;;;;;;;;;;;;x,,,
+form_south_american_union_title;Form South American Union;;;;;;;;;;;;x,,,
+form_south_american_union_desc;By controlling, directly or indirectly, the many divisions of South America, we can unite our peoples into one state. Long live South America!;;;;;;;;;;;;x
+USS;South America;;;;;;;;;;;;x,,,
+USS_ADJ;South-American;;;;;;;;;;;;x,,,
+USS_absolute_monarchy;Empire of South America;;;;;;;;;;;;x,,,
+USS_hms_government;South America;;;;;;;;;;;;x,,,
+USS_prussian_constitutionalism;Empire of South America;;;;;;;;;;;;x,,,
+USS_democracy;South America;;;;;;;;;;;;x,,,
+USS_fascist_dictatorship;South America;;;;;;;;;;;;x,,,
+USS_proletarian_dictatorship;South American Democratic Republic;;;;;;;;;;;;x,,,
+restore_la_plata_viceroyality_title;Restore the Viceroyalty of the Río de la Plata;;;;;;;;;;;;x,,,
+restore_la_plata_viceroyality_desc;We have defeated the secessionists in the Viceroyalty of the Río de la Plata. Let us restore the Viceroyalty.;;;;;;;;;;;;x,,,

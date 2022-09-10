@@ -1,29 +1,78 @@
+SPC = {
+	value = -200
+}
+UPB = {
+	value = -100
+}
+
+
 army = {
 	name = "Ejército de Buenos Aires"
-	location = 2349
+	location = 2348
 	regiment = {
 		name= "1. División de Infantería"
 		type = infantry
 		home = 2348
 	}
-
+	
 	regiment = {
 		name= "2. División de Infantería"
 		type = infantry
 		home = 2348
 	}
-
+	
 	regiment = {
 		name= "3. División de Infantería"
 		type = infantry
 		home = 2348
 	}
-
 	regiment = {
-		name= "4. División de Infantería"
+		name= "1. División de Infantería"
 		type = infantry
-		home = 2349
+		home = 2379
 	}
-
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2371
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2385
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2360
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2359
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2357
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = artillery
+		home = 2356
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = hussar
+		home = 2358
+	}
+	
 }
 
+leader = {
+   name = "Angel Pacheco"
+   type = land
+   date = 1836.1.1
+   background = aristocrat
+   personality = implacable
+}

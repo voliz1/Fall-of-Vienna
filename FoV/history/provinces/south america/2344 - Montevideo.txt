@@ -1,7 +1,6 @@
-owner = ARC
-controller = ARC
-add_core = ARC
-add_core = URU
+owner = ARG
+controller = SPC
+add_core = ARG
 trade_goods = cattle
 life_rating = 38
 terrain = montevideo
