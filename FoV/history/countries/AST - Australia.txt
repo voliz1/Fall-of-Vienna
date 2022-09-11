@@ -36,6 +36,7 @@ border_policy = open_borders
 centralization = federalism
 colonial_policy = no_colonies 
 
+set_country_flag = protestant_country
 set_country_flag = new_world_nation
 set_country_flag = releaseable_country
 

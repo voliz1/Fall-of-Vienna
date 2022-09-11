@@ -42,7 +42,7 @@ govt_flag = {
 	flag = hms_government
 }
 
-set_country_flag = protestant_country
+set_country_flag = new_world_nation
 set_country_flag = releaseable_country
 
 ruling_party = NWZ_conservative

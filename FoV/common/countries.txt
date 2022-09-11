@@ -80,6 +80,7 @@ NZF		= "countries/French New Zealand.txt"	#unused
 FAS		= "countries/French Australia.txt"		#"Australie"
 AST		= "countries/Australia.txt"
 NZL		= "countries/New Zealand.txt"
+AOT     = "countries/Aotearoa.txt"
 
 
 
@@ -433,7 +434,6 @@ TOS		= "countries/Tosa.txt"
 YZW		= "countries/Yonezawa.txt"
 
 # Australasia & the Pacific
-AOT     = "countries/Aotearoa.txt"
 FIJ		= "countries/Fiji.txt"
 SNZ     = "countries/South Island.txt"
 TGA		= "countries/Tonga.txt"

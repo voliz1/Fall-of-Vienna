@@ -1,0 +1,43 @@
+political_decisions = {
+	organise_new_zealand = {
+		picture = new_zealand
+		potential = {
+			THIS = {
+				capital_scope = {
+					continent = europe
+				}
+				owns = 2512
+				owns = 2515
+			}
+			NOT = {
+				has_global_flag = new_zealand_organised
+			}
+		}
+		allow = {
+			
+		}
+		effect = {
+			set_global_flag = new_zealand_organised
+			ENG_2509 = { add_core = NZL }
+			ENG_2513 = { add_core = NZL }
+			NZL = {
+				primary_culture = THIS
+				religion = THIS
+			}
+			any_state = {
+				limit = {
+					is_core = AOT
+				}
+				any_pop = {
+					limit = {
+						has_pop_culture = maori
+					}
+					consciousness = 0.5
+				}
+			}
+		}
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}
