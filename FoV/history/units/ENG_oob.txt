@@ -1133,7 +1133,7 @@ navy = {
 
 navy = {
 	name = "East Indies Station"
-	location = 1384 #Singapore
+	location = 3263 #Fort William
 	ship = {
 		name= "Nemesis"
 		type = ironclad
@@ -1357,7 +1357,7 @@ navy = {
 
 navy = {
 	name = "China Station"
-	location = 1384 #Calcutta
+	location = 3263 #Fort William
 	ship = {
 		name= "HMS Active"
 		type = manowar

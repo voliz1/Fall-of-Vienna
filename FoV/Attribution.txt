@@ -1,0 +1,11 @@
+### FLAGS
+
+NZL_republic.tga
+"Silver Fern (Green)" Roger Clarke (https://commons.wikimedia.org/wiki/File:NZ_flag_design_Silver_Fern_(Green)_by_Roger_Clarke.jpg)
+Licensed under Creative Commons: Attribution 3.0 New Zealand licence 
+https://creativecommons.org/licenses/by/3.0/nz/
+
+NZL.tga; NZL_monarchy.tga
+"New Southern Cross" by Wayne William Doyle (https://commons.wikimedia.org/wiki/File:NZ_flag_design_New_Southern_Cross_by_Wayne_William_Doyle.svg)
+Licensed under Creative Commons: Attribution 3.0 New Zealand licence 
+https://creativecommons.org/licenses/by/3.0/nz/
