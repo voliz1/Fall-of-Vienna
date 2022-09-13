@@ -1896,6 +1896,71 @@ political_decisions = {
 		}
 	}
 	
+	MEX_1836_setup = {
+		potential = {
+			tag = MEX
+			always = no
+		}
+		
+		allow = {
+			tag = MEX
+		}
+		
+		effect = {
+			any_pop = {
+				militancy = -10
+				consciousness = -10
+			}
+			any_pop = {
+				militancy = 1
+				consciousness = 2
+			}
+			any_pop = { limit = { has_pop_culture = mexican } reduce_pop = 2.5 } any_pop = { limit = { OR = { has_pop_culture = nahua has_pop_culture = native_american_minor has_pop_culture = mayan } } reduce_pop = 1.5 }
+			MEX_2172 = { any_pop = { limit = { has_pop_culture = mexican } reduce_pop = 0.5 } any_pop = { limit = { OR = { has_pop_culture = nahua has_pop_culture = native_american_minor has_pop_culture = mayan } } reduce_pop = 0.25 } }
+			MEX_2170 = { any_pop = { limit = { has_pop_culture = mexican } reduce_pop = 0.5 } any_pop = { limit = { OR = { has_pop_culture = nahua has_pop_culture = native_american_minor has_pop_culture = mayan } } reduce_pop = 0.25 } }
+			MEX_2161 = { any_pop = { limit = { has_pop_culture = mexican } reduce_pop = 0.5 } any_pop = { limit = { OR = { has_pop_culture = nahua has_pop_culture = native_american_minor has_pop_culture = mayan } } reduce_pop = 0.25 } }
+			2162 = { any_pop = { limit = { has_pop_culture = mexican } reduce_pop = 2.5 } any_pop = { limit = { OR = { has_pop_culture = nahua has_pop_culture = native_american_minor has_pop_culture = mayan } } reduce_pop = 1.25 } }
+			any_pop = {
+				limit = {
+					OR = {
+						has_pop_culture = mexican
+						has_pop_culture = central_american
+					}
+				}
+				literacy = -100
+			}
+			any_pop = {
+				limit = {
+					OR = {
+						has_pop_culture = mexican
+						has_pop_culture = central_american
+					}
+				}
+				literacy = 0.35
+			}
+			any_pop = {
+				limit = {
+					OR = {
+						has_pop_culture = native_american_minor
+						has_pop_culture = mayan
+						has_pop_culture = nahua
+					}
+				}
+				literacy = -100
+			}
+			any_pop = {
+				limit = {
+					OR = {
+						has_pop_culture = native_american_minor
+						has_pop_culture = mayan
+						has_pop_culture = nahua	
+					}
+				}
+				literacy = 0.25
+			}
+		}
+	}
+	
 	BOL_1836_setup = {
 		potential = {
 			OR = {
@@ -1992,31 +2057,6 @@ political_decisions = {
 				name = america_new_world
 				duration = 3650
 			}
-		}
-	}
-	
-	FRCA_1836_setup = {
-		picture = constantinople
-		potential = {
-			tag = UCA
-			always = no
-		}
-		
-		allow = {
-			tag = UCA
-		}
-		
-		effect = {
-			UCA_2186 = { any_pop = { literacy = -0.055 } } #Guatemala
-			UCA_2193 = { any_pop = { literacy = -0.015 } } #Honduras
-			UCA_2186 = { any_pop = { literacy = -0.025 } } #El Salvador
-			UCA_2197 = { any_pop = { literacy = -0.02 } }  #Nicaragua
-			2182 = {
-				any_pop = { limit = { has_pop_culture = mexican } literacy = 0.03 }
-				any_pop = { limit = { has_pop_culture = central_american } literacy = -0.055 }
-			}
-			
-			2172 = { any_pop = { limit = { has_pop_culture = mexican } literacy = 0.05 } }
 		}
 	}
 
@@ -2709,8 +2749,6 @@ political_decisions = {
 				limit = { NOT = { tag = PRU } }
 				diplomatic_influence = { who = NCT value = -400 }
 			}
-
-			MEX = { add_country_modifier = { name = fight_the_power duration = 3650 } }
 			
 			1493 = { 
 				add_province_modifier = {

@@ -2,6 +2,13 @@
 #ruled by Mexico 1836
 #Hermosillo (76000/19000 POPS)
 2137 = {
+
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 1010
+	}
+	
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -344,6 +351,13 @@
 #ruled by Mexico 1836
 #Chihuahua (100000/25000 POPS)
 2142 = {
+
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 550
+	}
+	
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -781,6 +795,13 @@
 }
 #Torreon (56000/14000 POPS)
 2155 = {
+
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 512
+	}
+	
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -904,55 +925,61 @@
 	aristocrats = {
 		culture = mexican
 		religion = catholic
-		size = 275
+		size = 2750
 	}
 
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
 		culture = mexican
 		religion = catholic
-		size = 550
+		size = 5500
 	}
 
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 125
+		size = 1250
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 3900
+		size = 39000
+	}
+	
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 2850
 	}
 	
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 100
+		size = 500
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 100
+		size = 150
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 100
+		size = 150
 	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 5700
+		size = 8700
 	}
 }
 #Ciudad Victoria (24000/6000 POPS)
@@ -1038,6 +1065,12 @@
 #ruled by Mexico 1836
 #Durango (64000/16000 POPS)
 2153 = {
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 2300
+	}
+	
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -1269,6 +1302,12 @@
 		religion = catholic
 		size = 1725
 		militancy = 9
+	}
+	
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 1725
 	}
 
 	bureaucrats = {
@@ -1518,6 +1557,13 @@
 }
 #Guanajuato (672000/168000 POPS)
 2167 = {
+
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 2820
+	}
+	
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -1678,6 +1724,12 @@
 		militancy = 5
 	}
 
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 3850
+	}
+	
 	clergymen = {
 		culture = mexican
 		religion = catholic
@@ -1942,6 +1994,12 @@
 		religion = catholic
 		size = 1550
 		militancy = 5
+	}
+	
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 3850
 	}
 
 	bureaucrats = {
@@ -2268,6 +2326,12 @@
 		size = 1650
 	}
 
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 4850
+	}
+	
 	bureaucrats = {
 		culture = mexican
 		religion = catholic
@@ -2726,6 +2790,13 @@
 }
 #Chilpancingo (80000/20000 POPS)
 2180 = {
+
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 2440
+	}
+	
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -2794,6 +2865,12 @@
 		culture = mexican
 		religion = catholic
 		size = 25
+	}
+	
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 1500
 	}
 
 	officers = {
@@ -2932,6 +3009,12 @@
 		religion = catholic
 		size = 1275
 		militancy = 9
+	}
+	
+	craftsmen = {
+		culture = mexican
+		religion = catholic
+		size = 950
 	}
 
 	bureaucrats = {

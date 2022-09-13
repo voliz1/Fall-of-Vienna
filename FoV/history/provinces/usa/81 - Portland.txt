@@ -3,5 +3,5 @@ controller = MEX
 add_core = MEX
 add_core = COL
 trade_goods = fish
-life_rating = 20
+life_rating = 35
 colonial = 1

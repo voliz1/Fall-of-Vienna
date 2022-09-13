@@ -1,8 +1,8 @@
-owner = VNS
+owner = MEX
 controller = CLM
 add_core = CLM
 add_core = PNM
-add_core = VNS
+add_core = MEX
 trade_goods = fruit
-life_rating = 32
+life_rating = 35
 naval_base = 1
