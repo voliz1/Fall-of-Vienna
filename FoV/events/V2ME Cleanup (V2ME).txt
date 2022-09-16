@@ -826,7 +826,7 @@ country_event = {
 					year = 1850
 					has_country_modifier = catholic_growth
 				}
-				is_culture_group = american_cultures
+				is_culture_group = anglo_american_cultures
 				OR = {
 					government = democracy
 					has_country_flag = Government_Democracy
@@ -835,7 +835,7 @@ country_event = {
             any_pop = {
                 limit = {
                     has_pop_religion = catholic
-                    is_culture_group = american_cultures
+                    is_culture_group = anglo_american_cultures
                     location = { is_overseas = no }
                     OR = {
                         strata = rich

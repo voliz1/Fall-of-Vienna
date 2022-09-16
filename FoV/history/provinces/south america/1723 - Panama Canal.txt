@@ -1,8 +1,8 @@
-owner = MEX
-controller = MEX
+owner = CLM
+controller = CLM
 add_core = CLM
 add_core = PNM
-add_core = MEX
+add_core = VNG
 terrain = panama
 trade_goods = fruit
 life_rating = 35

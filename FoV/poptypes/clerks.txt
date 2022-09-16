@@ -108,7 +108,7 @@ country_migration_target = {
 			AND = {
 				THIS = { is_culture_group = germanic }
 				OR = { 
-					is_culture_group = american_cultures
+					is_culture_group = anglo_american_cultures
 					AND = {
 						primary_culture = dutch
 						is_vassal = yes
@@ -154,7 +154,7 @@ country_migration_target = {
 			AND = {
 				THIS = { is_culture_group = british }
 				OR = {
-					is_culture_group = american_cultures
+					is_culture_group = anglo_american_cultures
 					primary_culture = australian
 					primary_culture = anglo_canadian
 				}
@@ -523,7 +523,7 @@ migration_target = {
 			is_core = COL
 			is_core = RPL
 		}
-		country = { is_culture_group = american_cultures }
+		country = { is_culture_group = anglo_american_cultures }
 	}
 	
 	modifier = {

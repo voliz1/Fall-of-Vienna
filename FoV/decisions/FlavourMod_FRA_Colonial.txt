@@ -1527,7 +1527,7 @@ political_decisions = {
 					}
 				}
 				AND = {
-					is_culture_group = american_cultures
+					is_culture_group = anglo_american_cultures
 					OR = { 
 						AND = { owns = 139 has_global_flag = french_renamed_louisiana }
 						AND = { owns = 143 has_global_flag = french_renamed_arkansas }
@@ -1557,7 +1557,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 139 #New Orleans
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				139 = {
 					change_province_name = "New Orleans"
@@ -1595,7 +1595,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 143 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				#Arkansas
 				143 = {
@@ -1632,7 +1632,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 130 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				130 = {
 					change_province_name = "Fort Gibson"
@@ -1667,7 +1667,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 148 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				148 = { change_province_name = "Malden" }
 				147 = { change_province_name = "Joplin" }
@@ -1700,7 +1700,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 154 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				154 = {
 					change_province_name = "Sioux City"
@@ -1737,7 +1737,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 126 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				126 = {
 					change_province_name = "Fort Leavenworth"
@@ -1772,7 +1772,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 124 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				124 = {
 					change_province_name = "Bordeaux's Post"
@@ -1809,7 +1809,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 155 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				155 = {
 					change_province_name = "Fort Snelling"
@@ -1846,7 +1846,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 120 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				120 = {
 					change_province_name = "Fort Kiowa"
@@ -1883,7 +1883,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 117 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				117 = {
 					change_province_name = "Fort Clark"
@@ -1920,7 +1920,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 116 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				113 = {
 					change_province_name = "Gallatin Valley"
@@ -1959,7 +1959,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 112 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				112 = {
 					change_province_name = "Fort Laramie"
@@ -1991,7 +1991,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 83 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				83 = {
 					change_province_name = "Eugene"
@@ -2025,7 +2025,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 91 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				91 = { state_scope = { change_region_name = "Idaho" } }
 				owner = { clr_global_flag = french_renamed_idaho }
@@ -2140,7 +2140,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					province_id = 78 
-					owner = { is_culture_group = american_cultures }
+					owner = { is_culture_group = anglo_american_cultures }
 				}
 				78 = {
 					change_province_name = "Seattle"

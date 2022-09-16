@@ -4322,7 +4322,7 @@ country_event = {
 				any_core = { owned_by = THIS }
 				exists = no
 				is_cultural_union = no
-				NOT = { is_culture_group = american_cultures }
+				NOT = { is_culture_group = anglo_american_cultures }
 				NOT = { has_country_flag = post_colonial_country }
 			}
 			all_core = {

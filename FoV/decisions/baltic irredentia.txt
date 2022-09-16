@@ -149,7 +149,7 @@ political_decisions = {
 				add_accepted_culture = latvian
 				add_accepted_culture = estonian
 				add_accepted_culture = lithuanian
-				prestige 20
+				prestige = 20
 				badboy = 10
 				LIT = {
 				all_core = { add_core = GER }

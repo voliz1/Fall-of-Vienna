@@ -952,7 +952,7 @@ central_american_ai = {
 		}
 		NOT = { 
 			total_pops = 200000
-			is_culture_group = american_cultures 
+			is_culture_group = anglo_american_cultures 
 			primary_culture = mexican
 			capital = 2339
 		}
@@ -978,7 +978,7 @@ south_american_ai = {
 		NOT = {
 			capital = 2339
 			total_pops = 1500000
-			is_culture_group = american_cultures 
+			is_culture_group = anglo_american_cultures 
 			primary_culture = mexican
 		}
 	}
@@ -1001,7 +1001,7 @@ south_american_ai_ii = {
 		total_pops = 1500000
 		NOT = {
 			capital = 2339
-			is_culture_group = american_cultures 
+			is_culture_group = anglo_american_cultures 
 			primary_culture = mexican
 		}
 	}

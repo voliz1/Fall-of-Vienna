@@ -1411,7 +1411,7 @@ political_decisions = {
 			NOT = { owns = 102 }
 			102 = { NOT = { is_core = THIS } }
 			102 = { owner = { NOT = { OR = { primary_culture = yankee primary_culture = dixie } } } }
-			is_culture_group = american_cultures
+			is_culture_group = anglo_american_cultures
 			NOT = { has_country_flag = gadsden_negotiations }
 			90 = { owned_by = THIS NOT = { is_core = MEX } }
 			100 = { owned_by = THIS NOT = { is_core = MEX } }
@@ -1449,9 +1449,9 @@ political_decisions = {
 	guantanamo_bay_lease = {
 	picture = guantanamo_bay
 		potential = {
-			is_culture_group = american_cultures
+			is_culture_group = anglo_american_cultures
 			NOT = { has_global_flag = guantanamo_lease }
-			44 = { OR = { owned_by = THIS owner = { NOT = { is_culture_group = american_cultures } } } }
+			44 = { OR = { owned_by = THIS owner = { NOT = { is_culture_group = anglo_american_cultures } } } }
 			is_greater_power = yes
 			nationalism_n_imperialism = 1
 		}

@@ -467,7 +467,7 @@ political_decisions = {
 	restore_the_union = {
 		picture = switch_to_liberty
 		potential = {
-			is_culture_group = american_cultures
+			is_culture_group = anglo_american_cultures
 			USA = { exists = no }
 		}
 		
@@ -478,7 +478,7 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						owner = {
-							NOT = { is_culture_group = american_cultures }
+							NOT = { is_culture_group = anglo_american_cultures }
 						}
 						owner = { in_sphere = THIS }
 						owner = { vassal_of = THIS }
@@ -493,7 +493,7 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						owner = {
-							NOT = { is_culture_group = american_cultures }
+							NOT = { is_culture_group = anglo_american_cultures }
 						}
 						owner = { in_sphere = THIS }
 						owner = { vassal_of = THIS }
@@ -508,7 +508,7 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						owner = {
-							NOT = { is_culture_group = american_cultures }
+							NOT = { is_culture_group = anglo_american_cultures }
 						}
 						owner = { in_sphere = THIS }
 						owner = { vassal_of = THIS }

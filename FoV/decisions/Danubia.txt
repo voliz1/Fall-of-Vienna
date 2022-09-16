@@ -265,7 +265,7 @@ political_decisions = {
                 consciousness = -4
                 militancy = -4
             }
-			inherit SER
+			inherit = SER
         }
         ai_will_do = {
             factor = 1

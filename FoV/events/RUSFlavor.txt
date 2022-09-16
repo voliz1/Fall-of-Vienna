@@ -484,7 +484,7 @@ country_event = {
 			limit = {
 				owner = {
 					OR = {
-						is_culture_group = american_cultures
+						is_culture_group = anglo_american_cultures
 						is_culture_group = neo_european_cultures
 						is_culture_group = latin_american_cultures
 					}

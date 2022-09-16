@@ -214,7 +214,7 @@ country_event = {
 					NOT = { is_culture_group = arab }
 				}
 			}
-			owner = { all_core = { remove_core = THIS } }
+			#owner = { all_core = { remove_core = THIS } }
 		}
 		
 		any_owned = { secede_province = FROM }
