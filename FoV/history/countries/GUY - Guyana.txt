@@ -1,5 +1,5 @@
 capital = 2240
-primary_culture = afro_caribbean
+primary_culture = afro_anglic
 culture = afro_antillean
 culture = amazonian
 religion = protestant

@@ -1,7 +1,5 @@
 owner = PEU
 controller = PEU
-add_core = IQI
 add_core = PEU
-add_core = VOP
 trade_goods = precious_metal
 life_rating = 35

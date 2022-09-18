@@ -1,5 +1,5 @@
 capital = 2217
-primary_culture = afro_caribbean
+primary_culture = afro_anglic
 religion = protestant
 government = colonial_company
 plurality = 0.1

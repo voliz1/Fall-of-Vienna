@@ -1,6 +1,6 @@
 capital = 199
 primary_culture = floridian
-culture = afro_caribbean
+culture = afro_anglic
 religion = catholic
 government = democracy
 plurality = 0.1

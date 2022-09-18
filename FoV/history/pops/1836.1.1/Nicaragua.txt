@@ -174,19 +174,19 @@
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = catholic
 		size = 270
 	}
 	
 	farmers = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = animist
 		size = 190
 	}

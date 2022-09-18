@@ -1,8 +1,5 @@
-owner = VNG
-controller = CLM
-add_core = VNG
+owner = CLMcontroller = CLM
 add_core = CLM
 add_core = VNZ
-add_core = VNG
 trade_goods = fruit
 life_rating = 20

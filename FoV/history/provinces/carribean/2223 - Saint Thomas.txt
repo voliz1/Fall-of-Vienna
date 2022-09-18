@@ -1,5 +1,6 @@
-owner = SWE
-controller = SWE
+owner = MLT
+controller = MLT
+add_core = MLT
 trade_goods = tobacco
 life_rating = 35
 naval_base = 1

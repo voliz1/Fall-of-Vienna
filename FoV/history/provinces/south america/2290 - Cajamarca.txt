@@ -1,6 +1,5 @@
 owner = PEU
 controller = PEU
 add_core = PEU
-add_core = VOP
 trade_goods = coal
 life_rating = 35

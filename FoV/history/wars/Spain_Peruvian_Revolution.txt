@@ -1,13 +1,9 @@
-name = "Argentine War Of Independence"
+name = "Peruvian War Of Independence"
 
 1835.10.2 = {
 	add_attacker = SPC
-	add_attacker = VNS
-	add_attacker = VNG
-	add_attacker = VOP
-	add_attacker = CGC
 	
-	add_defender = ARG
+	add_defender = PEU
 	
 	# actor
 	# receiver
@@ -17,22 +13,18 @@ name = "Argentine War Of Independence"
 	war_goal = {
 		casus_belli = conquest
 		actor = SPC
-		receiver = ARG
+		receiver = PEU
 	}
 	
 	war_goal = {
 		casus_belli = status_quo
-		actor = ARG
+		actor = PEU
 		receiver = SPC
 	}
 }
 
 1866.6.6 = {
 	rem_attacker = SPC
-	rem_attacker = VNS
-	rem_attacker = VNG
-	rem_attacker = VOP
-	rem_attacker = CGC
 	
-	rem_defender = ARG
+	rem_defender = PEU
 }

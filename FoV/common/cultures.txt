@@ -2336,6 +2336,21 @@ african_diaspora_cultures = {
 	leader = african
 	is_overseas = no
 	unit = AfricanGC
+	afro_anglic = {
+		color = {86 86 86}
+		first_names = { Aaron Anderson Anselm Alexander Andre Arthur Ben Benton 
+		Caesar Cathay Charles Colin Colville Cyril Earl Ebenezer Edgar Edwin Ellis Eric Edward
+		Frederick Geoffrey George Graham Henry Herbert Hubert James Jeffrey John Joseph Josiah
+		Lennox Lewis Lloyd Matin Michael Malcolm Mervyn Milton Nicholas Osborne Pinckney Powhatan
+		Rainford Reginald Robert Samuel Stewart Stokely Thomas William Wilson Winston
+		}
+		last_names = { Abbott Anderson Antoine Augusta Basset Beaty Best Blaize Blake Brathwaite Brooks Brown
+		Cailloux Carmichael Carney Chambers Clark Delany Douglas "Du Bois" Dymally Fields Flipper Findley
+		Gardner Goddard Griffin Hall Hawkins Henson Holder Holland Jackson James Jones Julian
+		Kilgour King Mink Lassalle Lovelace McIntosh Nell Nurse Perry Pinn Ratcliff Remond Roberts Robinson
+		Shadd Smith Stollmeyer Stukes Sylvester Tubman Veale Williams Young
+		}
+	}
 	afro_american = {
 		color = {42 42 42}
 		first_names = { Aaron Alexander Andre Benton Caesar Cathay Charles Colin Ebenezer Edgar

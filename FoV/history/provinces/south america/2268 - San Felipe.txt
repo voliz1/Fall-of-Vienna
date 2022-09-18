@@ -1,6 +1,5 @@
 owner = CLM
 controller = CLM
-add_core = VNG
 add_core = CLM
 add_core = VNZ
 trade_goods = wool

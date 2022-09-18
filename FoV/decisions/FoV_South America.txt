@@ -1,5 +1,5 @@
 political_decisions = {
-	restore_la_plata_viceroyality = {
+	restore_la_plata_viceroyalty = {
 		picture = spain_reconquest_vlp
         potential = {
 			tag = SPC
@@ -27,6 +27,92 @@ political_decisions = {
             factor = 1
         }
 	}
+	restore_peru_viceroyalty = {
+		picture = spain_reconquest_vop
+        potential = {
+			tag = SPC
+			NOT = {
+				exists = PEU
+				has_global_flag = peru_viceroyalty_restored
+			}
+			
+		}
+        allow = {
+            NOT = {
+				exists = PEU
+			}
+        }
+        effect = {
+            set_global_flag = peru_viceroyalty_restored
+			PEU = {
+				all_core = { add_core = VOP }
+				all_core = { remove_core = PEU }
+			}
+            release = VOP
+			create_vassal = VOP
+        }
+        ai_will_do = {
+            factor = 1
+        }
+	}
+	restore_new_granada_viceroyalty = {
+		picture = spain_reconquest_vng
+        potential = {
+			tag = SPC
+			NOT = {
+				exists = CLM
+				has_global_flag = new_granada_viceroyalty_restored
+			}
+			
+		}
+        allow = {
+            NOT = {
+				exists = CLM
+			}
+        }
+        effect = {
+            set_global_flag = new_granada_viceroyalty_restored
+			CLM = {
+				all_core = { add_core = VNG }
+				all_core = { remove_core = CLM }
+			}
+            release = VNG
+			create_vassal = VNG
+        }
+        ai_will_do = {
+            factor = 1
+        }
+	}
+	restore_chile_captaincy_general = {
+		picture = spain_reconquest_cgc
+        potential = {
+			tag = SPC
+			NOT = {
+				exists = CHL
+				has_global_flag = new_granada_viceroyalty_restored
+			}
+			
+		}
+        allow = {
+            NOT = {
+				exists = CHL
+			}
+        }
+        effect = {
+            set_global_flag = new_granada_viceroyalty_restored
+			CHL = {
+				all_core = { add_core = CGC }
+				all_core = { remove_core = CHL }
+			}
+            release = CGC
+			create_vassal = CGC
+        }
+        ai_will_do = {
+            factor = 1
+        }
+	}
+	
+	
 
 	call_for_south_american_union = {
         picture = south_american_destiny

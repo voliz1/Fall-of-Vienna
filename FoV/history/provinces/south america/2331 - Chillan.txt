@@ -1,6 +1,5 @@
-owner = CGC
-controller = CGC
-add_core = PEU
+owner = CHL
+controller = CHL
 add_core = CHL
 add_core = CGC
 trade_goods = iron

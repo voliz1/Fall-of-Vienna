@@ -823,7 +823,7 @@
 	}
 	
 	farmers = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = protestant
 		size = 300
 	}

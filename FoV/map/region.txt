@@ -314,7 +314,7 @@ BAV_599 = { 599 592 600 601 602 } #Bayern
 
 #BAV_601 = { } #Lower Bavaria
 
-SWI_603 = { 603 606 605 604 611 3272 } #Swiss Mittelland
+SWI_603 = { 603 606 605 604 611 3272 3253} #Swiss Mittelland
 
 SWI_607 = { 607 608 609 3250 3271 } #Région Lémanique
 
@@ -333,11 +333,11 @@ PRU_632 = { 632 688 684 685 689 } #Oberschleisen
 
 ### Austria
 
-AUS_612 = { 613 615 618 3253 } #Tirol
+AUS_612 = { 612 613 614 615 } #Tirol
 
-AUS_613 = { 616 624 617 } #Kärnten-Steiermark
+AUS_613 = { 616  617 618} #Kärnten-Steiermark
 
-AUS_619 = { 619 620 621 622 629 630 } #Österreich
+AUS_619 = { 619 620 621 622 624 629 630 } #Österreich
 
 AUS_623 = { 623 639 640 642 643 644 } #Transdanubia
 
@@ -365,9 +365,9 @@ AUS_726 = { 726 727 728 2669 } #Lombardia
 
 #AUS_733 = { 733 736 } #Friuli
 
-AUS_729 = { 729 730 731 732 733 734 3262 } #Venetia
+AUS_729 = { 729 730 731 732 733  3262 } #Venetia
 
-AUS_734 = { 614 735 612 } #South Tirol
+AUS_734 = { 735 734 } #South Tirol
 
 AUS_736 = { 769 770 778 736 737 } #Istria
 

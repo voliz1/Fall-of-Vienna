@@ -438,49 +438,49 @@
 #Lugano (108000/27000 POPS)
 2568 = {
 	aristocrats = {
-		culture = swiss_italian
+		culture = north_italian
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = swiss_italian
+		culture = north_italian
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = swiss_italian
+		culture = north_italian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = swiss_italian
+		culture = north_italian
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = swiss_italian
+		culture = north_italian
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = swiss_italian
+		culture = north_italian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = swiss_italian
+		culture = north_italian
 		religion = catholic
 		size = 30675
 	}
 	
 	farmers = {
-		culture = swiss_italian
+		culture = north_italian
 		religion = catholic
 		size = 2400
 	}

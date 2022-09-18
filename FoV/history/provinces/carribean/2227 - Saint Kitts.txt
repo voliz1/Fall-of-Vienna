@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = MLT
+controller = MLT
+add_core = MLT
 trade_goods = cotton
 life_rating = 35
 colonial = 2

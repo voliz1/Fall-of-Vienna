@@ -129,40 +129,4 @@
 		religion = catholic
 		size = 24000
 	}
-
-}
-
-#Marigot - Former Baffin Island (4000/1000 POPS)
-45 = {
-	
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 10
-	}
-	
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = catholic
-		size = 55
-	}
-	
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 500
-	}
-
-	slaves = {
-		culture = afro_caribbean
-		religion = catholic
-		size = 120
-	}
-
 }

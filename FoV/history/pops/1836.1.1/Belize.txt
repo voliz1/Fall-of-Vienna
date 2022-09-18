@@ -28,7 +28,7 @@
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = protestant
 		size = 100
 	}
@@ -40,7 +40,7 @@
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = protestant
 		size = 400
 	}

@@ -27,31 +27,31 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = protestant
 		size = 1750
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = protestant
 		size = 1200
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_caribbean
+		culture = afro_anglic
 		religion = animist
 		size = 9000
 	}

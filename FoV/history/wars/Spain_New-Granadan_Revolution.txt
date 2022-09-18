@@ -1,0 +1,30 @@
+name = "New-Granadan War Of Independence"
+
+1835.10.2 = {
+	add_attacker = SPC
+	
+	add_defender = CLM
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest
+		actor = SPC
+		receiver = CLM
+	}
+	
+	war_goal = {
+		casus_belli = status_quo
+		actor = CLM
+		receiver = SPC
+	}
+}
+
+1866.6.6 = {
+	rem_attacker = SPC
+	
+	rem_defender = CLM
+}

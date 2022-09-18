@@ -2796,7 +2796,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
@@ -2871,7 +2871,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
@@ -2941,7 +2941,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1000
 	}
@@ -3060,7 +3060,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1900
 	}
@@ -3137,7 +3137,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 2000
 	}
@@ -3212,7 +3212,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 2440
 	}
@@ -3354,7 +3354,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 500
 	}
@@ -3626,7 +3626,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 10000
 	}
@@ -3748,7 +3748,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 9875
 	}
@@ -3858,7 +3858,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 4900
 	}
@@ -3926,25 +3926,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 5875
 	}
@@ -4014,25 +4014,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 135
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 15
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 3800
 	}
@@ -4292,25 +4292,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 100
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 2700
 	}
@@ -4434,25 +4434,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 2850
 	}
@@ -4556,25 +4556,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 100
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 2700
 	}
@@ -4696,25 +4696,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 35
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 900
 	}
@@ -5639,19 +5639,19 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 110
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 875
 	}
@@ -5771,19 +5771,19 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1825
 	}
@@ -6515,19 +6515,19 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 2750
 	}
@@ -6559,19 +6559,19 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 85
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 900
 	}
@@ -6671,27 +6671,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 100
+		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 700
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 700
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 9500
 	}
 }
 #Lexington (332000/83000 POPS)
@@ -6751,27 +6745,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 100
+		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 700
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 700
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 9500
 	}
 }
 #Bowling Green (144000/36000 POPS)
@@ -6873,27 +6861,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 800
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 850
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 10250
 	}
 }
 #Paducah (108000/27000 POPS)
@@ -6953,27 +6935,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 50
+		size = 20
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 350
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 100
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 7500
 	}
 }
 #Tennessee Region (772000)
@@ -7089,27 +7065,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 125
+		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 850
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 325
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 13700
+		size = 600
 	}
 }
 #Memphis (128000/32000 POPS)
@@ -7169,27 +7139,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 50
+		size = 20
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 350
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 100
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 7500
 	}
 }
 #Knoxville (116000/29000 POPS)
@@ -7267,27 +7231,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 75
+		size = 20
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 350
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 7075
 	}
 }
 #Chattanooga (132000/33000 POPS)
@@ -7365,27 +7323,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 50
+		size = 20
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 350
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 400
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 5200
 	}
 
 	aristocrats = {
@@ -7465,27 +7417,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 25
+		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 25
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 17650
+		size = 200
 	}
 }
 #Vicksburg (100000/25000 POPS)
@@ -7521,27 +7467,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 25
+		size = 20
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 25
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 13700
+		size = 250
 	}
 }
 #Biloxi (76000/19000 POPS)
@@ -7577,25 +7517,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 9800
 	}
@@ -7677,27 +7617,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 25
+		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 450
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 25
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 23500
+		size = 100
 	}
 }
 #Tuscaloosa (168000/42000 POPS)
@@ -7733,27 +7667,21 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
-		size = 25
+		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 575
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 15300
 	}
 }
 #Mobile (140000/35000 POPS)
@@ -7819,25 +7747,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 17650
 	}
@@ -7889,25 +7817,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 80
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 3900
 	}
@@ -7969,25 +7897,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 80
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = catholic
 		size = 3900
 	}
@@ -8077,25 +8005,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 550
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 22400
 	}
@@ -8163,25 +8091,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 3900
 	}
@@ -8219,25 +8147,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 475
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 20475
 	}
@@ -8275,25 +8203,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 325
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 13650
 	}
@@ -8341,25 +8269,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 675
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 35300
 	}
@@ -8409,25 +8337,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 42450
 	}
@@ -8467,25 +8395,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 325
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 7600
 	}
@@ -8535,25 +8463,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 450
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 100
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 9400
 	}
@@ -8591,25 +8519,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 550
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 14400
 	}
@@ -8677,25 +8605,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 17450
 	}
@@ -8763,25 +8691,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 150
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 9300
 	}
@@ -8834,25 +8762,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 900
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 225
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1500
 	}
@@ -8902,25 +8830,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 900
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 26500
 	}
@@ -8958,25 +8886,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 550
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 625
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 9750
 	}
@@ -9014,25 +8942,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 650
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 400
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 12875
 	}
@@ -9100,25 +9028,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 225
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 10225
 	}
@@ -9156,25 +9084,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 350
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 250
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 6400
 	}
@@ -9212,25 +9140,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 650
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 13275
 	}
@@ -9300,13 +9228,13 @@
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 250
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 3500
 	}
@@ -9375,13 +9303,13 @@
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 250
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1000
 	}
@@ -9469,25 +9397,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 225
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1300
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 4875
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 12600
 	}
@@ -9567,25 +9495,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 160
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1040
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1520
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 11800
 	}
@@ -9659,25 +9587,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 40
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 260
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 380
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 4200
 	}
@@ -9721,25 +9649,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1650
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1000
 	}
@@ -9797,25 +9725,25 @@
 	}
 	
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 5150
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 500
 	}
@@ -9951,19 +9879,19 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 5950
 	}
@@ -10243,19 +10171,19 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 2800
 	}
@@ -10345,19 +10273,19 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 3750
 	}
@@ -10587,13 +10515,13 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 4925
 	}
@@ -11076,19 +11004,19 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 1475
 	}
@@ -11194,7 +11122,7 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 25
 	}
@@ -11206,13 +11134,13 @@
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 475
 	}

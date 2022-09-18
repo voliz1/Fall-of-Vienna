@@ -1,8 +1,5 @@
-owner = VNG
-controller = VNG
-add_core = VNG
+owner = CLMcontroller = SPC
 add_core = CLM
 add_core = VNZ
-add_core = VNG
 trade_goods = coffee
 life_rating = 35

@@ -190,19 +190,25 @@ alliance = {
 	end_date = 1911.1.1
 }
 alliance = {
-	first = FRA
+	first = BOR
 	second = BAV
 	start_date = 1835.1.1
 	end_date = 1855.1.1
 }
 alliance = {
-	first = FRA
+	first = BOR
+	second = MLT
+	start_date = 1835.1.1
+	end_date = 1855.1.1
+}
+alliance = {
+	first = BOR
 	second = RHI
 	start_date = 1835.1.1
 	end_date = 1855.1.1
 }
 alliance = {
-	first = FRA
+	first = BOR
 	second = BAD
 	start_date = 1835.1.1
 	end_date = 1855.1.1

@@ -2730,7 +2730,7 @@
 	}
 
 	labourers = {
-		culture = afro_american
+		culture = afro_anglic
 		religion = protestant
 		size = 750
 	}

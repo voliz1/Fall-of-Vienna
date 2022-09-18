@@ -1,8 +1,8 @@
-owner = VOP
-controller = VOP
+owner = PEU
+controller = SPC
 add_core = ARG
 add_core = PEU
 add_core = BOL
-add_core = VOP
+
 trade_goods = wool
 life_rating = 35

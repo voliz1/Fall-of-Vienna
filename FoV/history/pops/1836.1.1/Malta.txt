@@ -3,19 +3,19 @@
 #Valetta (110000/27500 POPS)
 854 = {
 	bureaucrats = {
-		culture = british
+		culture = maltese
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = british
+		culture = maltese
 		religion = protestant
 		size = 500
 	}
 
 	artisans = {
-		culture = british
+		culture = maltese
 		religion = protestant
 		size = 150
 	}
@@ -55,5 +55,174 @@
 		religion = catholic
 		size = 20475
 	}
-
 }
+
+#Maltese West Indies Region  #see Leeward Islands.txt for BVI
+#Ruled by Malta 1836
+#Saint Thomas (44000/11000 POPS)
+2223 = {
+	aristocrats = {
+		culture = maltese
+		religion = protestant
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = maltese
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = maltese
+		religion = protestant
+		size = 175
+	}
+
+	farmers = {
+		culture = maltese
+		religion = protestant
+		size = 200
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 350
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 500
+	}
+}
+#Marigot - Former Baffin Island (4000/1000 POPS)
+45 = {
+	
+	aristocrats = {
+		culture = maltese
+		religion = catholic
+		size = 10
+	}
+	
+	clergymen = {
+		culture = maltese
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 55
+	}
+	
+	farmers = {
+		culture = maltese
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 120
+	}
+}
+#Saint Kitts (26500/6625 POPS) #now independent
+2227 = {
+	aristocrats = {
+		culture = maltese
+		religion = protestant
+		size = 75
+	}
+
+	clergymen = {
+		culture = maltese
+		religion = protestant
+		size = 15
+	}
+
+	artisans = {
+		culture = maltese
+		religion = protestant
+		size = 225
+	}
+
+	soldiers = {
+		culture = maltese
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = maltese
+		religion = protestant
+		size = 260
+	}
+
+	clergymen = {
+		culture = afro_antillean
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 75
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 5900
+	}
+}
+#Jan Mayen, now St Barths 
+3246 = {
+	
+	aristocrats = {
+		culture = maltese
+		religion = catholic
+		size = 20
+	}
+	
+	clergymen = {
+		culture = maltese
+		religion = catholic
+		size = 50
+	}
+	
+	artisans = {
+		culture = maltese
+		religion = catholic
+		size = 100
+	}
+	
+	farmers = {
+		culture = maltese
+		religion = catholic
+		size = 500
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 242
+	}
+}
+
