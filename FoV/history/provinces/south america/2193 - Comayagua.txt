@@ -1,2 +1,10 @@
-owner = MEXcontroller = MEXadd_core = MEXadd_core = HONadd_core = MEX
-trade_goods = fruitlife_rating = 351861.1.1 = {	owner = HON	controller = HON}
+owner = MEX
+controller = MEX
+add_core = MEX
+add_core = UCA
+trade_goods = fruit
+life_rating = 35
+1861.1.1 = {
+	owner = HON
+	controller = HON
+}
