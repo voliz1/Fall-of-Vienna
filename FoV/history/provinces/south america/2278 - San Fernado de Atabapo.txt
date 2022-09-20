@@ -1,5 +1,4 @@
 owner = CLMcontroller = CLM
 add_core = CLM
-add_core = VNZ
 trade_goods = fruit
 life_rating = 20

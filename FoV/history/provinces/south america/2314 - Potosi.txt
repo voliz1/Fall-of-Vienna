@@ -3,7 +3,6 @@ controller = SPC
 add_core = ARG
 
 add_core = PEU
-add_core = BOL
 
 trade_goods = grain
 life_rating = 15

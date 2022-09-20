@@ -1,6 +1,5 @@
 owner = CLM
 controller = SPC
 add_core = CLM
-add_core = VNZ
 trade_goods = grain
 life_rating = 31
