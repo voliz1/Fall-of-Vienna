@@ -270,104 +270,40 @@ political_decisions = {
             factor = 1
         }
     }
-
-    form_colombian_union = {
-        picture = treaty_signing
-        potential = {
-            is_culture_group = latin_american_cultures
-            NOT = {
-                primary_culture = brazilian
-            }
-            NOT = {
-                exists = HSA
-				tag = UPB
-            }
-        }
+	
+	form_colombian_union_CLM = {
+		picture = colombian_union
+		potential = { 
+			tag = CLM
+		}
 		
-        allow = {
-            prestige = 40
-            nationalism_n_imperialism = 1
-			OR = {
-				is_greater_power = yes
-				has_global_flag = you_are_playing_mp
+		allow = { 
+			war = no
+			CLM = { all_core = { owned_by = THIS } }
+			rank = 12		
+			OR = { 
+				NOT = { PEU = { exists = yes } }
+				PEU = { 
+					in_sphere = THIS
+				}
+				PEU = {
+					vassal_of = THIS
+				}
 			}
-            war = no
+		}
+		
+		effect = {
             CLM = {
                 all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            in_sphere = THIS
-						}
-						owner = {
-							vassal_of = THIS
-						}
-                        empty = yes
-                        
-                        NOT = {
-							continent = south_america
-						}
-                    }
-                }
-            }
-            PEU = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            in_sphere = THIS
-						}
-						owner = {
-							vassal_of = THIS
-						}
-                        empty = yes
-                    }
-                }
-            }
-            CHL = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            in_sphere = THIS
-						}
-						owner = {
-							vassal_of = THIS
-						}
-                        empty = yes
-                    }
-                }
-            }
-        }
-		
-        effect = {
-            THIS = {
-                all_core = {
 					add_core = HSA
-					remove_core = THIS
+					remove_core = CLM
 				}
 			}
-            
-            political_reform = federalism
             prestige = 20
             change_tag = HSA
-
-            add_accepted_culture = north_andean
             add_accepted_culture = south_andean
             
-            any_country = {
-                limit = {
-                    OR = {
-						primary_culture = north_andean
-						primary_culture = south_andean
-					}
-                }
-				all_core = {
-					add_core = HSA 
-				}
-            }
-
-            any_country = {
+			any_country = {
                 limit = {
                     OR = {
                         primary_culture = north_andean
@@ -378,36 +314,224 @@ political_decisions = {
                         vassal_of = THIS
                     }
                 }
-                country_event = 11101
+				all_core = {
+					add_core = HSA 
+				}
+				country_event = 11101
             }
-
-            any_country = {
+			
+			PEU = {
+				all_core = {
+					add_core = HSA
+				}
+			}
+			VOP = {
+				all_core = {
+					add_core = HSA
+				}
+			}
+        }
+		
+		ai_will_do = { factor = 1 }
+	}
+	
+	form_colombian_union_PEU = {
+		picture = colombian_union
+		potential = { 
+			tag = PEU
+		}
+		
+		allow = { 
+			war = no
+			PEU = { all_core = { owned_by = THIS } }
+			rank = 12		
+			OR = { 
+				NOT = { CLM = { exists = yes } }
+				CLM = { 
+					in_sphere = THIS
+				}
+				CLM = {
+					vassal_of = THIS
+				}
+			}
+		}
+		
+		effect = {
+            PEU = {
+                all_core = {
+					add_core = HSA
+					remove_core = PEU
+				}
+			}
+            prestige = 20
+            change_tag = HSA
+            add_accepted_culture = north_andean
+            
+			any_country = {
                 limit = {
-                    any_owned_province = {
-                        is_core = HSA
-                    }
-					NOT = {
-                        OR = {
-                            primary_culture = north_andean
-						    primary_culture = south_andean
-                        }
+                    OR = {
+                        primary_culture = north_andean
+						primary_culture = south_andean
                     }
                     OR = {
                         in_sphere = THIS
                         vassal_of = THIS
                     }
                 }
-                any_owned = {
-                    limit = {
-                       is_core = HSA
-                    }
-                    secede_province = HSA
-                }
+				all_core = {
+					add_core = HSA 
+				}
+				country_event = 11101
             }
+			
+			CLM = {
+				all_core = {
+					add_core = HSA
+				}
+			}
+			VNG = {
+				all_core = {
+					add_core = HSA
+				}
+			}
         }
 		
-        ai_will_do = {
-            factor = 1
-        }
-    }
+		ai_will_do = { 
+			factor = 1
+		}
+	}
+
+	colombia_annex_chile = {
+		picture = map_chile
+		potential = {
+			tag = HSA
+			NOT = { has_country_flag = colombia_chile }
+			CHL = {
+				exists = yes
+			}
+		}
+
+		allow = {
+			war = no
+			CHL = {
+				war = no
+				in_sphere = THIS
+			}
+			OR = {
+				government = hms_government
+				government = democracy	
+			}
+		}
+
+		effect = {
+			CHL = { 
+				all_core = {
+					add_core = HSA
+				}
+				country_event = 11101 
+			}
+			set_country_flag = colombia_chile
+		}
+
+		ai_will_do = { factor = 1 }
+	}
+
+	claim_new_granada_MEX = {
+		picture = new_granada
+		potential = {
+			tag = MEX
+			NOT = { has_country_flag = new_granada_claimed }
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+			invention = paternalism
+			war_policy = jingoism
+			is_greater_power = yes
+		}
+		
+		effect = {
+			set_country_flag = new_granada_claimed
+			CLM_1723 = {
+				add_core = MEX
+			}
+			CLM_2251 = {
+				add_core = MEX
+			}
+			CLM_2247 = {
+				add_core = MEX
+			}
+			CLM_2259 = {
+				add_core = MEX
+			}
+			CLM_2262 = {
+				add_core = MEX
+			}
+			VNZ_2234 = {
+				add_core = MEX
+			}
+			VNZ_2265 = {
+				add_core = MEX
+			}
+			VNZ_2278 = {
+				add_core = MEX
+			}
+			badboy = 20
+		}
+
+		ai_will_do = { factor = 1 }
+	}
+
+	accepting_north_andeans_MEX = {
+		picture = new_granada	
+		potential = { 
+			tag = MEX
+			OR = {
+				owns = 2204
+				owns = 2254
+				owns = 2258
+				owns = 2270
+				owns = 2264
+				owns = 2276
+			}
+			NOT = { has_country_flag = new_granadan_culture }
+		}
+		allow = { 
+			OR = { 
+				government = democracy 
+				government = hms_government 
+			}
+			citizenship_policy = full_citizenship 
+			state_n_government = 1 
+			OR = {
+				upper_house = {
+					ideology = socialist
+					value = 0.3
+				}
+				upper_house = {
+					ideology = liberal
+					value = 0.3
+				}
+				AND = {
+					upper_house = {
+						ideology = socialist
+						value = 0.15
+					}
+					upper_house = {
+						ideology = liberal
+						value = 0.15
+					}
+				}
+			}
+		}	
+		effect = { 
+			add_accepted_culture = north_andean 
+			set_country_flag = new_granadan_culture
+			any_pop = { 
+				limit = { culture = north_andean }
+				militancy = -3
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
 }

@@ -68,7 +68,7 @@ country_event = {
 		USA = { country_event = 44131 }
 		any_pop = { militancy = -1 }
 		ai_chance = {
-			factor = 90
+			factor = 75
 		}
 	}
 
@@ -104,29 +104,10 @@ country_event = {
 			country_event = 44132 
 		}
 		ai_chance = {
-			factor = 10
+			factor = 25
 			modifier = {
 				factor = 0
 				is_greater_power = yes
-			}
-			modifier = {
-				factor = 0
-				NOT = { in_sphere = USA }
-				part_of_sphere = yes
-			}
-			modifier = {
-				factor = 2
-				USA = { brigades_compare = 2 }
-			}
-			modifier = {
-				factor = 0.5
-				NOT = {
-					USA = { brigades_compare = 1 }
-				}
-			}
-			modifier = {
-				factor = 0.5
-				war_policy = jingoism
 			}
 		}
 	}

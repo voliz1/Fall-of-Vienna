@@ -1,6 +1,5 @@
 owner = CHL
 controller = CHL
 add_core = CHL
-add_core = CGC
 trade_goods = grain
 life_rating = 35
