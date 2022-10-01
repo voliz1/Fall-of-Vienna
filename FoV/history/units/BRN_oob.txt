@@ -161,6 +161,27 @@ SWH = {
 	influence_value = 50
 }
 
+WRZ = {
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+BRG = {
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+ULM = {
+	value = 125
+	level = 4
+	influence_value = 25
+	military_access = yes
+}
+
 #Europe
 KRA = {
 	value = 125

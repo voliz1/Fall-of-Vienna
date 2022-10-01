@@ -1,4 +1,5 @@
-owner = CLMcontroller = SPC
+owner = CLM
+controller = SPC
 add_core = CLM
 trade_goods = coffee
 life_rating = 35
