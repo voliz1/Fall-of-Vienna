@@ -1328,7 +1328,7 @@ biased_multiculturalism = {
 }
 manifest_destiny = {
 	limit = {
-		nationalism_n_imperialism = 1
+		state_n_government = 1
 		has_country_flag = existing_country
 	}
 	news = no
@@ -1345,6 +1345,15 @@ manifest_destiny = {
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
+		}
+		modifier = {
+			factor = 2
+			capital_scope = { 
+				OR = {
+					continent = north_america
+					continent = south_america
+				}
+			}
 		}
 	}
 	effect = {

@@ -2936,7 +2936,7 @@
 
 	farmers = {
 		culture = cajun
-		religion = catholic
+		religion = protestant
 		size = 250
 	}
 
@@ -3031,13 +3031,13 @@
 
 	soldiers = {
 		culture = cajun
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	farmers = {
 		culture = cajun
-		religion = catholic
+		religion = protestant
 		size = 200
 	}
 	
@@ -3471,1254 +3471,9 @@
 		militancy = 9
 	}
 }
-#Louisiana Region (280000)
-#ruled by USA in 1836
-#New Orleans (128000/32000 POPS)
-139 = {
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 125
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
 
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
 
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
 
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 125
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 650
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 250
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-	
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	aristocrats = {
-		culture = cajun
-		religion = catholic
-		size = 100
-	}
-
-	clergymen = {
-		culture = cajun
-		religion = catholic
-		size = 275
-	}
-
-	artisans = {
-		culture = cajun
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = cajun
-		religion = catholic
-		size = 175
-	}
-
-	farmers = {
-		culture = cajun
-		religion = catholic
-		size = 8550
-	}
-
-	artisans = {
-		culture = dixie
-		religion = jewish
-		size = 50
-	}
-
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 1650
-	}
-
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 1325
-	}
-
-	slaves = {
-		culture = afro_anglic
-		religion = protestant
-		size = 10000
-	}
-}
-#Baton Rouge (72000/18000 POPS)
-140 = {
-	aristocrats = {
-		culture = floridian
-		religion = catholic
-		size = 250
-	}
-
-	bureaucrats = {
-		culture = floridian
-		religion = catholic
-		size = 50
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = catholic
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = catholic
-		size = 8250
-	}
-
-	officers = {
-		culture = floridian
-		religion = catholic
-		size = 45
-	}
-
-	clergymen = {
-		culture = floridian
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = floridian
-		religion = catholic
-		size = 175
-	}
-
-	soldiers = {
-		culture = floridian
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = floridian
-		religion = catholic
-		size = 4430
-	}
-
-	aristocrats = {
-		culture = cajun
-		religion = catholic
-		size = 25
-	}
-
-	bureaucrats = {
-		culture = cajun
-		religion = catholic
-		size = 50
-	}
-
-	officers = {
-		culture = cajun
-		religion = catholic
-		size = 30
-	}
-
-	clergymen = {
-		culture = cajun
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = cajun
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = cajun
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = cajun
-		religion = catholic
-		size = 2470
-	}
-
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 15
-	}
-
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 125
-	}
-
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 10
-	}
-
-	slaves = {
-		culture = afro_anglic
-		religion = catholic
-		size = 9875
-	}
-}
-#Lake Charles (36000/9000 POPS)
-141 = {
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 150
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 100
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 1025
-	}
-
-	clergymen = {
-		culture = cajun
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = cajun
-		religion = catholic
-		size = 55
-	}
-
-	soldiers = {
-		culture = cajun
-		religion = catholic
-		size = 100
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	farmers = {
-		culture = cajun
-		religion = catholic
-		size = 3525
-	}
-	
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 15
-	}
-
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 75
-	}
-
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 120
-	}
-
-	slaves = {
-		culture = afro_anglic
-		religion = protestant
-		size = 4900
-	}
-}
-#Shreveport (44000/11000 POPS)
-142 = {
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 150
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 200
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 125
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 3050
-	}
-	
-	clergymen = {
-		culture = cajun
-		religion = catholic
-		size = 75
-	}
-	
-	farmers = {
-		culture = cajun
-		religion = catholic
-		size = 1550
-	}
-
-	clergymen = {
-		culture = afro_anglic
-		religion = protestant
-		size = 15
-	}
-
-	artisans = {
-		culture = afro_anglic
-		religion = protestant
-		size = 100
-	}
-
-	farmers = {
-		culture = afro_anglic
-		religion = protestant
-		size = 10
-	}
-
-	slaves = {
-		culture = afro_anglic
-		religion = protestant
-		size = 5875
-	}
-}
-#Arkansas Region (88000)
-#ruled by USA in 1836
-#Little Rock (56000/14000 POPS)
-143 = {
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 200
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	bureaucrats = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	officers = {
-		culture = dixie
-		religion = protestant
-		size = 25
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 400
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 150
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 9150
-	}
-
-	clergymen = {
-		culture = afro_anglic
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_anglic
-		religion = protestant
-		size = 135
-	}
-
-	farmers = {
-		culture = afro_anglic
-		religion = protestant
-		size = 15
-	}
-
-	slaves = {
-		culture = afro_anglic
-		religion = protestant
-		size = 3800
-	}
-}
-#Hot Springs (16000/4000 POPS)
-144 = {
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 200
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 3675
-	}
-}
-#Fayetteville (16000/4000 POPS)
-145 = {
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 200
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 3675
-	}
-}
-#Missouri Region (365000)
-#ruled by USA in 1836
-#Saint Louis (188000/47000 POPS)
-146 = {
-	farmers = {
-		culture = yankee
-		religion = catholic
-		size = 500
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-	
-	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 10
-	}
-
-	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 50
-	}
-	
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 150
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 1175
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 250
-	}
-
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 23650
-	}
-
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 5
-	}
-
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 220
-	}
-
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 275
-	}
-
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 150
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 675
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 200
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 15875
-	}
-	
-	farmers = {
-		culture = louisianan
-		religion = catholic
-		size = 2075
-	}
-
-	aristocrats = {
-		culture = dixie
-		religion = catholic
-		size = 10
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = catholic
-		size = 15
-	}
-
-	artisans = {
-		culture = dixie
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = dixie
-		religion = catholic
-		size = 2915
-	}
-
-	clergymen = {
-		culture = irish
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = irish
-		religion = catholic
-		size = 150
-	}
-
-	farmers = {
-		culture = irish
-		religion = catholic
-		size = 2825
-	}
-
-	clergymen = {
-		culture = afro_anglic
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_anglic
-		religion = protestant
-		size = 150
-	}
-
-	farmers = {
-		culture = afro_anglic
-		religion = protestant
-		size = 100
-	}
-
-	slaves = {
-		culture = afro_anglic
-		religion = protestant
-		size = 2700
-	}
-}
-#Joplin (25000/5000 POPS)
-147 = {
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 250
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 4625
-	}
-}
-#Malden (40000/10000 POPS)
-148 = {
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 100
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 25
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 1850
-	}
-
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 300
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 4500
-	}
-
-	clergymen = {
-		culture = afro_anglic
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = afro_anglic
-		religion = protestant
-		size = 100
-	}
-
-	farmers = {
-		culture = afro_anglic
-		religion = protestant
-		size = 25
-	}
-
-	slaves = {
-		culture = afro_anglic
-		religion = protestant
-		size = 2850
-	}
-}
-#Jefferson City (56000/14000 POPS)
-149 = {
-	bureaucrats = {
-		culture = yankee
-		religion = protestant
-		size = 75
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-
-	officers = {
-		culture = yankee
-		religion = protestant
-		size = 45
-	}
-
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 300
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 75
-	}
-
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 4430
-	}
-
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 100
-	}
-
-	bureaucrats = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-
-	officers = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 200
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 5425
-	}
-
-	clergymen = {
-		culture = afro_anglic
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_anglic
-		religion = protestant
-		size = 150
-	}
-
-	farmers = {
-		culture = afro_anglic
-		religion = protestant
-		size = 100
-	}
-
-	slaves = {
-		culture = afro_anglic
-		religion = protestant
-		size = 2700
-	}
-}
-#Kansas City (56000/14000 POPS)
-150 = {
-	farmers = {
-		culture = yankee
-		religion = catholic
-		size = 100
-	}
-	
-	artisans = {
-		culture = cajun
-		religion = protestant
-		size = 2175
-	}
-	
-	soldiers = {
-		culture = cajun
-		religion = protestant
-		size = 1269
-	}
-
-	farmers = {
-		culture = cajun
-		religion = protestant
-		size = 8250
-	}
-	
-	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 10
-	}
-
-	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 50
-	}
-	
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 35
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 350
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 60
-	}
-
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 6075
-	}
-
-	clergymen = {
-		culture = yankee
-		religion = mormon
-		size = 15
-	}
-
-	artisans = {
-		culture = yankee
-		religion = mormon
-		size = 50
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = mormon
-		size = 15
-	}
-
-	farmers = {
-		culture = yankee
-		religion = mormon
-		size = 1400
-	}
-
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 225
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 4600
-	}
-
-	clergymen = {
-		culture = afro_anglic
-		religion = protestant
-		size = 15
-	}
-
-	artisans = {
-		culture = afro_anglic
-		religion = protestant
-		size = 50
-	}
-
-	farmers = {
-		culture = afro_anglic
-		religion = protestant
-		size = 35
-	}
-
-	slaves = {
-		culture = afro_anglic
-		religion = protestant
-		size = 900
-	}
-}
 #Iowa Region (44000)
 #ruled by the USA/parts de facto under Native Control
 #Des Moines (12000/3000 POPS)
@@ -7082,80 +5837,7 @@
 		size = 600
 	}
 }
-#Memphis (128000/32000 POPS)
-189 = {
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 50
-	}
 
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 400
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 75
-	}
-
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 1475
-	}
-
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 450
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 150
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 800
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 300
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 20300
-	}
-
-	clergymen = {
-		culture = afro_anglic
-		religion = protestant
-		size = 20
-	}
-
-	artisans = {
-		culture = afro_anglic
-		religion = protestant
-		size = 350
-	}
-
-	farmers = {
-		culture = afro_anglic
-		religion = protestant
-		size = 100
-	}
-}
 #Knoxville (116000/29000 POPS)
 190 = {
 	clergymen = {
@@ -7176,10 +5858,10 @@
 		size = 75
 	}
 
-	farmers = {
+	labourers = {
 		culture = yankee
 		religion = protestant
-		size = 2525
+		size = 2600
 	}
 
 	aristocrats = {
@@ -7206,10 +5888,10 @@
 		size = 225
 	}
 
-	farmers = {
+	labourers = {
 		culture = dixie
 		religion = protestant
-		size = 11950
+		size = 27500
 	}
 
 	clergymen = {
@@ -7224,10 +5906,10 @@
 		size = 250
 	}
 
-	farmers = {
+	labourers = {
 		culture = irish
 		religion = protestant
-		size = 4675
+		size = 4700
 	}
 
 	clergymen = {
@@ -7242,10 +5924,10 @@
 		size = 500
 	}
 
-	farmers = {
+	labourers = {
 		culture = afro_anglic
 		religion = protestant
-		size = 350
+		size = 400
 	}
 }
 #Chattanooga (132000/33000 POPS)
@@ -7268,7 +5950,7 @@
 		size = 75
 	}
 
-	farmers = {
+	labourers = {
 		culture = yankee
 		religion = protestant
 		size = 2475
@@ -7298,10 +5980,10 @@
 		size = 200
 	}
 
-	farmers = {
+	labourers = {
 		culture = dixie
 		religion = protestant
-		size = 14000
+		size = 28000
 	}
 
 	clergymen = {
@@ -7434,108 +6116,59 @@
 		size = 200
 	}
 }
-#Vicksburg (100000/25000 POPS)
-193 = {
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 350
-	}
 
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 1100
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 250
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 9325
-	}
-
-	clergymen = {
-		culture = afro_anglic
-		religion = protestant
-		size = 20
-	}
-
-	artisans = {
-		culture = afro_anglic
-		religion = protestant
-		size = 250
-	}
-
-	farmers = {
-		culture = afro_anglic
-		religion = protestant
-		size = 250
-	}
-}
 #Biloxi (76000/19000 POPS)
 194 = {
 	aristocrats = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 7675
 	}
 
 	clergymen = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 9800
 	}
@@ -7660,10 +6293,10 @@
 		size = 425
 	}
 
-	farmers = {
+	labourers = {
 		culture = dixie
 		religion = protestant
-		size = 23800
+		size = 57070
 	}
 
 	clergymen = {
@@ -7687,155 +6320,448 @@
 #Mobile (140000/35000 POPS)
 197 = {
 	aristocrats = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 35
 	}
 
 	artisans = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 1825
 	}
 	
 	aristocrats = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 325
 	}
 
 	farmers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 13525
 	}
 
 	clergymen = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 17650
 	}
 }
+
+3278 = {
+	aristocrats = {
+		culture = dixie
+		religion = catholic
+		size = 15
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = catholic
+		size = 35
+	}
+
+	artisans = {
+		culture = dixie
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = dixie
+		religion = catholic
+		size = 2495
+	}
+	
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dixie
+		religion = protestant
+		size = 250
+	}
+
+	officers = {
+		culture = dixie
+		religion = protestant
+		size = 175
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 275
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 1650
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 35950
+	}
+
+	clergymen = {
+		culture = afro_anglic
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = afro_anglic
+		religion = protestant
+		size = 450
+	}
+
+	farmers = {
+		culture = afro_anglic
+		religion = protestant
+		size = 100
+	}
+}3279 = {
+	aristocrats = {
+		culture = dixie
+		religion = catholic
+		size = 15
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = catholic
+		size = 35
+	}
+
+	artisans = {
+		culture = dixie
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = dixie
+		religion = catholic
+		size = 1745
+	}
+	
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = dixie
+		religion = protestant
+		size = 250
+	}
+
+	officers = {
+		culture = dixie
+		religion = protestant
+		size = 175
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 275
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 1650
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 35950
+	}
+
+	clergymen = {
+		culture = afro_anglic
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = afro_anglic
+		religion = protestant
+		size = 450
+	}
+
+	farmers = {
+		culture = afro_anglic
+		religion = protestant
+		size = 100
+	}
+}3280 = {
+	aristocrats = {
+		culture = dixie
+		religion = catholic
+		size = 15
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = catholic
+		size = 35
+	}
+
+	artisans = {
+		culture = dixie
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = dixie
+		religion = catholic
+		size = 2800
+	}
+	
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dixie
+		religion = protestant
+		size = 250
+	}
+
+	officers = {
+		culture = dixie
+		religion = protestant
+		size = 175
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 275
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 1650
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 35950
+	}
+
+	clergymen = {
+		culture = afro_anglic
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = afro_anglic
+		religion = protestant
+		size = 450
+	}
+
+	farmers = {
+		culture = afro_anglic
+		religion = protestant
+		size = 100
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Florida Region (88000)
 #ruled by the USA
 #Tallahassee (32000/8000 POPS)
 198 = {
 	aristocrats = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 25
 	}
 
 	officers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 175
 	}
 
 	soldiers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 3550
 	}
 
 	clergymen = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 80
 	}
 
 	farmers = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 3900
 	}
@@ -7843,55 +6769,55 @@
 #St Augustine (48000/12000 POPS)
 199 = {
 	aristocrats = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 5
 	}
 
 	artisans = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 125
 	}
 	
 	aristocrats = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 325
 	}
 
 	soldiers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = floridian
+		culture = caribeno
 		religion = catholic
 		size = 7350
 	}
@@ -7903,19 +6829,19 @@
 	}
 
 	artisans = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 80
 	}
 
 	farmers = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_anglic
+		culture = afro_caribeno
 		religion = catholic
 		size = 3900
 	}

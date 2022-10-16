@@ -1,5 +1,5 @@
-owner = MIN
-controller = MIN
+owner = SPC
+controller = SPC
 add_core = PHL
 trade_goods = iron
 life_rating = 35

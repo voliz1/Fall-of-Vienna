@@ -1,0 +1,760 @@
+#Louisiana Region
+#ruled by USA in 1836
+#New Orleans (128000/32000 POPS)
+139 = {
+    aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 2000
+	}
+
+	craftsmen = {
+		culture = cajun
+		religion = protestant
+		size = 5200
+	}
+	
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 500
+	}
+
+	officers = {
+		culture = cajun
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 850
+	}
+
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 31000
+	}
+
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1500
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 60000
+	}
+
+	clergymen = {
+		culture = afro_antillean
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = protestant
+		size = 1650
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 1325
+	}
+}
+#Baton Rouge (72000/18000 POPS)
+140 = {
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 550
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 250
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 3900
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 32500
+	}
+
+	officers = {
+		culture = cajun
+		religion = protestant
+		size = 210
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 300
+	}
+
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 4500
+	}
+
+	clergymen = {
+		culture = afro_antillean
+		religion = protestant
+		size = 15
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 9900
+	}
+}
+
+3277 = {
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 50
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1269
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 8250
+	}
+
+	officers = {
+		culture = cajun
+		religion = protestant
+		size = 45
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 175
+	}
+
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 4430
+	}
+
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 50
+	}
+
+	officers = {
+		culture = cajun
+		religion = protestant
+		size = 30
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 2470
+	}
+
+	clergymen = {
+		culture = afro_antillean
+		religion = protestant
+		size = 15
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 9850
+	}
+}
+
+#Lake Charles (36000/9000 POPS)
+141 = {
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 200
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 130
+	}
+
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 3300
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 3700
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 28000
+	}
+	
+	clergymen = {
+		culture = afro_antillean
+		religion = protestant
+		size = 20
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 6500
+	}
+}
+#Shreveport 
+142 = {
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 800
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 2400
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 33000
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1200
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 41000
+	}
+
+	clergymen = {
+		culture = afro_antillean
+		religion = protestant
+		size = 60
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = protestant
+		size = 400
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 2000
+	}
+}
+#Arkansas Region (88000)
+#ruled by USA in 1836
+#Little Rock (56000/14000 POPS)
+143 = {
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 600
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 7800
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 4200
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 54000
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 300
+	}
+
+	officers = {
+		culture = cajun
+		religion = protestant
+		size = 75
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 300
+	}
+
+	clergymen = {
+		culture = afro_antillean
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = protestant
+		size = 135
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = protestant
+		size = 3800
+	}
+}
+#Hot Springs (16000/4000 POPS)
+144 = {
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 125
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 210
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 6000
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 3250
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 31000
+	}
+}
+#Fayetteville (16000/4000 POPS)
+145 = {
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 150
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 4800
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 2640
+	}
+
+	labourers = {
+		culture = cajun
+		religion = protestant
+		size = 24000
+	}
+}
+#Missouri Region (365000)
+#ruled by USA in 1836
+#Saint Louis (188000/47000 POPS)
+146 = {
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 4500
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 300
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1750
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 56700
+	}
+	
+	clergymen = {
+		culture = yankee
+		religion = catholic
+		size = 510
+	}
+
+	aristocrats = {
+		culture = dixie
+		religion = catholic
+		size = 10
+	}
+}
+#Joplin (25000/5000 POPS)
+147 = {
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = dixie
+		religion = protestant
+		size = 200
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 4800
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1000
+	}
+
+	labourers = {
+		culture = cajun
+		religion = protestant
+		size = 26000
+	}
+}
+#Malden (40000/10000 POPS)
+148 = {
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 50
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 380
+	}
+
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 2550
+	}
+
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 450
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 54400
+	}
+}
+#Jefferson City (56000/14000 POPS)
+149 = {
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 250
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 5100
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 2800
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 41000
+	}
+
+	officers = {
+		culture = cajun
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 400
+	}
+
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 200
+	}
+}
+#Kansas City
+150 = {
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 23000
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 3100
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 1650
+	}
+	
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 170
+	}
+
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 80
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 100
+	}
+}
+
+#Vicksburg (100000/25000 POPS)
+193 = {
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 85
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 250
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 7500
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 3300
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 34000
+	}
+}
+
+#Memphis (128000/32000 POPS)
+189 = {
+	aristocrats = {
+		culture = cajun
+		religion = protestant
+		size = 60
+	}
+
+	bureaucrats = {
+		culture = cajun
+		religion = protestant
+		size = 120
+	}
+
+	clergymen = {
+		culture = cajun
+		religion = protestant
+		size = 220
+	}
+	
+	artisans = {
+		culture = cajun
+		religion = protestant
+		size = 7300
+	}
+	
+	soldiers = {
+		culture = cajun
+		religion = protestant
+		size = 3050
+	}
+
+	farmers = {
+		culture = cajun
+		religion = protestant
+		size = 30500
+	}
+}

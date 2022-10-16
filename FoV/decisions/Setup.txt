@@ -1911,10 +1911,16 @@ political_decisions = {
 				consciousness = -10
 			}
 			any_pop = {
+				limit = { has_pop_culture = mexican }
 				militancy = 1
 				consciousness = 2
 			}
-			any_pop = { limit = { has_pop_culture = mexican } reduce_pop = 2.5 } any_pop = { limit = { OR = { has_pop_culture = nahua has_pop_culture = native_american_minor has_pop_culture = mayan } } reduce_pop = 1.5 }
+			any_pop = {
+				limit = { has_pop_culture = central_american }
+				militancy = 3
+				consciousness = 4
+			}
+			any_pop = { limit = { has_pop_culture = mexican } reduce_pop = 2.45 } any_pop = { limit = { OR = { has_pop_culture = nahua has_pop_culture = native_american_minor has_pop_culture = mayan } } reduce_pop = 1.4 }
 			MEX_2172 = { any_pop = { limit = { has_pop_culture = mexican } reduce_pop = 0.5 } any_pop = { limit = { OR = { has_pop_culture = nahua has_pop_culture = native_american_minor has_pop_culture = mayan } } reduce_pop = 0.25 } }
 			MEX_2170 = { any_pop = { limit = { has_pop_culture = mexican } reduce_pop = 0.5 } any_pop = { limit = { OR = { has_pop_culture = nahua has_pop_culture = native_american_minor has_pop_culture = mayan } } reduce_pop = 0.25 } }
 			MEX_2161 = { any_pop = { limit = { has_pop_culture = mexican } reduce_pop = 0.5 } any_pop = { limit = { OR = { has_pop_culture = nahua has_pop_culture = native_american_minor has_pop_culture = mayan } } reduce_pop = 0.25 } }
@@ -2400,8 +2406,8 @@ political_decisions = {
 					ideology = { value = reactionary factor = 0.4 }
 				}
 				aristocrats = { ideology = { value = reactionary factor = 0.4 } }
-				add_country_modifier = { name = uncivilized_isolationism duration = -1 }
-				add_country_modifier = { name = sakoku duration = -1 }
+				#add_country_modifier = { name = uncivilized_isolationism duration = -1 }
+				#add_country_modifier = { name = sakoku duration = -1 }
 				add_country_modifier = { name = global_baby_boom_small duration = 3650 }
 				random_owned = {
 					limit = { owner = { foreign_naval_officers = yes_foreign_naval_officers } }

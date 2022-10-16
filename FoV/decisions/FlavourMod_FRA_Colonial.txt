@@ -359,7 +359,7 @@ political_decisions = {
 			random_owned = {
 				limit = { owner = { has_country_flag = quebec_and_acadia_only } }
 				USA = { all_core = { remove_core = ACA } } #Removes Acadian Cores from the US
-				ULA = { all_core = { remove_core = ULA } }
+				#ULA = { all_core = { remove_core = ULA } }
 				owner = { badboy = -5 } #Reduces your infamy for dropping the rest of your claims
 				46 = { state_scope = { change_region_name = "Southern Ontario" } }
 				QUE = { all_core = { remove_core = ENG remove_core = THIS remove_core = RPL remove_core = CAN remove_core = NEW } }

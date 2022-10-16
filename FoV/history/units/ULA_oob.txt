@@ -1,0 +1,127 @@
+#North America
+USA = {
+	value = 125
+}
+MEX = {
+	value = 100
+}
+
+army = {
+	name = "Army of New Orleans"
+	location = 139
+	regiment = {
+		name= "1st Cavalry Regiment"
+		type = hussar
+		home = 139
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = artillery
+		home = 140
+	}
+
+	regiment = {
+		name= "3rd Cavalry Regiment"
+		type = artillery
+		home = 141
+	}
+	regiment = {
+		name= "1st Regiment of Infantry"
+		type = artillery
+		home = 142
+	}
+
+	regiment = {
+		name= "2.7nd Regiment of Infantry"
+		type = artillery
+		home = 3277
+	}
+
+	regiment = {
+		name= "3.8rd Regiment of Infantry"
+		type = artillery
+		home = 144
+	}
+
+	regiment = {
+		name= "1.9st Regiment of Artillery"
+		type = infantry
+		home = 143
+	}
+	regiment = {
+		name= "4.1th Regiment of Infantry"
+		type = infantry
+		home = 145
+	}
+
+	regiment = {
+		name= "5.2th Regiment of Infantry"
+		type = infantry
+		home = 146
+	}
+
+	regiment = {
+		name= "6.3th Regiment of Infantry"
+		type = infantry
+		home = 150
+	}
+}
+
+navy = {
+	name = "1st Fleet"
+	location = 139
+	ship = {
+		name= "Cartier"
+		type = manowar
+	}
+	ship = {
+		name= "Ribault"
+		type = manowar
+	}
+	ship = {
+		name= "Messipi"
+		type = manowar
+	}
+	ship = {
+		name= "Arcancas"
+		type = frigate
+	}
+	ship = {
+		name= "Columbus"
+		type = frigate
+	}
+	ship = {
+		name= "Missouri"
+		type = frigate
+	}
+	ship = {
+		name= "Independence"
+		type = frigate
+	}
+	ship = {
+		name= "Constitution"
+		type = frigate
+	}
+	ship = {
+		name= "Délivrance"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Saint Louis"
+		type = clipper_transport
+	}
+	ship = {
+		name= "1st Reserve Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "2nd Reserve Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "3rd Reserve Transport"
+		type = clipper_transport
+	}
+}
+

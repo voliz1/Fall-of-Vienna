@@ -1,1 +1,10 @@
-owner = SPCcontroller = SPCadd_core = FLDtrade_goods = fruitlife_rating = 35colonial = 2naval_base = 1party_loyalty = {	ideology = conservative	loyalty_value = 15}1861.1.1 = {	colonial = 0	controller = CSA	owner = CSA	add_core = CSA}
+owner = SPC
+controller = SPC
+add_core = FLD
+add_core = USA
+add_core = MEX
+trade_goods = fruit
+life_rating = 35
+colonial = 2
+naval_base = 1
+

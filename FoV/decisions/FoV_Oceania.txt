@@ -4,17 +4,24 @@ political_decisions = {
 		potential = {
 			THIS = {
 				capital_scope = {
-					continent = europe
+					OR = {
+						continent = europe
+						continent = asia
+						continent = africa
+					}
 				}
-				owns = 2512
-				owns = 2515
+				OR = {
+					owns = 2512
+					owns = 2515
+				}
 			}
 			NOT = {
 				has_global_flag = new_zealand_organised
 			}
 		}
 		allow = {
-			
+			owns = 2512
+			owns = 2515
 		}
 		effect = {
 			set_global_flag = new_zealand_organised

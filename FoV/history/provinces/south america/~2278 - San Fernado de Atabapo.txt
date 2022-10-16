@@ -1,4 +1,0 @@
-owner = CLMcontroller = CLM
-add_core = CLM
-trade_goods = fruit
-life_rating = 20

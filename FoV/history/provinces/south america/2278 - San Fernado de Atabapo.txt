@@ -1,5 +1,6 @@
-owner = CLM\
+owner = CLM
 controller = CLM
 add_core = CLM
+add_core = GUY
 trade_goods = fruit
 life_rating = 20

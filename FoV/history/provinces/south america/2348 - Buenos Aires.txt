@@ -2,6 +2,6 @@ owner = ARG
 controller = ARG
 add_core = ARG
 trade_goods = cattle
-life_rating = 35
+life_rating = 37
 terrain = buenosaires
 naval_base = 1

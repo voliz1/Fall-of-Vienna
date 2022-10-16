@@ -1,7 +1,8 @@
 color = {
     166 72 57
 }
-graphical_culture = Generic
+graphical_culture = SpanishGC
+
 
 party = {
     name = "SPA_conservative_3" # Monarchists

@@ -918,7 +918,7 @@ political_decisions = {
 			prestige = 2
 			625 = {
 				change_province_name = "Praha"
-				state_scope = { change_region_name = "Cechy-Morava" }
+				state_scope = { change_region_name = "Cechy" }
 			}
 			626 = { change_province_name = "Hradec Králové" }
 			631 = { change_province_name = "Brno" }
@@ -945,7 +945,7 @@ political_decisions = {
 			clr_global_flag = bohemia_rename_czh
 			625 = {
 				change_province_name = "Prag"
-				state_scope = { change_region_name = "Böhmen-Mähren" }
+				state_scope = { change_region_name = "Böhmen" }
 			}
 			626 = { change_province_name = "Königgrätz" }
 			631 = { change_province_name = "Brünn" }
@@ -980,7 +980,7 @@ political_decisions = {
 			prestige = 2
 			627 = {
 				change_province_name = "Karlovy Vary"
-				state_scope = { change_region_name = "Sudety" }
+				#state_scope = { change_region_name = "Sudety" }
 			}
 			628 = { change_province_name = "Ústí nad Labem" }
 			629 = { change_province_name = "Plzen" }
@@ -1013,7 +1013,7 @@ political_decisions = {
 			clr_global_flag = sudetes_rename_czh
 			627 = {
 				change_province_name = "Karlsbad"
-				state_scope = { change_region_name = "Sudetenland" }
+				#state_scope = { change_region_name = "Sudetenland" }
 			}
 			628 = { change_province_name = "Aussig" }
 			629 = { change_province_name = "Pilsen" }
@@ -1348,10 +1348,9 @@ political_decisions = {
 					province_id = 689
 				}
 				689 = { 
-					change_province_name = "Teschen" 
-					state_scope = { change_region_name = "Schlesien" }
+					change_province_name = "Teschen"
 				}
-				2584 = { change_province_name = "Bielitz"  }
+				#2584 = { change_province_name = "Bielitz"  }
 				owner = { 
 					set_global_flag = austrian_silesia_rename_german 
 					clr_global_flag = austrian_silesia_rename_polish

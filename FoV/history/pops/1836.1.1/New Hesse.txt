@@ -1,0 +1,399 @@
+#Guyana (99600)
+#Ruled by Britain 1836
+#Georgetown (58600/14650 POPS)
+2239 = {
+	aristocrats = {
+		culture = new_hessian
+		religion = protestant
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = new_hessian
+		religion = protestant
+		size = 600
+	}
+
+	clergymen = {
+		culture = new_hessian
+		religion = protestant
+		size = 500
+	}
+
+	artisans = {
+		culture = new_hessian
+		religion = protestant
+		size = 1000
+	}
+
+	soldiers = {
+		culture = new_hessian
+		religion = protestant
+		size = 3000
+	}
+
+	farmers = {
+		culture = new_hessian
+		religion = protestant
+		size = 12000
+	}
+
+	clergymen = {
+		culture = afro_germanic
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = afro_germanic
+		religion = protestant
+		size = 700
+	}
+
+	soldiers = {
+		culture = afro_germanic
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = afro_germanic
+		religion = protestant
+		size = 13075
+	}
+}
+#Mahdia (4000/1000 POPS)
+2242 = {
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 900
+	}
+}
+#Essequeast_kwa (33000/8250 POPS)
+2243 = {
+	aristocrats = {
+		culture = north_andean
+		religion = protestant
+		size = 50
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = protestant
+		size = 50
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = protestant
+		size = 300
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = protestant
+		size = 75
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = protestant
+		size = 8550
+	}
+}
+#Biloka (4000/1000 POPS)
+1979 = {
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 900
+	}
+}
+
+#Surinam : 56640
+#Ruled by The Netherlands 1836
+#Paramaribo (48640/12160 POPS)
+2240 = {
+	aristocrats = {
+		culture = new_hessian
+		religion = protestant
+		size = 300
+	}
+
+	bureaucrats = {
+		culture = new_hessian
+		religion = protestant
+		size = 240
+	}
+
+	artisans = {
+		culture = new_hessian
+		religion = protestant
+		size = 400
+	}
+
+	soldiers = {
+		culture = new_hessian
+		religion = protestant
+		size = 3000
+	}
+
+	clergymen = {
+		culture = afro_germanic
+		religion = protestant
+		size = 500
+	}
+
+	artisans = {
+		culture = afro_germanic
+		religion = protestant
+		size = 4000
+	}
+
+	farmers = {
+		culture = afro_germanic
+		religion = protestant
+		size = 14000
+	}
+
+	soldiers = {
+		culture = afro_germanic
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_germanic
+		religion = animist
+		size = 9000
+	}
+}
+#Aperina (8000/2000 POPS)
+2245 = {
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1750
+	}
+}
+
+#new_hessian Guiana (20000)
+#Ruled by France 1836
+#Cayenne (17000/4250 POPS)
+2241 = {
+	aristocrats = {
+		culture = new_hessian
+		religion = protestant
+		size = 300
+	}
+
+	bureaucrats = {
+		culture = new_hessian
+		religion = protestant
+		size = 400
+	}
+
+	clergymen = {
+		culture = new_hessian
+		religion = protestant
+		size = 500
+	}
+
+	artisans = {
+		culture = new_hessian
+		religion = protestant
+		size = 1200
+	}
+
+	soldiers = {
+		culture = new_hessian
+		religion = protestant
+		size = 1000
+	}
+
+	labourers = {
+		culture = new_hessian
+		religion = protestant
+		size = 12000
+	}
+
+	artisans = {
+		culture = afro_germanic
+		religion = protestant
+		size = 300
+	}
+
+	clergymen = {
+		culture = afro_germanic
+		religion = protestant
+		size = 50
+	}
+
+	labourers = {
+		culture = afro_germanic
+		religion = protestant
+		size = 6100
+	}
+
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 5
+	}
+
+	labourers = {
+		culture = amazonian
+		religion = animist
+		size = 230
+	}
+}
+#Maripasoula (3000/750 POPS)
+2246 = {
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 35
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 680
+	}
+
+}
+
+

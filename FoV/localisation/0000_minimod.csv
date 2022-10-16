@@ -1,32 +1,31 @@
-;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-welsh;Welsh;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-scottish;Scottish;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-wallonian;Walloon;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-montenegrin;Montenegrin;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-faroese;Faroese;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-galician;Galician;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-volga_german;Eastern German;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-arpitan;Arpitan;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-leonese;Leonese;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-hanhui;Hui;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-siebenburger;Transylvanian-Saxon;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-jerriais;Jerriais;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-anglo_canadian;Anglo-Canadian;Anglo-canadien;Anglokanadisch;;Anglocanadiense;;;;;;;;;x;;;;,,,,,,,,,,,,,,,,,,,,,,
-french_canadian;French-Canadien;Franco-canadien;Frankokanadisch;;Franco-canadiense;;;;;;;;;x;;;;,,,,,,,,,,,,,,,,,,,,,,
-anglo_indian;Anglo-Indian;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-british;English;Britannique;Britisch;;Britå«•ica;;;;;;;;;x;;;;,,,,,,,,,,,,,,,,,,,,,,
-pan_french_nationalism;Pan-French Nationalism;;;;;;;;;x;;;;,,,,,,,,,,,,,,,,,,,,,,
-vassal_interactions_title;Open Vassal Interactions Menu;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-vassal_interactions_desc;This decision fires an event which will allow you to free or return cores to your vassals.;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-floridian;Floridian;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-rhinelander;Rhine German;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-french_australian;Austral;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-mulatto;Mulatto;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-australian;Australian;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-GC_NAME;Fall of Vienna;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-GC_DESC;The final gunfire has echoed out into the great beyond in the great lands of Germany, where the ideals of the German Revolution were believed to have met their final demise at the hands of the Alte Koalition of Europe. The Congress of Munich established a consensus that restored a tentative calm to a troubled continent. While the flames of revolution may have been put out for now, the ideas of human liberty, nationalism, and liberalism will soon prove themselves more alive than ever. In the Americas, young powers rise to determine the destiny of the Western Hemisphere. In Asia, countries are reinventing themselves in the face of Christian domination. Most people in southeastern Europe remain under the rule of the Ottomans, who once caused the fall of Vienna…;;;;;;;;;;;;;x,,,,,,,,,,,,,,,
-REMOVE_GC_DESC;The dust has settled on the fields of Waterloo, where the ideals of the French Revolution were believed to have met their final demise at the hands of the Ancien Régimes of Europe. After the tribulations of Napoleon's wars, the consensus established at the Congress of Vienna has restored a tentative calm to a troubled continent. While the flames of revolution may have been put out for now, the ideas of human liberty, nationalism and liberalism will soon prove themselves more alive than ever. In the Americas, those same ideas threaten to plunge a young republic into the devastation of a civil war. Princess Victoria is 16 years old, and will soon ascend to the throne of Great Britain, the greatest industrial empire ever to span the globe. Her acension, to a long and prosperous reign, marks the beginning of an age that is to last all the way up until the First World War. In this new era of unprecedented technological progress, doubts will be cast on certainties that have stood since time immemorial, and new dogmas will rise in their place. Far away, across the briny foam, the riches of Asia and Africa, and The Heart of Darkness, beckon that their songs may also be heard, in the Concert of Europe. Maestro, choose your instrument, and let the music play.;;Prinzessin Victoria ist 16 Jahre alt und wird bald den Thron Großbritanniens besteigen. Seit Äonen feststehende Konzepte sind dabei, zu kollabieren, und eine neue Ordnung wird an ihrer Stelle aus der Asche steigen. Eine industrielle Revolution hat schon begonnen, mit sozialen und ökonomischen Umwälzungen, die der Kriegsführung neue Schrecken und Barbareien anfügen werden;;;;;;;;;;;
-form_china_title;Form China;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-form_china_desc;China is united again under one country. Let us formalise this state of affairs and cement ourselves as the one government of China.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-spanish;Castillian;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-afro_anglic;Afro Anglic;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+;;;;;;;;;;;;;x
+welsh;Welsh;;;;;;;;;;;;;x
+scottish;Scottish;;;;;;;;;;;;;x
+wallonian;Walloon;;;;;;;;;;;;x
+montenegrin;Montenegrin;;;;;;;;;;;;;x
+faroese;Faroese;;;;;;;;;;;;;x
+galician;Galician;;;;;;;;;;;;;x
+volga_german;Eastern German;;;;;;;;;;;;;x
+arpitan;Arpitan;;;;;;;;;;;;;x
+leonese;Leonese;;;;;;;;;;;;;x
+hanhui;Hui;;;;;;;;;;;;;x
+siebenburger;Transylvanian-Saxon;;;;;;;;;;;;;x
+jerriais;Jerriais;;;;;;;;;;;;;x
+anglo_canadian;Anglo-Canadian;Anglo-canadien;Anglokanadisch;;Anglocanadiense;;;;;;;;;x;;;;
+french_canadian;French-Canadien;Franco-canadien;Frankokanadisch;;Franco-canadiense;;;;;;;;;x;;;;
+anglo_indian;Anglo-Indian;;;;;;;;;;;;;x
+british;English;Britannique;Britisch;;Britå«•ica;;;;;;;;;x;;;;
+pan_french_nationalism;Pan-French Nationalism;;;;;;;;;x;;;;
+vassal_interactions_title;Open Vassal Interactions Menu;;;;;;;;;;;;;
+vassal_interactions_desc;This decision fires an event which will allow you to free or return cores to your vassals.;;;;;;;;;;;;;
+floridian;Floridian;;;;;;;;;;;;;x
+rhinelander;Rhine German;;;;;;;;;;;;;x
+french_australian;Austral;;;;;;;;;;;;;x
+mulatto;Mulatto;;;;;;;;;;;;;x
+australian;Australian;;;;;;;;;;;;;x
+form_china_title;Form China;;;;;;;;;;;;;x
+form_china_desc;China is united again under one country. Let us formalise this state of affairs and cement ourselves as the one government of China.;;;;;;;;;;;;;x
+spanish;Castillian;;;;;;;;;;;;;x
+afro_anglic;Afro Anglic;;;;;;;;;;;;;x
+new_hessian;New-Hessian;x
+afro_germanic;Afro Germanic;;;;;;;;;;;;;x

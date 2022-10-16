@@ -1,5 +1,6 @@
 owner = CLM
 controller = SPC
 add_core = CLM
+add_core = GUY
 trade_goods = fish
 life_rating = 32

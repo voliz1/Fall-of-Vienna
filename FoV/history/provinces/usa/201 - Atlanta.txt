@@ -2,7 +2,7 @@ owner = USA
 controller = USA
 add_core = USA
 trade_goods = cotton
-life_rating = 35
+life_rating = 37
 terrain = atlanta
 is_slave = no
 

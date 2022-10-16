@@ -2,9 +2,6 @@ owner = BRN
 controller = BRN
 add_core = BRN
 add_core = GER
-add_core = SLS
-add_core = POL
 add_core = PLC
 trade_goods = coal
 life_rating = 40
-1861.1.1 = { railroad = 3 }

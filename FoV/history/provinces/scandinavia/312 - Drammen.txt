@@ -1,7 +1,6 @@
 owner = SWE
 controller = SWE
 add_core = SWE
-add_core = DEN
 add_core = NOR
 trade_goods = precious_metal
 naval_base = 1
