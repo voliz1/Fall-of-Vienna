@@ -1,10 +1,9 @@
-owner = SPC
-controller = SPC
-add_core = FLD
-add_core = USA
+owner = FLD
+controller = FLD
+add_core = FLD
 add_core = MEX
 trade_goods = fruit
 life_rating = 35
-colonial = 2
+is_slave = yes
 naval_base = 1
 

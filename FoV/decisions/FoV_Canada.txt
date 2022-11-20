@@ -1,0 +1,25 @@
+political_decisions = {
+	become_canada = {
+		picture = bigben
+		potential = {
+			OR = {
+				tag = CCC
+			}
+			NOT = { exists = CAN }
+		}
+		allow = {
+			state_n_government = 1
+			romanticism = 1
+		}
+		effect = {
+			prestige = 20
+			all_core = {
+				remove_core = THIS
+				add_core = CAN
+			}
+			change_tag = CAN
+			remove_country_modifier = early_canada
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

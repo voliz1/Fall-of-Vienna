@@ -75,7 +75,7 @@ PBC		= "countries/Peru-Bolivia Confederation.txt"
 ####################
 
 ### FoV: Oceania ###
-NSC 	= "countries/New Sweden.txt"
+NSC 	= "countries/New Scania.txt"
 NZF		= "countries/French New Zealand.txt"	#unused
 FAS		= "countries/French Australia.txt"		#"Australie"
 AST		= "countries/Australia.txt"
@@ -88,13 +88,15 @@ AOT     = "countries/Aotearoa.txt"
 RPL		= "countries/Rupert's Land.txt"			#DO NOT REMOVE
 QUE		= "countries/Quebec.txt"
 CAN		= "countries/Canada.txt"
+NSV     = "countries/New Sweden.txt"
+CCC     = "countries/Crown Colonies of Canada.txt"
 COL		= "countries/Columbia.txt"				#British Columbia
 USA		= "countries/USA.txt"
 CSA		= "countries/CSA.txt"
 ULA		= "countries/Louisiana.txt"
 MEX		= "countries/Mexico.txt"
 FLD 	= "countries/Florida.txt"
-
+NAF     = "countries/New Africa.txt"
 
 
 ### FoV: China ###

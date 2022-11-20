@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = CCC
+controller = CCC
+add_core = CCC
 trade_goods = grain
 life_rating = 30
-colonial = 2

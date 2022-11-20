@@ -2,6 +2,10 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
+early_canada = {
+	icon = 7
+}
+
 french_liberal_school = {
 	max_tariff = -0.25
 	administrative_efficiency_modifier = 0.2
@@ -2682,6 +2686,7 @@ neutrality = {
 	global_immigrant_attract = 0.2
 	icon = 7
 }
+
 
 ### NV Changes ###
 national_confusion = {

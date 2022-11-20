@@ -1,7 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = ACA
-add_core = MRU
+owner = CCC
+controller = CCC
+add_core = NSV
 trade_goods = fish
 life_rating = 30
-colonial = 2

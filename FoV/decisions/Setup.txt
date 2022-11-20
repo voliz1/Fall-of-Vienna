@@ -1641,6 +1641,21 @@ political_decisions = {
 			any_pop = { limit = { has_pop_culture = french } literacy = 0.4 }
 		}
 	}
+
+
+	CCC_1836_setup = {
+		picture = constantinople
+		potential = {
+			tag = CCC
+			always = no
+		}
+		allow = {
+			tag = CCC
+		}
+		effect = {
+			add_country_modifier = { name = early_canada duration = -1 }
+		}
+	}
 	
 	USA_1836_setup = {
 		picture = constantinople

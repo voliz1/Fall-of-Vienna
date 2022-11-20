@@ -1297,6 +1297,12 @@ province_event = {
 			has_province_modifier = national_assimilation
 			has_province_modifier = nationalist_agitation
 		}
+		NOT = {
+			OR = {
+				continent = north_america
+				continent = south_america
+			}
+		}
 		OR = {
 			is_primary_culture = yes
 			is_accepted_culture = yes

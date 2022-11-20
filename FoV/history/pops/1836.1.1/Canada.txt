@@ -2571,120 +2571,79 @@
 #Fredericton (84000/21000 POPS)
 68 = {
 	bureaucrats = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 75
 	}
 
 	clergymen = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
-		size = 275
+		size = 425
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
-		size = 750
+		size = 1100
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
-		size = 150
+		size = 250
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
-		size = 17000
-	}
-
-	clergymen = {
-		culture = french_canadian
-		religion = catholic
-		size = 150
-	}
-
-	artisans = {
-		culture = french_canadian
-		religion = catholic
-		size = 350
-	}
-
-	soldiers = {
-		culture = french_canadian
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = french_canadian
-		religion = catholic
-		size = 10650
+		size = 27650
 	}
 }
 #Bathurst (64000/16000 POPS)
 69 = {
-
 	artisans = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
-		size = 491
+		size = 554
 	}
-	artisans = {
-		culture = french_canadian
-		religion = catholic
-		size = 63
-	}
+
 	clergymen = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 30
-
 	}
+
 	farmers = {
-		culture = french_canadian
+		culture = swedish_canadian
 		religion = catholic
-		size = 4660
+		size = 8214
 	}
-	farmers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 1053
-
-	}
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 2501
-	}
-
 }
 #Prince Edward Island Region : 32000
 #Ruled by Britain 1836
 #Prince Edward Island (32000/8000 POPS)
 70 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 1500
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 6350
 	}
@@ -2694,42 +2653,48 @@
 #Halifax (83000/20750 POPS)
 71 = {
 	bureaucrats = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
+		culture = swedish_canadian
+		religion = protestant
+		size = 3100
+	}
+
+	artisans = {
 		culture = anglo_canadian
 		religion = protestant
-		size = 4000
+		size = 900
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 14600
 	}
 
-	labourers = {
-		culture = french_canadian
+	farmers = {
+		culture = anglo_canadian
 		religion = catholic
 		size = 1100
 	}
 
-	labourers = {
+	farmers = {
 		culture = afro_anglic
 		religion = protestant
 		size = 750
@@ -2738,57 +2703,51 @@
 #Truro (44000/11000 POPS)
 72 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
-		size = 9075
-	}
-
-	labourers = {
-		culture = french_canadian
-		religion = catholic
-		size = 1100
+		size = 10175
 	}
 }
 #Cape Breton Island (20000/5000 POPS)
 73 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = swedish_canadian
 		religion = protestant
 		size = 4650
 	}

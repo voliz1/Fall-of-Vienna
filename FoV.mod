@@ -1,4 +1,4 @@
-name = "Fall of Vienna"
+name = "Fall of Vienna Alpha"
 path = "mod/FoV"
 user_dir = "FoV"
 replace_path = "history/provinces"

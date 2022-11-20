@@ -2049,6 +2049,23 @@ native_american = {
 	}
 }
 
+neo_scandinavian_cultures = {
+	leader = european
+	unit = SwedishGC
+	swedish_canadian = { 
+		color = { 80 100 240 }
+		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
+		Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
+		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
+		Nils Olof Oscar Per Rudolf Sten Theodor Verner Viktor Vilhelm }
+		
+		last_names = { Abelin Bernardotte Bildt Björnstjerna Brahe Brakenhielm Breitholtz Chrsiterson Crusebjörn Dyrssen
+		Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman Mörner Nordenskiöld "Palanger af Vega"
+		Palmstierna Peyron Rappe Reuterskiöld Rosensvärd Ryding Sprengtportem Ström Taube Tawast
+		Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
+	}
+}
+
 anglo_american_cultures = {
 	leader = european
 	is_overseas = no
@@ -2083,6 +2100,17 @@ anglo_american_cultures = {
 		Pender Trimble Kershaw Wofford Kemper Law Robertson Benning Hays Walker Iverson Wilcox Mahone Wright Pettigrew Archer 
 		Davis Lane Posey Scales Warner Imboden Jenkins
 		}
+	}
+	floridan = {
+		color = {153 0 0}
+		primary = FLD
+        first_names = {Hamilton Matthew Richard Hiram Thomas Elkanah John William James Albert Wilburn Walter Hinchie Samuel Benjamin
+        Henry Allison Horace Felix Jerome Lawrence Alexander Louis
+        }
+        last_names = {Bee Ector Gano Granbury Green Greer Gregg Hardeman Harrison Hood Johnston King Lane Mabry Maxey McCulloch Moore
+        Nelson Randal Robertson Ross Rosser Scurry Steele Terrell Waterhouse Waul Wharton Whitfield Wigfall Young Bowie Travis Houston
+        }
+        radicalism = 10
 	}
 	#texan = {
 	#	color = {153 0 0}
@@ -2314,25 +2342,6 @@ latin_american_cultures = {
 		Juárez Justo Latorre López Machaín Maza Meza Mitre Paz Pedernera
 		Pellegrini Pereira Quintana Rivarola Rivera Roca "Rodríguez de Francia" Rojas Rondeau Sáenz
 		Santos Sarmineto Solano Tajes Uriburu Viamonte Vidal Williman Wisner Yrigoyen
-		}
-	}
-	floridian = {
-		color = {237 223 97}
-		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
-		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
-		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
-		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
-		Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente 
-		}
-		last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
-		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
-		"de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco 
-		García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López 
-		Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
-		Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz 
-		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe 
 		}
 	}
 	brazilian = {

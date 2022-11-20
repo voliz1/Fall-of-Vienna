@@ -30,9 +30,11 @@ CAN_58 = { 58 65 62 61 63 64 66 67 } #Southern Quebec
 
 CAN_60 = { 9 59 2593 2626 2592 } #Northern Quebec
 
-ENG_68 = { 68 69 70 71 72 73 } #Maritimes
+ENG_68 = { 70 71 72 73 } #New Brunswick
 
 ENG_74 = { 74 75 76 77 2625 } #Newfoundland
+
+CCC_68 = { 68 69 248 249 250 } # New Finland
 
 
 ### United States (east of Mississippi River)
@@ -55,11 +57,11 @@ USA_194 = {  } #Mississippi
 
 USA_196 = { 195 196 192 } #Alabama
 
-USA_200 = { 200 199 } #East Florida
+USA_200 = { 194 197 198 200 199 } #Lower Florida
 
-USA_3278 = { 3278 3279 3280 } #Upper West Florida
+USA_3278 = { 3278 3279 3280 } #Adams
 
-USA_140 = { 197 194 198 } #Lower West Florida
+USA_140 = { } #Lower West Florida
 
 USA_201 = { 201 202 204 2555 } #Georgia
 
@@ -67,9 +69,9 @@ USA_205 = { 205 206 } #South Carolina
 
 USA_2556 = { 209 207 208 210 2556 } #North Carolina
 
-USA_211 = { 60 211 212 213 214 215 216 218 217 } #Virginia
+USA_211 = { 60 211 212 213 214 215 216 } #Virginia
 
-USA_218 = {  } #West Virginia
+USA_218 = { 217 218 } #West Virginia
 
 USA_219 = { 2146 220 219 222 221 } #Maryland
 
@@ -79,45 +81,32 @@ USA_231 = { 229 231 230 } #New Jersey
 
 USA_232 = { 232 233 234 235 236 237 238 239 240 } #New York
 
-USA_243 = { 243 244 245 241 242 } #Massachusets
-
-USA_247 = { 247 246 248 249 250 } #New England
+USA_243 = { 243 244 245 241 242 247 246 } #Massachusets
 
 
 ### West of Mississippi River
 
-USA_111 = { 116 113 115 114 } #Montana
-
-ULA_143 = { 143 144 189 193 } #Arkansas
-
-#USA_116 = { } #Montana
-#USA_118 = { } #North Dakota
-
-USA_121 = { 120 121 117 119 } #Dakota
-
-#USA_124 = { } #Nebraska
-#USA_126 = { } #Kansas
-#USA_129 = { } #Oklahoma
-
-TEX_135 = { 103 106 } #French Colorado
-
 USA_139 = { 139 141 142 3277 140 } #Louisiana
 
-USA_144 = {  } #Arkansas
+ULA_143 = { 143 144 189 193 } #Messipi
 
-ULA_130 = { 129 130 131 }
-
-ULA_126 = { 126 127 128 150 }
-
-ULA_122 = { 107 112 122 124 }
-
-ULA_123 = { 123 125 151 }
+ULA_130 = { 129 130 131 } # Arcansas
 
 USA_148 = { 145 146 148 147 149 } #Missouri
 
+ULA_126 = { 126 127 128 150 } #Kansas
+
+TEX_135 = { 103 106 107 } #Montagnes Roucheuses
+
 USA_151 = { 152 155 156 153 154 } #Iowa
 
-#USA_158 = { } #Minnesota
+ULA_123 = { 123 125 151 } #Nebrasga
+
+ULA_122 = { 112 122 124 } #Grande-Plaine
+
+USA_121 = { 120 121 117 119 } #Dakota
+
+USA_111 = { 116 113 115 114 } #Montana
 
 
 

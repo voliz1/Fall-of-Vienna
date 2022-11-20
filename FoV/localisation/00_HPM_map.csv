@@ -444,7 +444,7 @@ CAN_46;Upper Canada;;;;;;;;;;;;x
 CAN_50;Northern Ontario;;;;;;;;;;;;x
 CAN_58;Lower Canada;;;;;;;;;;;;x
 CAN_60;Northern Quebec;;;;;;;;;;;;x
-ENG_68;Maritimes;;;;;;;;;;;;x
+ENG_68;New Pomerania;x
 MEX_94;Nevada;;;;;;;;;;;;x
 USA_201;Georgia;;;;;;;;;;;;x
 USA_205;South Carolina;;;;;;;;;;;;x
@@ -701,7 +701,6 @@ CAN_46;Upper Canada;;;;;;;;;;;;x
 CAN_50;Northern Ontario;;;;;;;;;;;;x
 CAN_58;Lower Canada;;;;;;;;;;;;x
 CAN_60;Northern Quebec;;;;;;;;;;;;x
-ENG_68;Maritimes;;;;;;;;;;;;x
 MEX_94;Nevada;;;;;;;;;;;;x
 USA_201;Georgia;;;;;;;;;;;;x
 USA_205;South Carolina;;;;;;;;;;;;x
@@ -1016,7 +1015,7 @@ SOM_1872;Somaliland;;;;;;;;;;;x
 ENG_2025;Kambaland;;;;;;;;;;;x
 USA_78;Southern British Columbia;;;;;;;;;;;x
 ENG_118;New Salisbury;;;;;;;;;;;x
-USA_200;East Florida;;;;;;;;;;;x
+USA_200;Florida;x
 USA_140;Lower West Florida;;;;;;;;;;;x
 PROV140;Baton Rouge;x
 PROV197;Mobil;;;;;;;;;;;x
@@ -1047,7 +1046,7 @@ ULA_143;Messipi;x
 PROV3278;Hattiesburg;x
 PROV3279;Montgomery;x
 PROV3280;Dothan;x
-USA_3278;Upper West Florida;x
+USA_3278;Adams;x
 PROV195;Birmingham;x
 ULA_126;Kansas;x
 ULA_130;Arcansas;x

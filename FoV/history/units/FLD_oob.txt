@@ -12,25 +12,24 @@ leader = {
 
 
 army = {
-	name = "Army of Texas"
-	location = 133
+	name = "Army of Florida"
+	location = 199
 	regiment = {
 		name= "Travis' Command"
 		type = cuirassier
-		home = 133
+		home = 199
 	}
 
 	regiment = {
 		name= "Fannin's Command"
 		type = infantry
-		home = 132
+		home = 198
 	}
 	
 	regiment = {
 		name = "Burleson's Command"
 		type = artillery
-		home = 137
+		home = 197
 	}
-	
 }
 

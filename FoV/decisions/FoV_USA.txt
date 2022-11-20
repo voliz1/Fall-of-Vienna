@@ -6,7 +6,7 @@ political_decisions = {
 			exists = USA
 			USA = { government = democracy }
 			OR = {
-				tag = TEX
+				tag = FLD
 				tag = CAL
 				tag = LSK
 			}
@@ -18,22 +18,17 @@ political_decisions = {
 				part_of_sphere = no
 				in_sphere = USA
 			}
-			ai = yes
+			#ai = yes
 			government = democracy
 			NOT = { has_country_flag = usstatehood_we_have_applied }
 		}
 		allow = {
-			139 = { owned_by = USA }
 			war = no
 			USA = { war = no }
 			USA = { NOT = { average_militancy = 5 badboy = 0.7 } }
 			NOT = { truce_with = USA }
 			USA = { NOT = { any_owned_province = { any_core = { any_owned_province = { country_units_in_province = REB } } } } }
 			USA = { NOT = { num_of_revolts = 1 } }
-			relation = {
-				who = USA
-				value = 175
-			}
 		}
 		effect = {
 			set_country_flag = usstatehood_we_have_applied

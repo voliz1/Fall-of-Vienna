@@ -1,6 +1,7 @@
 owner = USA
 controller = USA
 add_core = USA
+add_core = NAF
 trade_goods = cotton
 life_rating = 35
 railroad = 1
@@ -12,13 +13,4 @@ party_loyalty = {
 party_loyalty = {
 	ideology = liberal
 	loyalty_value = 12
-}
-
-1861.1.1 = {
-	owner = CSA
-	controller = CSA
-	add_core = CSA
-}
-1861.1.1 = { 
-	railroad = 3 
 }
